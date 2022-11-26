@@ -1,0 +1,2079 @@
+CityName,CityCode,MSOAName,MSOACode,Value,LowerConfidenceInterval,UpperConfidenceInterval,Gender
+Birmingham,J01000007,Birmingham 008,E02001834,79.0,76.7,81.3,Male
+Birmingham,J01000007,Birmingham 008,E02001834,82.0,79.9,84.1,Female
+Birmingham,J01000007,Birmingham 011,E02001837,71.8,69.9,73.6,Male
+Birmingham,J01000007,Birmingham 011,E02001837,80.9,79.2,82.6,Female
+Birmingham,J01000007,Birmingham 013,E02001839,76.6,74.4,78.7,Male
+Birmingham,J01000007,Birmingham 013,E02001839,82.3,80.5,84.1,Female
+Birmingham,J01000007,Birmingham 014,E02001840,73.5,71.6,75.4,Male
+Birmingham,J01000007,Birmingham 014,E02001840,77.9,76.2,79.7,Female
+Birmingham,J01000007,Birmingham 016,E02001842,79.3,77.4,81.2,Male
+Birmingham,J01000007,Birmingham 016,E02001842,86.4,84.6,88.3,Female
+Birmingham,J01000007,Birmingham 017,E02001843,78.8,76.7,80.8,Male
+Birmingham,J01000007,Birmingham 017,E02001843,83.9,81.8,86.1,Female
+Birmingham,J01000007,Birmingham 019,E02001845,77.8,75.6,79.9,Male
+Birmingham,J01000007,Birmingham 019,E02001845,85.8,83.6,88.0,Female
+Birmingham,J01000007,Birmingham 020,E02001846,75.8,73.9,77.7,Male
+Birmingham,J01000007,Birmingham 020,E02001846,81.3,79.6,82.9,Female
+Birmingham,J01000007,Birmingham 022,E02001848,74.1,71.8,76.3,Male
+Birmingham,J01000007,Birmingham 022,E02001848,77.6,75.7,79.5,Female
+Birmingham,J01000007,Birmingham 023,E02001849,73.6,71.5,75.7,Male
+Birmingham,J01000007,Birmingham 023,E02001849,77.3,75.1,79.5,Female
+Birmingham,J01000007,Birmingham 024,E02001850,78.4,76.5,80.3,Male
+Birmingham,J01000007,Birmingham 024,E02001850,86.0,83.8,88.2,Female
+Birmingham,J01000007,Birmingham 025,E02001851,75.8,73.9,77.8,Male
+Birmingham,J01000007,Birmingham 025,E02001851,81.8,80.3,83.3,Female
+Birmingham,J01000007,Birmingham 026,E02001852,74.6,72.2,77.0,Male
+Birmingham,J01000007,Birmingham 026,E02001852,81.7,79.5,83.8,Female
+Birmingham,J01000007,Birmingham 028,E02001854,77.0,74.9,79.1,Male
+Birmingham,J01000007,Birmingham 028,E02001854,81.4,79.6,83.2,Female
+Birmingham,J01000007,Birmingham 029,E02001855,75.0,73.3,76.8,Male
+Birmingham,J01000007,Birmingham 029,E02001855,80.0,78.6,81.4,Female
+Birmingham,J01000007,Birmingham 030,E02001856,79.3,77.2,81.3,Male
+Birmingham,J01000007,Birmingham 030,E02001856,80.8,78.6,82.9,Female
+Birmingham,J01000007,Birmingham 031,E02001857,75.5,73.9,77.1,Male
+Birmingham,J01000007,Birmingham 031,E02001857,82.1,80.6,83.6,Female
+Birmingham,J01000007,Birmingham 032,E02001858,78.8,76.8,80.7,Male
+Birmingham,J01000007,Birmingham 032,E02001858,83.4,81.5,85.3,Female
+Birmingham,J01000007,Birmingham 033,E02001859,76.2,74.1,78.3,Male
+Birmingham,J01000007,Birmingham 033,E02001859,83.2,80.9,85.5,Female
+Birmingham,J01000007,Birmingham 034,E02001860,76.7,74.3,79.1,Male
+Birmingham,J01000007,Birmingham 034,E02001860,83.8,81.7,85.8,Female
+Birmingham,J01000007,Birmingham 035,E02001861,76.7,74.4,79.0,Male
+Birmingham,J01000007,Birmingham 035,E02001861,84.8,82.9,86.8,Female
+Birmingham,J01000007,Birmingham 036,E02001862,74.6,72.6,76.6,Male
+Birmingham,J01000007,Birmingham 036,E02001862,83.0,81.0,85.0,Female
+Birmingham,J01000007,Birmingham 037,E02001863,79.5,76.9,82.0,Male
+Birmingham,J01000007,Birmingham 037,E02001863,82.7,80.2,85.2,Female
+Birmingham,J01000007,Birmingham 038,E02001864,73.9,71.5,76.2,Male
+Birmingham,J01000007,Birmingham 038,E02001864,82.0,79.4,84.6,Female
+Birmingham,J01000007,Birmingham 039,E02001865,76.7,74.7,78.6,Male
+Birmingham,J01000007,Birmingham 039,E02001865,83.7,81.7,85.6,Female
+Birmingham,J01000007,Birmingham 040,E02001866,74.1,71.6,76.5,Male
+Birmingham,J01000007,Birmingham 040,E02001866,82.5,80.0,85.0,Female
+Birmingham,J01000007,Birmingham 041,E02001867,75.6,73.2,78.1,Male
+Birmingham,J01000007,Birmingham 041,E02001867,81.4,78.7,84.0,Female
+Birmingham,J01000007,Birmingham 042,E02001868,78.8,76.9,80.7,Male
+Birmingham,J01000007,Birmingham 042,E02001868,83.9,82.3,85.6,Female
+Birmingham,J01000007,Birmingham 043,E02001869,70.6,68.4,72.8,Male
+Birmingham,J01000007,Birmingham 043,E02001869,79.6,77.5,81.7,Female
+Birmingham,J01000007,Birmingham 044,E02001870,75.3,73.6,76.9,Male
+Birmingham,J01000007,Birmingham 044,E02001870,81.5,79.8,83.1,Female
+Birmingham,J01000007,Birmingham 045,E02001871,75.0,73.0,76.9,Male
+Birmingham,J01000007,Birmingham 045,E02001871,80.7,78.7,82.7,Female
+Birmingham,J01000007,Birmingham 046,E02001872,74.2,71.9,76.4,Male
+Birmingham,J01000007,Birmingham 046,E02001872,80.0,78.0,82.1,Female
+Birmingham,J01000007,Birmingham 047,E02001873,74.5,72.4,76.6,Male
+Birmingham,J01000007,Birmingham 047,E02001873,81.5,79.6,83.4,Female
+Birmingham,J01000007,Birmingham 048,E02001874,76.0,73.7,78.3,Male
+Birmingham,J01000007,Birmingham 048,E02001874,79.1,76.9,81.2,Female
+Birmingham,J01000007,Birmingham 049,E02001875,75.9,73.6,78.2,Male
+Birmingham,J01000007,Birmingham 049,E02001875,84.0,80.8,87.3,Female
+Birmingham,J01000007,Birmingham 050,E02001876,73.7,71.2,76.1,Male
+Birmingham,J01000007,Birmingham 050,E02001876,84.6,81.8,87.4,Female
+Birmingham,J01000007,Birmingham 051,E02001877,76.3,74.1,78.6,Male
+Birmingham,J01000007,Birmingham 051,E02001877,83.7,81.1,86.2,Female
+Birmingham,J01000007,Birmingham 052,E02001878,76.6,74.1,79.2,Male
+Birmingham,J01000007,Birmingham 052,E02001878,83.4,80.8,85.9,Female
+Birmingham,J01000007,Birmingham 053,E02001879,75.0,73.2,76.8,Male
+Birmingham,J01000007,Birmingham 053,E02001879,79.1,77.3,80.8,Female
+Birmingham,J01000007,Birmingham 054,E02001880,78.6,76.7,80.6,Male
+Birmingham,J01000007,Birmingham 054,E02001880,82.1,80.2,84.1,Female
+Birmingham,J01000007,Birmingham 055,E02001881,75.9,73.7,78.0,Male
+Birmingham,J01000007,Birmingham 055,E02001881,79.2,77.1,81.2,Female
+Birmingham,J01000007,Birmingham 056,E02001882,77.0,75.3,78.8,Male
+Birmingham,J01000007,Birmingham 056,E02001882,80.1,78.2,81.9,Female
+Birmingham,J01000007,Birmingham 057,E02001883,75.5,73.6,77.4,Male
+Birmingham,J01000007,Birmingham 057,E02001883,79.6,77.7,81.6,Female
+Birmingham,J01000007,Birmingham 058,E02001884,77.6,75.0,80.1,Male
+Birmingham,J01000007,Birmingham 058,E02001884,83.4,80.9,85.8,Female
+Birmingham,J01000007,Birmingham 060,E02001886,76.0,73.9,78.1,Male
+Birmingham,J01000007,Birmingham 060,E02001886,82.0,79.9,84.2,Female
+Birmingham,J01000007,Birmingham 062,E02001888,73.2,71.0,75.4,Male
+Birmingham,J01000007,Birmingham 062,E02001888,78.3,76.3,80.2,Female
+Birmingham,J01000007,Birmingham 063,E02001889,75.9,73.9,77.8,Male
+Birmingham,J01000007,Birmingham 063,E02001889,78.2,76.4,79.9,Female
+Birmingham,J01000007,Birmingham 064,E02001890,78.3,76.5,80.2,Male
+Birmingham,J01000007,Birmingham 064,E02001890,83.3,81.7,84.9,Female
+Birmingham,J01000007,Birmingham 066,E02001892,73.9,72.0,75.9,Male
+Birmingham,J01000007,Birmingham 066,E02001892,79.3,77.6,81.0,Female
+Birmingham,J01000007,Birmingham 067,E02001893,79.0,77.3,80.8,Male
+Birmingham,J01000007,Birmingham 067,E02001893,80.3,78.6,82.1,Female
+Birmingham,J01000007,Birmingham 069,E02001895,74.0,72.3,75.8,Male
+Birmingham,J01000007,Birmingham 069,E02001895,78.3,76.8,79.8,Female
+Birmingham,J01000007,Birmingham 070,E02001896,77.1,74.7,79.5,Male
+Birmingham,J01000007,Birmingham 070,E02001896,82.9,80.7,85.1,Female
+Birmingham,J01000007,Birmingham 071,E02001897,74.1,71.8,76.3,Male
+Birmingham,J01000007,Birmingham 071,E02001897,79.2,76.9,81.5,Female
+Birmingham,J01000007,Birmingham 072,E02001898,79.2,77.1,81.2,Male
+Birmingham,J01000007,Birmingham 072,E02001898,84.2,82.1,86.3,Female
+Birmingham,J01000007,Birmingham 073,E02001899,82.3,80.3,84.3,Male
+Birmingham,J01000007,Birmingham 073,E02001899,86.6,84.9,88.4,Female
+Birmingham,J01000007,Birmingham 074,E02001900,77.3,75.1,79.5,Male
+Birmingham,J01000007,Birmingham 074,E02001900,83.6,81.5,85.6,Female
+Birmingham,J01000007,Birmingham 075,E02001901,80.5,78.3,82.7,Male
+Birmingham,J01000007,Birmingham 075,E02001901,85.8,83.8,87.9,Female
+Birmingham,J01000007,Birmingham 076,E02001902,79.4,77.6,81.1,Male
+Birmingham,J01000007,Birmingham 076,E02001902,84.9,83.1,86.6,Female
+Birmingham,J01000007,Birmingham 077,E02001903,76.1,73.6,78.7,Male
+Birmingham,J01000007,Birmingham 077,E02001903,77.7,75.1,80.3,Female
+Birmingham,J01000007,Birmingham 078,E02001904,76.6,74.3,79.0,Male
+Birmingham,J01000007,Birmingham 078,E02001904,81.0,78.8,83.1,Female
+Birmingham,J01000007,Birmingham 079,E02001905,82.2,79.9,84.5,Male
+Birmingham,J01000007,Birmingham 079,E02001905,86.2,84.3,88.1,Female
+Birmingham,J01000007,Birmingham 080,E02001906,79.6,77.7,81.5,Male
+Birmingham,J01000007,Birmingham 080,E02001906,83.8,81.9,85.6,Female
+Birmingham,J01000007,Birmingham 081,E02001907,78.2,76.2,80.2,Male
+Birmingham,J01000007,Birmingham 081,E02001907,85.0,83.3,86.7,Female
+Birmingham,J01000007,Birmingham 082,E02001908,76.9,74.5,79.2,Male
+Birmingham,J01000007,Birmingham 082,E02001908,82.5,80.6,84.4,Female
+Birmingham,J01000007,Birmingham 083,E02001909,75.5,73.4,77.6,Male
+Birmingham,J01000007,Birmingham 083,E02001909,80.8,78.3,83.3,Female
+Birmingham,J01000007,Birmingham 084,E02001910,82.7,79.5,85.8,Male
+Birmingham,J01000007,Birmingham 084,E02001910,84.0,81.7,86.3,Female
+Birmingham,J01000007,Birmingham 085,E02001911,77.0,75.0,79.1,Male
+Birmingham,J01000007,Birmingham 085,E02001911,82.2,80.0,84.4,Female
+Birmingham,J01000007,Birmingham 087,E02001913,76.7,74.4,79.0,Male
+Birmingham,J01000007,Birmingham 087,E02001913,83.4,81.3,85.4,Female
+Birmingham,J01000007,Birmingham 088,E02001914,81.1,78.9,83.3,Male
+Birmingham,J01000007,Birmingham 088,E02001914,84.4,81.7,87.1,Female
+Birmingham,J01000007,Birmingham 089,E02001915,75.6,74.0,77.1,Male
+Birmingham,J01000007,Birmingham 089,E02001915,80.3,78.9,81.8,Female
+Birmingham,J01000007,Birmingham 090,E02001916,74.4,72.4,76.4,Male
+Birmingham,J01000007,Birmingham 090,E02001916,79.6,77.8,81.4,Female
+Birmingham,J01000007,Birmingham 092,E02001918,74.2,72.4,75.9,Male
+Birmingham,J01000007,Birmingham 092,E02001918,78.4,76.4,80.4,Female
+Birmingham,J01000007,Birmingham 093,E02001919,79.4,77.2,81.6,Male
+Birmingham,J01000007,Birmingham 093,E02001919,82.2,80.0,84.4,Female
+Birmingham,J01000007,Birmingham 094,E02001920,77.2,74.9,79.5,Male
+Birmingham,J01000007,Birmingham 094,E02001920,81.7,79.7,83.7,Female
+Birmingham,J01000007,Birmingham 095,E02001921,78.7,76.6,80.8,Male
+Birmingham,J01000007,Birmingham 095,E02001921,81.6,79.5,83.7,Female
+Birmingham,J01000007,Birmingham 096,E02001922,77.2,74.2,80.3,Male
+Birmingham,J01000007,Birmingham 096,E02001922,81.0,77.3,84.8,Female
+Birmingham,J01000007,Birmingham 097,E02001923,78.9,77.2,80.6,Male
+Birmingham,J01000007,Birmingham 097,E02001923,83.8,82.0,85.5,Female
+Birmingham,J01000007,Birmingham 098,E02001924,78.5,76.5,80.6,Male
+Birmingham,J01000007,Birmingham 098,E02001924,83.1,80.9,85.4,Female
+Birmingham,J01000007,Birmingham 099,E02001925,79.9,77.7,82.0,Male
+Birmingham,J01000007,Birmingham 099,E02001925,83.0,81.0,85.1,Female
+Birmingham,J01000007,Birmingham 100,E02001926,77.7,75.8,79.7,Male
+Birmingham,J01000007,Birmingham 100,E02001926,78.6,76.7,80.4,Female
+Birmingham,J01000007,Birmingham 101,E02001927,76.8,74.9,78.7,Male
+Birmingham,J01000007,Birmingham 101,E02001927,78.9,77.0,80.8,Female
+Birmingham,J01000007,Birmingham 102,E02001928,78.3,76.0,80.5,Male
+Birmingham,J01000007,Birmingham 102,E02001928,82.5,80.5,84.5,Female
+Birmingham,J01000007,Birmingham 103,E02001929,76.4,74.3,78.4,Male
+Birmingham,J01000007,Birmingham 103,E02001929,82.9,81.0,84.9,Female
+Birmingham,J01000007,Birmingham 104,E02001930,80.2,78.1,82.2,Male
+Birmingham,J01000007,Birmingham 104,E02001930,83.6,81.7,85.5,Female
+Birmingham,J01000007,Birmingham 105,E02001931,78.4,76.4,80.4,Male
+Birmingham,J01000007,Birmingham 105,E02001931,82.6,80.4,84.8,Female
+Birmingham,J01000007,Birmingham 106,E02001932,76.6,74.2,79.1,Male
+Birmingham,J01000007,Birmingham 106,E02001932,83.1,80.9,85.3,Female
+Birmingham,J01000007,Birmingham 107,E02001933,75.1,73.1,77.2,Male
+Birmingham,J01000007,Birmingham 107,E02001933,79.4,77.6,81.3,Female
+Birmingham,J01000007,Birmingham 108,E02001934,80.4,78.3,82.6,Male
+Birmingham,J01000007,Birmingham 108,E02001934,84.9,82.9,87.0,Female
+Birmingham,J01000007,Birmingham 109,E02001935,80.9,78.9,82.9,Male
+Birmingham,J01000007,Birmingham 109,E02001935,84.7,83.2,86.2,Female
+Birmingham,J01000007,Birmingham 110,E02001936,81.0,79.1,83.0,Male
+Birmingham,J01000007,Birmingham 110,E02001936,83.7,81.6,85.8,Female
+Birmingham,J01000007,Birmingham 111,E02001937,76.2,74.1,78.3,Male
+Birmingham,J01000007,Birmingham 111,E02001937,78.6,76.7,80.5,Female
+Birmingham,J01000007,Birmingham 112,E02001938,79.6,77.2,82.0,Male
+Birmingham,J01000007,Birmingham 112,E02001938,83.4,81.2,85.5,Female
+Birmingham,J01000007,Birmingham 113,E02001939,78.4,75.8,81.0,Male
+Birmingham,J01000007,Birmingham 113,E02001939,84.7,82.2,87.2,Female
+Birmingham,J01000007,Birmingham 115,E02001941,75.5,73.3,77.6,Male
+Birmingham,J01000007,Birmingham 115,E02001941,78.1,75.9,80.3,Female
+Birmingham,J01000007,Birmingham 116,E02001942,78.6,76.7,80.5,Male
+Birmingham,J01000007,Birmingham 116,E02001942,80.8,79.1,82.5,Female
+Birmingham,J01000007,Birmingham 117,E02001943,78.8,76.7,80.9,Male
+Birmingham,J01000007,Birmingham 117,E02001943,82.9,81.0,84.9,Female
+Birmingham,J01000007,Birmingham 118,E02001944,77.8,75.8,79.8,Male
+Birmingham,J01000007,Birmingham 118,E02001944,84.8,82.5,87.0,Female
+Birmingham,J01000007,Birmingham 119,E02001945,76.7,74.7,78.8,Male
+Birmingham,J01000007,Birmingham 119,E02001945,81.2,79.1,83.3,Female
+Birmingham,J01000007,Birmingham 120,E02001946,82.4,80.7,84.1,Male
+Birmingham,J01000007,Birmingham 120,E02001946,85.0,82.8,87.2,Female
+Birmingham,J01000007,Birmingham 121,E02001947,71.9,69.6,74.3,Male
+Birmingham,J01000007,Birmingham 121,E02001947,80.8,78.8,82.7,Female
+Birmingham,J01000007,Birmingham 122,E02001948,79.2,77.4,81.0,Male
+Birmingham,J01000007,Birmingham 122,E02001948,83.1,81.5,84.7,Female
+Birmingham,J01000007,Birmingham 123,E02001949,75.2,72.8,77.5,Male
+Birmingham,J01000007,Birmingham 123,E02001949,78.9,77.2,80.7,Female
+Birmingham,J01000007,Birmingham 124,E02001950,79.4,77.4,81.4,Male
+Birmingham,J01000007,Birmingham 124,E02001950,86.2,84.5,87.9,Female
+Birmingham,J01000007,Birmingham 125,E02001951,74.6,72.5,76.6,Male
+Birmingham,J01000007,Birmingham 125,E02001951,80.1,78.2,82.1,Female
+Birmingham,J01000007,Birmingham 126,E02001952,75.2,73.3,77.1,Male
+Birmingham,J01000007,Birmingham 126,E02001952,81.6,79.7,83.5,Female
+Birmingham,J01000007,Birmingham 127,E02001953,79.2,77.2,81.2,Male
+Birmingham,J01000007,Birmingham 127,E02001953,83.8,82.4,85.3,Female
+Birmingham,J01000007,Birmingham 128,E02001954,75.0,73.0,77.1,Male
+Birmingham,J01000007,Birmingham 128,E02001954,85.4,83.2,87.6,Female
+Birmingham,J01000007,Birmingham 129,E02001955,77.0,75.0,79.0,Male
+Birmingham,J01000007,Birmingham 129,E02001955,80.6,78.7,82.5,Female
+Birmingham,J01000007,Birmingham 130,E02001956,76.9,74.6,79.1,Male
+Birmingham,J01000007,Birmingham 130,E02001956,84.7,82.5,86.9,Female
+Birmingham,J01000007,Birmingham 131,E02001957,81.0,78.9,83.0,Male
+Birmingham,J01000007,Birmingham 131,E02001957,84.1,82.4,85.9,Female
+Birmingham,J01000007,Sandwell 032,E02002074,76.8,75.0,78.7,Male
+Birmingham,J01000007,Sandwell 032,E02002074,81.3,79.7,83.0,Female
+Birmingham,J01000007,Sandwell 036,E02002078,79.7,77.7,81.7,Male
+Birmingham,J01000007,Sandwell 036,E02002078,85.9,83.8,88.0,Female
+Birmingham,J01000007,Sandwell 037,E02002079,77.9,76.1,79.8,Male
+Birmingham,J01000007,Sandwell 037,E02002079,83.5,81.9,85.0,Female
+Birmingham,J01000007,Solihull 001,E02002081,81.6,79.8,83.4,Male
+Birmingham,J01000007,Solihull 001,E02002081,85.6,84.0,87.3,Female
+Birmingham,J01000007,Solihull 002,E02002082,76.9,74.8,78.9,Male
+Birmingham,J01000007,Solihull 002,E02002082,77.5,75.4,79.6,Female
+Birmingham,J01000007,Solihull 003,E02002083,81.0,78.4,83.6,Male
+Birmingham,J01000007,Solihull 003,E02002083,85.9,83.2,88.6,Female
+Birmingham,J01000007,Solihull 004,E02002084,76.1,73.8,78.4,Male
+Birmingham,J01000007,Solihull 004,E02002084,81.9,79.6,84.3,Female
+Birmingham,J01000007,Solihull 005,E02002085,76.5,74.2,78.7,Male
+Birmingham,J01000007,Solihull 005,E02002085,82.4,80.4,84.4,Female
+Birmingham,J01000007,Solihull 006,E02002086,74.5,72.3,76.8,Male
+Birmingham,J01000007,Solihull 006,E02002086,78.7,76.7,80.6,Female
+Birmingham,J01000007,Solihull 007,E02002087,74.8,72.4,77.2,Male
+Birmingham,J01000007,Solihull 007,E02002087,80.9,78.6,83.1,Female
+Birmingham,J01000007,Solihull 008,E02002088,75.9,73.7,78.1,Male
+Birmingham,J01000007,Solihull 008,E02002088,83.5,81.7,85.2,Female
+Birmingham,J01000007,Solihull 009,E02002089,79.9,78.2,81.6,Male
+Birmingham,J01000007,Solihull 009,E02002089,85.1,83.3,86.9,Female
+Birmingham,J01000007,Walsall 039,E02002148,81.5,80.0,82.9,Male
+Birmingham,J01000007,Walsall 039,E02002148,88.5,86.9,90.1,Female
+Birmingham,J01000007,Bromsgrove 003,E02006698,78.5,75.9,81.0,Male
+Birmingham,J01000007,Bromsgrove 003,E02006698,84.1,82.5,85.7,Female
+Birmingham,J01000007,Bromsgrove 004,E02006699,79.7,77.7,81.8,Male
+Birmingham,J01000007,Bromsgrove 004,E02006699,86.9,84.6,89.3,Female
+Birmingham,J01000007,Bromsgrove 005,E02006700,80.7,79.3,82.0,Male
+Birmingham,J01000007,Bromsgrove 005,E02006700,82.8,81.3,84.3,Female
+Birmingham,J01000007,Birmingham 132,E02006807,81.4,79.8,83.1,Male
+Birmingham,J01000007,Birmingham 132,E02006807,84.3,82.3,86.3,Female
+Birmingham,J01000007,Birmingham 133,E02006809,80.7,78.8,82.5,Male
+Birmingham,J01000007,Birmingham 133,E02006809,82.4,80.7,84.1,Female
+Birmingham,J01000007,Birmingham 134,E02006895,70.4,67.6,73.1,Male
+Birmingham,J01000007,Birmingham 134,E02006895,80.0,77.2,82.8,Female
+Birmingham,J01000007,Birmingham 135,E02006896,74.4,71.3,77.6,Male
+Birmingham,J01000007,Birmingham 135,E02006896,86.1,82.0,90.1,Female
+Birmingham,J01000007,Birmingham 136,E02006897,74.9,72.1,77.6,Male
+Birmingham,J01000007,Birmingham 136,E02006897,79.6,77.2,82.0,Female
+Birmingham,J01000007,Birmingham 137,E02006898,78.1,75.5,80.7,Male
+Birmingham,J01000007,Birmingham 137,E02006898,81.2,78.1,84.3,Female
+Birmingham,J01000007,Birmingham 138,E02006899,76.1,71.3,80.9,Male
+Birmingham,J01000007,Birmingham 138,E02006899,86.5,73.1,99.9,Female
+Birmingham,J01000007,Birmingham 139,E02006900,76.4,74.6,78.2,Male
+Birmingham,J01000007,Birmingham 139,E02006900,82.0,80.2,83.8,Female
+Birmingham,J01000007,Birmingham 140,E02006901,80.0,78.3,81.7,Male
+Birmingham,J01000007,Birmingham 140,E02006901,82.7,81.0,84.4,Female
+Bradford,J01000013,Bradford 017,E02002199,81.3,79.4,83.1,Male
+Bradford,J01000013,Bradford 017,E02002199,84.5,82.9,86.0,Female
+Bradford,J01000013,Bradford 019,E02002201,78.1,76.6,79.6,Male
+Bradford,J01000013,Bradford 019,E02002201,80.6,79.1,82.0,Female
+Bradford,J01000013,Bradford 024,E02002206,78.9,77.2,80.6,Male
+Bradford,J01000013,Bradford 024,E02002206,84.0,81.9,86.1,Female
+Bradford,J01000013,Bradford 026,E02002208,78.7,76.8,80.6,Male
+Bradford,J01000013,Bradford 026,E02002208,86.7,84.6,88.7,Female
+Bradford,J01000013,Bradford 027,E02002209,77.8,75.0,80.5,Male
+Bradford,J01000013,Bradford 027,E02002209,79.4,76.9,81.9,Female
+Bradford,J01000013,Bradford 028,E02002210,79.0,77.2,80.8,Male
+Bradford,J01000013,Bradford 028,E02002210,82.4,80.9,84.0,Female
+Bradford,J01000013,Bradford 029,E02002211,72.5,70.3,74.7,Male
+Bradford,J01000013,Bradford 029,E02002211,78.4,76.4,80.4,Female
+Bradford,J01000013,Bradford 030,E02002212,77.1,75.0,79.3,Male
+Bradford,J01000013,Bradford 030,E02002212,79.9,77.7,82.2,Female
+Bradford,J01000013,Bradford 032,E02002214,79.3,77.1,81.5,Male
+Bradford,J01000013,Bradford 032,E02002214,83.2,80.8,85.6,Female
+Bradford,J01000013,Bradford 033,E02002215,78.6,76.3,80.9,Male
+Bradford,J01000013,Bradford 033,E02002215,82.1,79.9,84.3,Female
+Bradford,J01000013,Bradford 034,E02002216,68.7,66.8,70.5,Male
+Bradford,J01000013,Bradford 034,E02002216,75.2,73.2,77.3,Female
+Bradford,J01000013,Bradford 035,E02002217,72.5,70.6,74.4,Male
+Bradford,J01000013,Bradford 035,E02002217,76.9,75.0,78.8,Female
+Bradford,J01000013,Bradford 036,E02002218,78.2,76.2,80.2,Male
+Bradford,J01000013,Bradford 036,E02002218,81.2,79.3,83.1,Female
+Bradford,J01000013,Bradford 037,E02002219,79.5,76.7,82.3,Male
+Bradford,J01000013,Bradford 037,E02002219,83.5,81.2,85.9,Female
+Bradford,J01000013,Bradford 038,E02002220,73.5,71.5,75.5,Male
+Bradford,J01000013,Bradford 038,E02002220,78.8,77.0,80.6,Female
+Bradford,J01000013,Bradford 039,E02002221,72.2,70.5,73.9,Male
+Bradford,J01000013,Bradford 039,E02002221,75.7,73.9,77.5,Female
+Bradford,J01000013,Bradford 040,E02002222,72.5,70.4,74.6,Male
+Bradford,J01000013,Bradford 040,E02002222,76.7,74.7,78.7,Female
+Bradford,J01000013,Bradford 041,E02002223,75.2,72.8,77.6,Male
+Bradford,J01000013,Bradford 041,E02002223,80.8,78.3,83.4,Female
+Bradford,J01000013,Bradford 042,E02002224,72.4,70.5,74.3,Male
+Bradford,J01000013,Bradford 042,E02002224,79.6,77.7,81.5,Female
+Bradford,J01000013,Bradford 044,E02002226,75.6,73.5,77.7,Male
+Bradford,J01000013,Bradford 044,E02002226,81.0,78.9,83.0,Female
+Bradford,J01000013,Bradford 045,E02002227,73.9,71.3,76.6,Male
+Bradford,J01000013,Bradford 045,E02002227,78.5,76.0,81.0,Female
+Bradford,J01000013,Bradford 046,E02002228,74.4,72.0,76.8,Male
+Bradford,J01000013,Bradford 046,E02002228,82.1,80.2,83.9,Female
+Bradford,J01000013,Bradford 047,E02002229,76.8,75.0,78.6,Male
+Bradford,J01000013,Bradford 047,E02002229,80.6,78.8,82.5,Female
+Bradford,J01000013,Bradford 048,E02002230,75.6,73.1,78.0,Male
+Bradford,J01000013,Bradford 048,E02002230,81.5,79.0,84.1,Female
+Bradford,J01000013,Bradford 049,E02002231,78.5,76.8,80.3,Male
+Bradford,J01000013,Bradford 049,E02002231,83.9,82.1,85.7,Female
+Bradford,J01000013,Bradford 050,E02002232,74.1,71.8,76.5,Male
+Bradford,J01000013,Bradford 050,E02002232,80.9,79.0,82.8,Female
+Bradford,J01000013,Bradford 051,E02002233,78.8,76.0,81.5,Male
+Bradford,J01000013,Bradford 051,E02002233,81.6,79.1,84.0,Female
+Bradford,J01000013,Bradford 052,E02002234,70.7,68.6,72.7,Male
+Bradford,J01000013,Bradford 052,E02002234,74.2,72.4,75.9,Female
+Bradford,J01000013,Bradford 053,E02002235,76.1,73.9,78.4,Male
+Bradford,J01000013,Bradford 053,E02002235,81.2,79.1,83.3,Female
+Bradford,J01000013,Bradford 054,E02002236,80.4,78.5,82.3,Male
+Bradford,J01000013,Bradford 054,E02002236,84.0,82.0,86.0,Female
+Bradford,J01000013,Bradford 055,E02002237,75.7,74.0,77.4,Male
+Bradford,J01000013,Bradford 055,E02002237,80.0,78.3,81.6,Female
+Bradford,J01000013,Bradford 056,E02002238,76.5,74.4,78.7,Male
+Bradford,J01000013,Bradford 056,E02002238,80.3,77.7,82.8,Female
+Bradford,J01000013,Bradford 057,E02002239,76.9,75.2,78.7,Male
+Bradford,J01000013,Bradford 057,E02002239,80.3,78.8,81.7,Female
+Bradford,J01000013,Bradford 058,E02002240,78.4,76.9,80.0,Male
+Bradford,J01000013,Bradford 058,E02002240,82.1,80.8,83.4,Female
+Bradford,J01000013,Bradford 059,E02002241,75.9,74.5,77.3,Male
+Bradford,J01000013,Bradford 059,E02002241,78.7,77.4,80.1,Female
+Bradford,J01000013,Bradford 060,E02002242,80.5,78.8,82.1,Male
+Bradford,J01000013,Bradford 060,E02002242,85.1,83.5,86.6,Female
+Bradford,J01000013,Bradford 061,E02002243,78.2,76.4,80.0,Male
+Bradford,J01000013,Bradford 061,E02002243,81.3,79.3,83.2,Female
+Bradford,J01000013,Kirklees 001,E02002271,79.3,77.5,81.0,Male
+Bradford,J01000013,Kirklees 001,E02002271,84.0,82.7,85.3,Female
+Bradford,J01000013,Kirklees 003,E02002273,79.5,77.8,81.3,Male
+Bradford,J01000013,Kirklees 003,E02002273,83.2,81.7,84.7,Female
+Brighton & Hove,J01000014,Brighton and Hove 001,E02003491,81.2,79.2,83.1,Male
+Brighton & Hove,J01000014,Brighton and Hove 001,E02003491,83.7,82.3,85.1,Female
+Brighton & Hove,J01000014,Brighton and Hove 002,E02003492,76.4,74.2,78.6,Male
+Brighton & Hove,J01000014,Brighton and Hove 002,E02003492,81.7,79.1,84.4,Female
+Brighton & Hove,J01000014,Brighton and Hove 003,E02003493,84.8,82.8,86.7,Male
+Brighton & Hove,J01000014,Brighton and Hove 003,E02003493,85.1,83.4,86.9,Female
+Brighton & Hove,J01000014,Brighton and Hove 004,E02003494,83.1,81.2,84.9,Male
+Brighton & Hove,J01000014,Brighton and Hove 004,E02003494,85.2,83.4,87.0,Female
+Brighton & Hove,J01000014,Brighton and Hove 006,E02003496,79.4,77.3,81.5,Male
+Brighton & Hove,J01000014,Brighton and Hove 006,E02003496,86.0,84.2,87.8,Female
+Brighton & Hove,J01000014,Brighton and Hove 007,E02003497,82.7,80.6,84.8,Male
+Brighton & Hove,J01000014,Brighton and Hove 007,E02003497,84.3,82.8,85.8,Female
+Brighton & Hove,J01000014,Brighton and Hove 008,E02003498,76.0,74.1,77.9,Male
+Brighton & Hove,J01000014,Brighton and Hove 008,E02003498,82.2,80.0,84.4,Female
+Brighton & Hove,J01000014,Brighton and Hove 009,E02003499,74.8,72.8,76.7,Male
+Brighton & Hove,J01000014,Brighton and Hove 009,E02003499,80.4,79.0,81.8,Female
+Brighton & Hove,J01000014,Brighton and Hove 010,E02003500,81.2,78.8,83.6,Male
+Brighton & Hove,J01000014,Brighton and Hove 010,E02003500,86.2,84.2,88.1,Female
+Brighton & Hove,J01000014,Brighton and Hove 011,E02003501,80.7,78.8,82.7,Male
+Brighton & Hove,J01000014,Brighton and Hove 011,E02003501,87.0,85.2,88.8,Female
+Brighton & Hove,J01000014,Brighton and Hove 013,E02003503,79.4,77.5,81.2,Male
+Brighton & Hove,J01000014,Brighton and Hove 013,E02003503,82.8,80.9,84.7,Female
+Brighton & Hove,J01000014,Brighton and Hove 014,E02003504,79.6,77.1,82.2,Male
+Brighton & Hove,J01000014,Brighton and Hove 014,E02003504,86.7,84.7,88.7,Female
+Brighton & Hove,J01000014,Brighton and Hove 015,E02003505,83.8,81.0,86.6,Male
+Brighton & Hove,J01000014,Brighton and Hove 015,E02003505,84.9,81.9,87.8,Female
+Brighton & Hove,J01000014,Brighton and Hove 016,E02003506,76.0,74.0,77.9,Male
+Brighton & Hove,J01000014,Brighton and Hove 016,E02003506,81.4,79.5,83.3,Female
+Brighton & Hove,J01000014,Brighton and Hove 018,E02003508,80.5,78.6,82.5,Male
+Brighton & Hove,J01000014,Brighton and Hove 018,E02003508,85.2,82.8,87.6,Female
+Brighton & Hove,J01000014,Brighton and Hove 019,E02003509,74.3,71.9,76.6,Male
+Brighton & Hove,J01000014,Brighton and Hove 019,E02003509,80.8,79.2,82.5,Female
+Brighton & Hove,J01000014,Brighton and Hove 020,E02003510,79.9,78.1,81.7,Male
+Brighton & Hove,J01000014,Brighton and Hove 020,E02003510,82.5,80.5,84.4,Female
+Brighton & Hove,J01000014,Brighton and Hove 021,E02003511,78.1,76.0,80.1,Male
+Brighton & Hove,J01000014,Brighton and Hove 021,E02003511,82.2,80.4,83.9,Female
+Brighton & Hove,J01000014,Brighton and Hove 022,E02003512,79.4,77.1,81.8,Male
+Brighton & Hove,J01000014,Brighton and Hove 022,E02003512,85.6,82.8,88.5,Female
+Brighton & Hove,J01000014,Brighton and Hove 023,E02003513,77.3,75.1,79.5,Male
+Brighton & Hove,J01000014,Brighton and Hove 023,E02003513,79.3,77.3,81.3,Female
+Brighton & Hove,J01000014,Brighton and Hove 024,E02003514,78.5,75.8,81.2,Male
+Brighton & Hove,J01000014,Brighton and Hove 024,E02003514,85.8,83.8,87.8,Female
+Brighton & Hove,J01000014,Brighton and Hove 025,E02003515,75.6,73.7,77.6,Male
+Brighton & Hove,J01000014,Brighton and Hove 025,E02003515,79.6,77.7,81.5,Female
+Brighton & Hove,J01000014,Brighton and Hove 026,E02003516,80.1,78.1,82.2,Male
+Brighton & Hove,J01000014,Brighton and Hove 026,E02003516,85.1,81.8,88.3,Female
+Brighton & Hove,J01000014,Brighton and Hove 027,E02003517,75.9,73.8,77.9,Male
+Brighton & Hove,J01000014,Brighton and Hove 027,E02003517,83.0,80.7,85.2,Female
+Brighton & Hove,J01000014,Brighton and Hove 028,E02003518,77.7,75.7,79.6,Male
+Brighton & Hove,J01000014,Brighton and Hove 028,E02003518,80.4,78.1,82.6,Female
+Brighton & Hove,J01000014,Brighton and Hove 029,E02003519,77.1,74.7,79.4,Male
+Brighton & Hove,J01000014,Brighton and Hove 029,E02003519,83.6,80.7,86.4,Female
+Brighton & Hove,J01000014,Brighton and Hove 030,E02003520,72.4,70.2,74.6,Male
+Brighton & Hove,J01000014,Brighton and Hove 030,E02003520,78.2,76.0,80.3,Female
+Brighton & Hove,J01000014,Brighton and Hove 031,E02003521,75.4,73.8,77.1,Male
+Brighton & Hove,J01000014,Brighton and Hove 031,E02003521,82.3,80.5,84.0,Female
+Brighton & Hove,J01000014,Brighton and Hove 032,E02003522,76.2,74.4,78.1,Male
+Brighton & Hove,J01000014,Brighton and Hove 032,E02003522,81.2,78.3,84.0,Female
+Bristol,J01000015,Bristol 001,E02003012,77.3,75.6,79.0,Male
+Bristol,J01000015,Bristol 001,E02003012,81.4,79.7,83.0,Female
+Bristol,J01000015,Bristol 002,E02003013,74.7,73.1,76.2,Male
+Bristol,J01000015,Bristol 002,E02003013,78.4,77.0,79.8,Female
+Bristol,J01000015,Bristol 003,E02003014,75.5,73.7,77.4,Male
+Bristol,J01000015,Bristol 003,E02003014,81.5,79.6,83.4,Female
+Bristol,J01000015,Bristol 004,E02003015,77.8,75.6,79.9,Male
+Bristol,J01000015,Bristol 004,E02003015,83.9,82.0,85.8,Female
+Bristol,J01000015,Bristol 005,E02003016,75.7,73.8,77.6,Male
+Bristol,J01000015,Bristol 005,E02003016,79.3,77.4,81.2,Female
+Bristol,J01000015,Bristol 006,E02003017,81.0,79.4,82.6,Male
+Bristol,J01000015,Bristol 006,E02003017,82.0,80.3,83.8,Female
+Bristol,J01000015,Bristol 007,E02003018,80.0,77.7,82.2,Male
+Bristol,J01000015,Bristol 007,E02003018,84.5,82.4,86.6,Female
+Bristol,J01000015,Bristol 008,E02003019,74.8,73.1,76.5,Male
+Bristol,J01000015,Bristol 008,E02003019,80.7,79.1,82.3,Female
+Bristol,J01000015,Bristol 009,E02003020,83.9,82.3,85.4,Male
+Bristol,J01000015,Bristol 009,E02003020,83.7,81.5,85.9,Female
+Bristol,J01000015,Bristol 010,E02003021,77.2,75.0,79.4,Male
+Bristol,J01000015,Bristol 010,E02003021,86.5,84.4,88.6,Female
+Bristol,J01000015,Bristol 011,E02003022,85.0,82.9,87.1,Male
+Bristol,J01000015,Bristol 011,E02003022,90.4,88.5,92.4,Female
+Bristol,J01000015,Bristol 012,E02003023,78.6,76.6,80.6,Male
+Bristol,J01000015,Bristol 012,E02003023,82.1,80.2,83.9,Female
+Bristol,J01000015,Bristol 013,E02003024,78.4,76.6,80.3,Male
+Bristol,J01000015,Bristol 013,E02003024,83.3,81.5,85.1,Female
+Bristol,J01000015,Bristol 014,E02003025,78.4,76.6,80.2,Male
+Bristol,J01000015,Bristol 014,E02003025,85.7,83.2,88.2,Female
+Bristol,J01000015,Bristol 015,E02003026,83.3,81.5,85.1,Male
+Bristol,J01000015,Bristol 015,E02003026,84.5,83.3,85.6,Female
+Bristol,J01000015,Bristol 016,E02003027,80.2,78.5,82.0,Male
+Bristol,J01000015,Bristol 016,E02003027,86.8,85.2,88.4,Female
+Bristol,J01000015,Bristol 017,E02003028,79.6,77.8,81.3,Male
+Bristol,J01000015,Bristol 017,E02003028,83.0,81.5,84.4,Female
+Bristol,J01000015,Bristol 018,E02003029,77.2,75.1,79.3,Male
+Bristol,J01000015,Bristol 018,E02003029,83.4,81.2,85.5,Female
+Bristol,J01000015,Bristol 019,E02003030,78.6,76.4,80.8,Male
+Bristol,J01000015,Bristol 019,E02003030,85.6,83.3,87.9,Female
+Bristol,J01000015,Bristol 020,E02003031,78.3,76.4,80.3,Male
+Bristol,J01000015,Bristol 020,E02003031,83.6,81.7,85.5,Female
+Bristol,J01000015,Bristol 021,E02003032,77.5,75.3,79.7,Male
+Bristol,J01000015,Bristol 021,E02003032,84.7,82.4,86.9,Female
+Bristol,J01000015,Bristol 022,E02003033,82.1,80.0,84.2,Male
+Bristol,J01000015,Bristol 022,E02003033,85.5,82.9,88.1,Female
+Bristol,J01000015,Bristol 023,E02003034,75.8,73.8,77.7,Male
+Bristol,J01000015,Bristol 023,E02003034,83.2,81.0,85.3,Female
+Bristol,J01000015,Bristol 025,E02003036,79.2,76.3,82.2,Male
+Bristol,J01000015,Bristol 025,E02003036,86.5,83.7,89.4,Female
+Bristol,J01000015,Bristol 026,E02003037,79.2,77.2,81.3,Male
+Bristol,J01000015,Bristol 026,E02003037,85.6,83.8,87.4,Female
+Bristol,J01000015,Bristol 027,E02003038,76.6,74.5,78.7,Male
+Bristol,J01000015,Bristol 027,E02003038,81.3,79.2,83.3,Female
+Bristol,J01000015,Bristol 028,E02003039,76.2,74.4,77.9,Male
+Bristol,J01000015,Bristol 028,E02003039,81.0,79.5,82.6,Female
+Bristol,J01000015,Bristol 029,E02003040,76.4,74.4,78.5,Male
+Bristol,J01000015,Bristol 029,E02003040,80.5,78.6,82.4,Female
+Bristol,J01000015,Bristol 030,E02003041,84.5,82.2,86.8,Male
+Bristol,J01000015,Bristol 030,E02003041,87.7,84.9,90.5,Female
+Bristol,J01000015,Bristol 032,E02003043,75.3,72.0,78.5,Male
+Bristol,J01000015,Bristol 032,E02003043,88.9,85.6,92.2,Female
+Bristol,J01000015,Bristol 033,E02003044,78.8,77.0,80.7,Male
+Bristol,J01000015,Bristol 033,E02003044,81.9,80.6,83.3,Female
+Bristol,J01000015,Bristol 034,E02003045,79.8,76.8,82.7,Male
+Bristol,J01000015,Bristol 034,E02003045,86.3,84.0,88.6,Female
+Bristol,J01000015,Bristol 035,E02003046,80.5,78.7,82.3,Male
+Bristol,J01000015,Bristol 035,E02003046,85.8,83.9,87.7,Female
+Bristol,J01000015,Bristol 036,E02003047,76.2,74.6,77.8,Male
+Bristol,J01000015,Bristol 036,E02003047,79.0,77.4,80.6,Female
+Bristol,J01000015,Bristol 037,E02003048,78.9,76.5,81.3,Male
+Bristol,J01000015,Bristol 037,E02003048,80.9,78.7,83.1,Female
+Bristol,J01000015,Bristol 038,E02003049,80.2,78.1,82.3,Male
+Bristol,J01000015,Bristol 038,E02003049,83.7,81.8,85.6,Female
+Bristol,J01000015,Bristol 039,E02003050,75.2,73.5,76.9,Male
+Bristol,J01000015,Bristol 039,E02003050,80.1,78.0,82.2,Female
+Bristol,J01000015,Bristol 040,E02003051,77.7,75.4,80.0,Male
+Bristol,J01000015,Bristol 040,E02003051,80.5,78.2,82.7,Female
+Bristol,J01000015,Bristol 041,E02003052,79.0,77.0,81.0,Male
+Bristol,J01000015,Bristol 041,E02003052,84.7,82.8,86.5,Female
+Bristol,J01000015,Bristol 042,E02003053,79.3,77.4,81.3,Male
+Bristol,J01000015,Bristol 042,E02003053,85.6,83.6,87.6,Female
+Bristol,J01000015,Bristol 043,E02003054,79.7,77.4,82.0,Male
+Bristol,J01000015,Bristol 043,E02003054,86.0,84.2,87.8,Female
+Bristol,J01000015,Bristol 044,E02003055,76.3,74.3,78.2,Male
+Bristol,J01000015,Bristol 044,E02003055,81.8,80.1,83.5,Female
+Bristol,J01000015,Bristol 045,E02003056,75.8,73.8,77.9,Male
+Bristol,J01000015,Bristol 045,E02003056,81.9,79.9,84.0,Female
+Bristol,J01000015,Bristol 046,E02003057,79.0,76.8,81.2,Male
+Bristol,J01000015,Bristol 046,E02003057,83.8,81.9,85.7,Female
+Bristol,J01000015,Bristol 047,E02003058,78.3,76.6,80.0,Male
+Bristol,J01000015,Bristol 047,E02003058,82.9,81.2,84.6,Female
+Bristol,J01000015,Bristol 048,E02003059,80.1,78.1,82.2,Male
+Bristol,J01000015,Bristol 048,E02003059,84.7,82.6,86.8,Female
+Bristol,J01000015,Bristol 049,E02003060,77.3,75.7,79.0,Male
+Bristol,J01000015,Bristol 049,E02003060,82.3,81.2,83.5,Female
+Bristol,J01000015,Bristol 050,E02003061,79.0,76.7,81.2,Male
+Bristol,J01000015,Bristol 050,E02003061,84.3,82.4,86.2,Female
+Bristol,J01000015,Bristol 051,E02003062,72.5,70.4,74.7,Male
+Bristol,J01000015,Bristol 051,E02003062,78.8,76.9,80.7,Female
+Bristol,J01000015,Bristol 052,E02003063,81.7,80.4,83.1,Male
+Bristol,J01000015,Bristol 052,E02003063,87.5,85.5,89.6,Female
+Bristol,J01000015,Bristol 053,E02003064,75.6,73.1,78.0,Male
+Bristol,J01000015,Bristol 053,E02003064,82.6,80.4,84.7,Female
+Bristol,J01000015,South Gloucestershire 020,E02003109,84.4,83.0,85.8,Male
+Bristol,J01000015,South Gloucestershire 020,E02003109,91.8,90.1,93.4,Female
+Bristol,J01000015,South Gloucestershire 021,E02003110,81.1,79.5,82.8,Male
+Bristol,J01000015,South Gloucestershire 021,E02003110,88.8,86.8,90.8,Female
+Bristol,J01000015,South Gloucestershire 022,E02003111,81.0,79.1,83.0,Male
+Bristol,J01000015,South Gloucestershire 022,E02003111,85.2,83.4,87.0,Female
+Bristol,J01000015,South Gloucestershire 023,E02003112,77.3,74.9,79.7,Male
+Bristol,J01000015,South Gloucestershire 023,E02003112,84.4,82.5,86.4,Female
+Bristol,J01000015,South Gloucestershire 025,E02003114,81.7,79.9,83.6,Male
+Bristol,J01000015,South Gloucestershire 025,E02003114,87.7,85.9,89.5,Female
+Bristol,J01000015,South Gloucestershire 026,E02003115,78.9,77.3,80.4,Male
+Bristol,J01000015,South Gloucestershire 026,E02003115,80.4,79.0,81.8,Female
+Bristol,J01000015,South Gloucestershire 027,E02003116,77.8,76.1,79.6,Male
+Bristol,J01000015,South Gloucestershire 027,E02003116,84.0,82.4,85.6,Female
+Bristol,J01000015,South Gloucestershire 028,E02003117,77.9,75.9,79.8,Male
+Bristol,J01000015,South Gloucestershire 028,E02003117,82.0,80.3,83.6,Female
+Bristol,J01000015,South Gloucestershire 029,E02003118,80.8,79.3,82.3,Male
+Bristol,J01000015,South Gloucestershire 029,E02003118,82.2,80.8,83.5,Female
+Bristol,J01000015,South Gloucestershire 030,E02003119,81.0,79.4,82.6,Male
+Bristol,J01000015,South Gloucestershire 030,E02003119,84.4,83.0,85.7,Female
+Bristol,J01000015,South Gloucestershire 031,E02003120,84.9,83.5,86.4,Male
+Bristol,J01000015,South Gloucestershire 031,E02003120,86.4,84.7,88.1,Female
+Bristol,J01000015,South Gloucestershire 032,E02003121,82.9,81.4,84.4,Male
+Bristol,J01000015,South Gloucestershire 032,E02003121,85.6,84.3,86.8,Female
+Bristol,J01000015,Bristol 054,E02006887,74.4,72.0,76.8,Male
+Bristol,J01000015,Bristol 054,E02006887,84.2,80.4,88.0,Female
+Bristol,J01000015,Bristol 055,E02006888,75.8,73.1,78.5,Male
+Bristol,J01000015,Bristol 055,E02006888,86.7,83.5,89.8,Female
+Bristol,J01000015,Bristol 056,E02006889,76.4,74.1,78.7,Male
+Bristol,J01000015,Bristol 056,E02006889,84.0,81.6,86.4,Female
+Bristol,J01000015,Bristol 057,E02006890,77.1,75.0,79.2,Male
+Bristol,J01000015,Bristol 057,E02006890,82.5,80.4,84.6,Female
+Cambridge,J01000019,Cambridge 001,E02003719,76.4,74.7,78.1,Male
+Cambridge,J01000019,Cambridge 001,E02003719,80.2,78.6,81.7,Female
+Cambridge,J01000019,Cambridge 002,E02003720,79.6,77.6,81.7,Male
+Cambridge,J01000019,Cambridge 002,E02003720,85.0,83.2,86.9,Female
+Cambridge,J01000019,Cambridge 003,E02003721,76.9,75.1,78.6,Male
+Cambridge,J01000019,Cambridge 003,E02003721,82.2,80.9,83.6,Female
+Cambridge,J01000019,Cambridge 004,E02003722,80.6,78.9,82.2,Male
+Cambridge,J01000019,Cambridge 004,E02003722,83.6,82.4,84.8,Female
+Cambridge,J01000019,Cambridge 005,E02003723,83.0,80.5,85.5,Male
+Cambridge,J01000019,Cambridge 005,E02003723,89.4,87.5,91.3,Female
+Cambridge,J01000019,Cambridge 006,E02003724,79.8,77.9,81.8,Male
+Cambridge,J01000019,Cambridge 006,E02003724,88.1,85.8,90.5,Female
+Cambridge,J01000019,Cambridge 007,E02003725,83.4,81.6,85.1,Male
+Cambridge,J01000019,Cambridge 007,E02003725,91.3,89.5,93.0,Female
+Cambridge,J01000019,Cambridge 008,E02003726,84.6,82.0,87.1,Male
+Cambridge,J01000019,Cambridge 008,E02003726,85.0,82.8,87.2,Female
+Cambridge,J01000019,Cambridge 009,E02003727,78.7,76.5,80.9,Male
+Cambridge,J01000019,Cambridge 009,E02003727,83.2,80.9,85.5,Female
+Cambridge,J01000019,Cambridge 010,E02003728,77.4,75.8,79.0,Male
+Cambridge,J01000019,Cambridge 010,E02003728,81.4,79.9,82.9,Female
+Cambridge,J01000019,Cambridge 011,E02003729,80.8,78.7,82.9,Male
+Cambridge,J01000019,Cambridge 011,E02003729,88.2,86.5,89.9,Female
+Cambridge,J01000019,Cambridge 012,E02003730,80.8,78.7,82.9,Male
+Cambridge,J01000019,Cambridge 012,E02003730,84.0,82.4,85.6,Female
+Cambridge,J01000019,Cambridge 013,E02003731,83.9,81.7,86.1,Male
+Cambridge,J01000019,Cambridge 013,E02003731,86.3,84.1,88.4,Female
+Cambridge,J01000019,South Cambridgeshire 007,E02003781,82.0,80.0,84.0,Male
+Cambridge,J01000019,South Cambridgeshire 007,E02003781,86.6,84.2,88.9,Female
+Cambridge,J01000019,South Cambridgeshire 009,E02003783,86.5,84.8,88.2,Male
+Cambridge,J01000019,South Cambridgeshire 009,E02003783,92.1,90.5,93.7,Female
+Cambridge,J01000019,South Cambridgeshire 011,E02003785,81.6,80.1,83.1,Male
+Cambridge,J01000019,South Cambridgeshire 011,E02003785,83.6,82.1,85.1,Female
+Cambridge,J01000019,South Cambridgeshire 012,E02003786,85.2,83.3,87.0,Male
+Cambridge,J01000019,South Cambridgeshire 012,E02003786,89.0,87.1,90.8,Female
+Carlisle,J01000021,Carlisle 003,E02003989,82.9,81.2,84.7,Male
+Carlisle,J01000021,Carlisle 003,E02003989,84.8,82.7,86.9,Female
+Carlisle,J01000021,Carlisle 004,E02003990,81.5,80.1,83.0,Male
+Carlisle,J01000021,Carlisle 004,E02003990,82.7,81.2,84.3,Female
+Carlisle,J01000021,Carlisle 005,E02003991,79.4,77.8,81.0,Male
+Carlisle,J01000021,Carlisle 005,E02003991,81.8,80.5,83.2,Female
+Carlisle,J01000021,Carlisle 006,E02003992,74.8,72.5,77.1,Male
+Carlisle,J01000021,Carlisle 006,E02003992,83.1,81.5,84.8,Female
+Carlisle,J01000021,Carlisle 008,E02003994,74.2,72.2,76.2,Male
+Carlisle,J01000021,Carlisle 008,E02003994,79.6,77.7,81.4,Female
+Carlisle,J01000021,Carlisle 009,E02003995,76.4,74.8,78.0,Male
+Carlisle,J01000021,Carlisle 009,E02003995,80.0,78.1,82.0,Female
+Carlisle,J01000021,Carlisle 010,E02003996,76.9,75.1,78.7,Male
+Carlisle,J01000021,Carlisle 010,E02003996,80.8,79.1,82.6,Female
+Carlisle,J01000021,Carlisle 011,E02003997,75.1,73.3,77.0,Male
+Carlisle,J01000021,Carlisle 011,E02003997,78.7,77.1,80.3,Female
+Carlisle,J01000021,Carlisle 012,E02003998,74.4,72.4,76.3,Male
+Carlisle,J01000021,Carlisle 012,E02003998,81.7,80.0,83.4,Female
+Carlisle,J01000021,Carlisle 013,E02003999,81.3,79.7,83.0,Male
+Carlisle,J01000021,Carlisle 013,E02003999,83.3,81.9,84.7,Female
+Coventry,J01000028,Coventry 001,E02001958,78.8,77.0,80.6,Male
+Coventry,J01000028,Coventry 001,E02001958,80.6,78.7,82.6,Female
+Coventry,J01000028,Coventry 002,E02001959,79.3,77.4,81.1,Male
+Coventry,J01000028,Coventry 002,E02001959,80.0,77.8,82.2,Female
+Coventry,J01000028,Coventry 004,E02001961,74.6,72.6,76.6,Male
+Coventry,J01000028,Coventry 004,E02001961,78.2,76.1,80.3,Female
+Coventry,J01000028,Coventry 005,E02001962,74.3,71.9,76.6,Male
+Coventry,J01000028,Coventry 005,E02001962,81.7,79.5,83.9,Female
+Coventry,J01000028,Coventry 006,E02001963,78.6,76.5,80.7,Male
+Coventry,J01000028,Coventry 006,E02001963,80.8,78.7,83.0,Female
+Coventry,J01000028,Coventry 007,E02001964,72.7,70.6,74.8,Male
+Coventry,J01000028,Coventry 007,E02001964,79.6,77.6,81.5,Female
+Coventry,J01000028,Coventry 008,E02001965,81.4,79.6,83.2,Male
+Coventry,J01000028,Coventry 008,E02001965,85.3,83.7,87.0,Female
+Coventry,J01000028,Coventry 009,E02001966,76.2,73.9,78.6,Male
+Coventry,J01000028,Coventry 009,E02001966,80.4,78.1,82.8,Female
+Coventry,J01000028,Coventry 010,E02001967,81.6,80.1,83.0,Male
+Coventry,J01000028,Coventry 010,E02001967,83.6,82.3,84.9,Female
+Coventry,J01000028,Coventry 011,E02001968,77.4,75.3,79.5,Male
+Coventry,J01000028,Coventry 011,E02001968,83.8,81.6,85.9,Female
+Coventry,J01000028,Coventry 012,E02001969,76.8,74.7,78.9,Male
+Coventry,J01000028,Coventry 012,E02001969,79.9,77.6,82.1,Female
+Coventry,J01000028,Coventry 013,E02001970,80.5,78.2,82.8,Male
+Coventry,J01000028,Coventry 013,E02001970,83.3,81.1,85.5,Female
+Coventry,J01000028,Coventry 014,E02001971,78.9,76.7,81.2,Male
+Coventry,J01000028,Coventry 014,E02001971,83.0,81.0,84.9,Female
+Coventry,J01000028,Coventry 015,E02001972,74.3,72.3,76.3,Male
+Coventry,J01000028,Coventry 015,E02001972,78.8,76.8,80.8,Female
+Coventry,J01000028,Coventry 016,E02001973,74.4,72.4,76.3,Male
+Coventry,J01000028,Coventry 016,E02001973,78.8,76.8,80.8,Female
+Coventry,J01000028,Coventry 017,E02001974,79.8,78.3,81.3,Male
+Coventry,J01000028,Coventry 017,E02001974,85.7,84.3,87.1,Female
+Coventry,J01000028,Coventry 018,E02001975,77.6,75.5,79.7,Male
+Coventry,J01000028,Coventry 018,E02001975,86.3,84.6,88.0,Female
+Coventry,J01000028,Coventry 019,E02001976,78.6,76.4,80.9,Male
+Coventry,J01000028,Coventry 019,E02001976,85.0,83.2,86.7,Female
+Coventry,J01000028,Coventry 020,E02001977,71.5,69.6,73.4,Male
+Coventry,J01000028,Coventry 020,E02001977,78.2,76.3,80.2,Female
+Coventry,J01000028,Coventry 021,E02001978,77.3,75.1,79.4,Male
+Coventry,J01000028,Coventry 021,E02001978,82.2,79.8,84.5,Female
+Coventry,J01000028,Coventry 022,E02001979,81.0,79.1,83.0,Male
+Coventry,J01000028,Coventry 022,E02001979,83.6,81.9,85.3,Female
+Coventry,J01000028,Coventry 023,E02001980,80.6,78.2,83.1,Male
+Coventry,J01000028,Coventry 023,E02001980,87.3,85.0,89.5,Female
+Coventry,J01000028,Coventry 024,E02001981,75.7,73.4,77.9,Male
+Coventry,J01000028,Coventry 024,E02001981,80.5,78.4,82.5,Female
+Coventry,J01000028,Coventry 025,E02001982,81.8,80.0,83.6,Male
+Coventry,J01000028,Coventry 025,E02001982,83.5,81.9,85.2,Female
+Coventry,J01000028,Coventry 026,E02001983,80.4,78.7,82.0,Male
+Coventry,J01000028,Coventry 026,E02001983,82.1,80.1,84.2,Female
+Coventry,J01000028,Coventry 027,E02001984,76.5,74.9,78.2,Male
+Coventry,J01000028,Coventry 027,E02001984,80.6,79.0,82.1,Female
+Coventry,J01000028,Coventry 028,E02001985,74.4,71.7,77.1,Male
+Coventry,J01000028,Coventry 028,E02001985,80.8,78.3,83.3,Female
+Coventry,J01000028,Coventry 029,E02001986,76.4,74.2,78.6,Male
+Coventry,J01000028,Coventry 029,E02001986,79.8,77.8,81.8,Female
+Coventry,J01000028,Coventry 030,E02001987,76.9,74.3,79.5,Male
+Coventry,J01000028,Coventry 030,E02001987,80.1,77.2,83.0,Female
+Coventry,J01000028,Coventry 031,E02001988,74.6,72.2,77.0,Male
+Coventry,J01000028,Coventry 031,E02001988,79.0,76.4,81.6,Female
+Coventry,J01000028,Coventry 032,E02001989,79.7,77.3,82.1,Male
+Coventry,J01000028,Coventry 032,E02001989,84.0,82.0,86.1,Female
+Coventry,J01000028,Coventry 033,E02001990,81.3,79.6,83.0,Male
+Coventry,J01000028,Coventry 033,E02001990,85.0,83.5,86.5,Female
+Coventry,J01000028,Coventry 034,E02001991,79.9,78.1,81.7,Male
+Coventry,J01000028,Coventry 034,E02001991,84.4,82.8,86.1,Female
+Coventry,J01000028,Coventry 035,E02001992,75.7,73.8,77.6,Male
+Coventry,J01000028,Coventry 035,E02001992,81.0,79.3,82.8,Female
+Coventry,J01000028,Coventry 036,E02001993,76.1,73.9,78.3,Male
+Coventry,J01000028,Coventry 036,E02001993,82.2,80.3,84.2,Female
+Coventry,J01000028,Coventry 037,E02001994,79.9,78.1,81.6,Male
+Coventry,J01000028,Coventry 037,E02001994,83.5,81.7,85.3,Female
+Coventry,J01000028,Coventry 038,E02001995,76.0,73.8,78.3,Male
+Coventry,J01000028,Coventry 038,E02001995,80.2,78.4,82.1,Female
+Coventry,J01000028,Coventry 039,E02001996,72.1,69.7,74.4,Male
+Coventry,J01000028,Coventry 039,E02001996,78.2,76.1,80.2,Female
+Coventry,J01000028,Coventry 040,E02001997,84.3,82.8,85.8,Male
+Coventry,J01000028,Coventry 040,E02001997,86.5,84.6,88.4,Female
+Coventry,J01000028,Coventry 041,E02001998,83.1,81.5,84.8,Male
+Coventry,J01000028,Coventry 041,E02001998,86.4,84.6,88.2,Female
+Coventry,J01000028,Coventry 042,E02001999,80.4,78.4,82.5,Male
+Coventry,J01000028,Coventry 042,E02001999,85.4,83.8,87.1,Female
+Coventry,J01000028,Coventry 043,E02006805,77.1,75.2,78.9,Male
+Coventry,J01000028,Coventry 043,E02006805,80.2,78.4,82.0,Female
+Coventry,J01000028,Nuneaton and Bedworth 018,E02006806,75.6,73.8,77.4,Male
+Coventry,J01000028,Nuneaton and Bedworth 018,E02006806,79.7,78.1,81.3,Female
+Derby,J01000031,Derby 001,E02002796,84.2,82.6,85.7,Male
+Derby,J01000031,Derby 001,E02002796,87.9,85.8,89.9,Female
+Derby,J01000031,Derby 002,E02002797,82.6,80.6,84.5,Male
+Derby,J01000031,Derby 002,E02002797,89.7,88.0,91.3,Female
+Derby,J01000031,Derby 003,E02002798,83.0,81.2,84.7,Male
+Derby,J01000031,Derby 003,E02002798,84.6,83.1,86.2,Female
+Derby,J01000031,Derby 004,E02002799,77.4,75.3,79.5,Male
+Derby,J01000031,Derby 004,E02002799,82.2,80.1,84.3,Female
+Derby,J01000031,Derby 005,E02002800,79.3,77.4,81.2,Male
+Derby,J01000031,Derby 005,E02002800,81.2,79.3,83.2,Female
+Derby,J01000031,Derby 006,E02002801,79.8,77.8,81.8,Male
+Derby,J01000031,Derby 006,E02002801,84.3,82.2,86.4,Female
+Derby,J01000031,Derby 007,E02002802,73.2,71.2,75.2,Male
+Derby,J01000031,Derby 007,E02002802,78.8,77.1,80.5,Female
+Derby,J01000031,Derby 008,E02002803,75.0,72.9,77.2,Male
+Derby,J01000031,Derby 008,E02002803,81.5,78.7,84.3,Female
+Derby,J01000031,Derby 009,E02002804,77.0,75.0,79.0,Male
+Derby,J01000031,Derby 009,E02002804,84.4,82.3,86.6,Female
+Derby,J01000031,Derby 010,E02002805,81.3,78.9,83.8,Male
+Derby,J01000031,Derby 010,E02002805,83.9,82.4,85.3,Female
+Derby,J01000031,Derby 011,E02002806,76.3,74.0,78.6,Male
+Derby,J01000031,Derby 011,E02002806,82.8,80.3,85.3,Female
+Derby,J01000031,Derby 012,E02002807,78.5,76.5,80.5,Male
+Derby,J01000031,Derby 012,E02002807,83.6,81.9,85.3,Female
+Derby,J01000031,Derby 013,E02002808,72.5,70.7,74.3,Male
+Derby,J01000031,Derby 013,E02002808,77.8,75.9,79.8,Female
+Derby,J01000031,Derby 014,E02002809,76.3,74.5,78.1,Male
+Derby,J01000031,Derby 014,E02002809,79.4,77.5,81.3,Female
+Derby,J01000031,Derby 015,E02002810,85.2,83.4,86.9,Male
+Derby,J01000031,Derby 015,E02002810,89.8,88.3,91.2,Female
+Derby,J01000031,Derby 016,E02002811,75.9,73.9,77.9,Male
+Derby,J01000031,Derby 016,E02002811,81.3,79.0,83.5,Female
+Derby,J01000031,Derby 017,E02002812,76.7,74.5,79.0,Male
+Derby,J01000031,Derby 017,E02002812,80.2,78.4,82.0,Female
+Derby,J01000031,Derby 018,E02002813,73.7,71.9,75.5,Male
+Derby,J01000031,Derby 018,E02002813,78.3,76.6,80.0,Female
+Derby,J01000031,Derby 019,E02002814,82.1,80.7,83.5,Male
+Derby,J01000031,Derby 019,E02002814,84.0,82.4,85.6,Female
+Derby,J01000031,Derby 020,E02002815,79.2,76.8,81.6,Male
+Derby,J01000031,Derby 020,E02002815,82.4,80.2,84.7,Female
+Derby,J01000031,Derby 021,E02002816,86.8,84.9,88.7,Male
+Derby,J01000031,Derby 021,E02002816,85.6,83.8,87.3,Female
+Derby,J01000031,Derby 022,E02002817,81.6,79.8,83.4,Male
+Derby,J01000031,Derby 022,E02002817,87.0,85.5,88.5,Female
+Derby,J01000031,Derby 023,E02002818,74.4,72.7,76.1,Male
+Derby,J01000031,Derby 023,E02002818,77.7,75.9,79.5,Female
+Derby,J01000031,Derby 024,E02002819,80.5,78.5,82.6,Male
+Derby,J01000031,Derby 024,E02002819,86.7,84.8,88.7,Female
+Derby,J01000031,Derby 025,E02002820,76.8,75.0,78.6,Male
+Derby,J01000031,Derby 025,E02002820,81.8,79.9,83.8,Female
+Derby,J01000031,Derby 026,E02002821,73.8,72.1,75.6,Male
+Derby,J01000031,Derby 026,E02002821,78.3,76.6,80.1,Female
+Derby,J01000031,Derby 027,E02002822,79.2,76.6,81.8,Male
+Derby,J01000031,Derby 027,E02002822,85.4,83.4,87.4,Female
+Derby,J01000031,Derby 028,E02002823,76.3,74.4,78.2,Male
+Derby,J01000031,Derby 028,E02002823,83.7,81.8,85.5,Female
+Derby,J01000031,Derby 029,E02002824,77.2,75.2,79.2,Male
+Derby,J01000031,Derby 029,E02002824,81.9,79.9,84.0,Female
+Derby,J01000031,Derby 030,E02002825,78.7,77.1,80.4,Male
+Derby,J01000031,Derby 030,E02002825,81.3,79.8,82.8,Female
+Derby,J01000031,Derby 031,E02002826,78.1,75.6,80.6,Male
+Derby,J01000031,Derby 031,E02002826,89.1,86.6,91.7,Female
+Derby,J01000031,South Derbyshire 003,E02004120,81.7,79.9,83.5,Male
+Derby,J01000031,South Derbyshire 003,E02004120,83.6,82.0,85.1,Female
+Doncaster,J01000032,Doncaster 007,E02001545,82.9,81.2,84.6,Male
+Doncaster,J01000032,Doncaster 007,E02001545,85.6,84.0,87.1,Female
+Doncaster,J01000032,Doncaster 011,E02001549,80.4,78.4,82.4,Male
+Doncaster,J01000032,Doncaster 011,E02001549,80.5,78.6,82.4,Female
+Doncaster,J01000032,Doncaster 015,E02001553,79.1,77.3,80.9,Male
+Doncaster,J01000032,Doncaster 015,E02001553,84.3,82.4,86.1,Female
+Doncaster,J01000032,Doncaster 018,E02001556,77.4,75.6,79.2,Male
+Doncaster,J01000032,Doncaster 018,E02001556,82.4,80.6,84.2,Female
+Doncaster,J01000032,Doncaster 019,E02001557,74.7,72.9,76.6,Male
+Doncaster,J01000032,Doncaster 019,E02001557,80.4,78.5,82.2,Female
+Doncaster,J01000032,Doncaster 021,E02001559,80.9,79.5,82.3,Male
+Doncaster,J01000032,Doncaster 021,E02001559,82.4,80.8,84.0,Female
+Doncaster,J01000032,Doncaster 022,E02001560,74.4,72.7,76.1,Male
+Doncaster,J01000032,Doncaster 022,E02001560,81.0,79.0,83.0,Female
+Doncaster,J01000032,Doncaster 023,E02001561,74.2,72.0,76.4,Male
+Doncaster,J01000032,Doncaster 023,E02001561,79.7,77.4,82.0,Female
+Doncaster,J01000032,Doncaster 024,E02001562,81.2,79.1,83.3,Male
+Doncaster,J01000032,Doncaster 024,E02001562,82.6,80.5,84.8,Female
+Doncaster,J01000032,Doncaster 025,E02001563,79.9,78.2,81.6,Male
+Doncaster,J01000032,Doncaster 025,E02001563,84.5,83.1,85.8,Female
+Doncaster,J01000032,Doncaster 027,E02001565,82.0,80.3,83.7,Male
+Doncaster,J01000032,Doncaster 027,E02001565,85.7,84.2,87.3,Female
+Doncaster,J01000032,Doncaster 028,E02001566,76.3,74.2,78.3,Male
+Doncaster,J01000032,Doncaster 028,E02001566,79.8,77.7,81.8,Female
+Doncaster,J01000032,Doncaster 029,E02001567,77.6,75.9,79.4,Male
+Doncaster,J01000032,Doncaster 029,E02001567,80.8,79.1,82.6,Female
+Doncaster,J01000032,Doncaster 033,E02001571,78.7,76.5,80.8,Male
+Doncaster,J01000032,Doncaster 033,E02001571,83.8,81.4,86.3,Female
+Doncaster,J01000032,Doncaster 034,E02001572,75.3,73.3,77.4,Male
+Doncaster,J01000032,Doncaster 034,E02001572,79.9,77.9,81.8,Female
+Exeter,J01000035,Exeter 001,E02004149,83.5,81.6,85.5,Male
+Exeter,J01000035,Exeter 001,E02004149,86.8,84.8,88.8,Female
+Exeter,J01000035,Exeter 002,E02004150,76.2,74.2,78.3,Male
+Exeter,J01000035,Exeter 002,E02004150,81.1,79.6,82.7,Female
+Exeter,J01000035,Exeter 003,E02004151,82.1,80.2,84.0,Male
+Exeter,J01000035,Exeter 003,E02004151,87.0,85.3,88.8,Female
+Exeter,J01000035,Exeter 004,E02004152,77.0,74.9,79.1,Male
+Exeter,J01000035,Exeter 004,E02004152,79.1,75.5,82.8,Female
+Exeter,J01000035,Exeter 005,E02004153,81.6,79.7,83.6,Male
+Exeter,J01000035,Exeter 005,E02004153,85.9,83.8,87.9,Female
+Exeter,J01000035,Exeter 006,E02004154,78.5,76.6,80.5,Male
+Exeter,J01000035,Exeter 006,E02004154,85.0,83.0,87.0,Female
+Exeter,J01000035,Exeter 007,E02004155,79.4,77.5,81.3,Male
+Exeter,J01000035,Exeter 007,E02004155,84.9,82.9,86.8,Female
+Exeter,J01000035,Exeter 008,E02004156,75.4,73.3,77.5,Male
+Exeter,J01000035,Exeter 008,E02004156,83.2,80.8,85.6,Female
+Exeter,J01000035,Exeter 009,E02004157,77.9,75.7,80.2,Male
+Exeter,J01000035,Exeter 009,E02004157,83.0,80.9,85.0,Female
+Exeter,J01000035,Exeter 010,E02004158,76.2,74.1,78.3,Male
+Exeter,J01000035,Exeter 010,E02004158,86.5,84.5,88.5,Female
+Exeter,J01000035,Exeter 011,E02004159,83.2,81.7,84.6,Male
+Exeter,J01000035,Exeter 011,E02004159,86.1,84.4,87.7,Female
+Exeter,J01000035,Exeter 012,E02004160,80.2,78.6,81.8,Male
+Exeter,J01000035,Exeter 012,E02004160,84.1,82.5,85.7,Female
+Exeter,J01000035,Exeter 013,E02004161,78.8,76.9,80.6,Male
+Exeter,J01000035,Exeter 013,E02004161,80.2,78.2,82.2,Female
+Exeter,J01000035,Exeter 014,E02004162,78.1,76.4,79.8,Male
+Exeter,J01000035,Exeter 014,E02004162,81.1,79.8,82.5,Female
+Leeds,J01000051,Leeds 012,E02002341,85.9,84.5,87.3,Male
+Leeds,J01000051,Leeds 012,E02002341,88.1,86.6,89.6,Female
+Leeds,J01000051,Leeds 013,E02002342,83.5,81.6,85.5,Male
+Leeds,J01000051,Leeds 013,E02002342,85.3,83.2,87.4,Female
+Leeds,J01000051,Leeds 015,E02002344,83.5,81.7,85.3,Male
+Leeds,J01000051,Leeds 015,E02002344,87.9,86.0,89.8,Female
+Leeds,J01000051,Leeds 016,E02002345,82.3,80.4,84.2,Male
+Leeds,J01000051,Leeds 016,E02002345,87.5,85.1,89.9,Female
+Leeds,J01000051,Leeds 017,E02002346,78.4,76.5,80.3,Male
+Leeds,J01000051,Leeds 017,E02002346,83.1,80.9,85.3,Female
+Leeds,J01000051,Leeds 018,E02002347,77.1,75.0,79.3,Male
+Leeds,J01000051,Leeds 018,E02002347,80.9,78.5,83.3,Female
+Leeds,J01000051,Leeds 019,E02002348,78.2,76.0,80.5,Male
+Leeds,J01000051,Leeds 019,E02002348,84.4,82.5,86.2,Female
+Leeds,J01000051,Leeds 020,E02002349,79.4,77.4,81.5,Male
+Leeds,J01000051,Leeds 020,E02002349,83.2,81.5,85.0,Female
+Leeds,J01000051,Leeds 023,E02002352,78.6,77.1,80.1,Male
+Leeds,J01000051,Leeds 023,E02002352,82.5,81.4,83.6,Female
+Leeds,J01000051,Leeds 024,E02002353,84.0,81.7,86.4,Male
+Leeds,J01000051,Leeds 024,E02002353,82.7,80.8,84.6,Female
+Leeds,J01000051,Leeds 025,E02002354,80.0,78.5,81.6,Male
+Leeds,J01000051,Leeds 025,E02002354,81.2,79.3,83.0,Female
+Leeds,J01000051,Leeds 029,E02002358,79.1,77.2,80.9,Male
+Leeds,J01000051,Leeds 029,E02002358,83.6,81.7,85.5,Female
+Leeds,J01000051,Leeds 031,E02002360,79.9,77.8,82.1,Male
+Leeds,J01000051,Leeds 031,E02002360,82.7,80.7,84.6,Female
+Leeds,J01000051,Leeds 032,E02002361,74.8,72.5,77.1,Male
+Leeds,J01000051,Leeds 032,E02002361,80.6,78.9,82.2,Female
+Leeds,J01000051,Leeds 033,E02002362,75.7,73.7,77.8,Male
+Leeds,J01000051,Leeds 033,E02002362,81.2,79.2,83.3,Female
+Leeds,J01000051,Leeds 034,E02002363,78.6,76.6,80.7,Male
+Leeds,J01000051,Leeds 034,E02002363,82.2,80.6,83.7,Female
+Leeds,J01000051,Leeds 035,E02002364,75.6,73.1,78.1,Male
+Leeds,J01000051,Leeds 035,E02002364,79.1,77.0,81.3,Female
+Leeds,J01000051,Leeds 037,E02002366,77.2,75.4,79.1,Male
+Leeds,J01000051,Leeds 037,E02002366,80.4,79.1,81.7,Female
+Leeds,J01000051,Leeds 038,E02002367,73.2,70.8,75.6,Male
+Leeds,J01000051,Leeds 038,E02002367,81.6,79.2,84.1,Female
+Leeds,J01000051,Leeds 040,E02002369,75.1,72.8,77.3,Male
+Leeds,J01000051,Leeds 040,E02002369,81.6,79.4,83.9,Female
+Leeds,J01000051,Leeds 041,E02002370,74.0,72.0,76.1,Male
+Leeds,J01000051,Leeds 041,E02002370,78.6,76.8,80.4,Female
+Leeds,J01000051,Leeds 042,E02002371,75.2,73.4,77.0,Male
+Leeds,J01000051,Leeds 042,E02002371,78.7,77.0,80.3,Female
+Leeds,J01000051,Leeds 044,E02002373,77.3,75.1,79.6,Male
+Leeds,J01000051,Leeds 044,E02002373,76.4,73.4,79.4,Female
+Leeds,J01000051,Leeds 045,E02002374,77.7,75.5,80.0,Male
+Leeds,J01000051,Leeds 045,E02002374,83.9,82.0,85.9,Female
+Leeds,J01000051,Leeds 046,E02002375,75.1,72.8,77.4,Male
+Leeds,J01000051,Leeds 046,E02002375,84.3,81.2,87.5,Female
+Leeds,J01000051,Leeds 047,E02002376,75.8,73.3,78.3,Male
+Leeds,J01000051,Leeds 047,E02002376,79.2,77.1,81.3,Female
+Leeds,J01000051,Leeds 048,E02002377,73.0,70.6,75.4,Male
+Leeds,J01000051,Leeds 048,E02002377,83.8,80.6,87.1,Female
+Leeds,J01000051,Leeds 050,E02002379,74.1,71.2,76.9,Male
+Leeds,J01000051,Leeds 050,E02002379,79.6,77.0,82.2,Female
+Leeds,J01000051,Leeds 051,E02002380,80.8,78.8,82.8,Male
+Leeds,J01000051,Leeds 051,E02002380,83.0,80.6,85.4,Female
+Leeds,J01000051,Leeds 052,E02002381,79.9,77.7,82.0,Male
+Leeds,J01000051,Leeds 052,E02002381,85.3,83.2,87.5,Female
+Leeds,J01000051,Leeds 053,E02002382,73.9,71.2,76.6,Male
+Leeds,J01000051,Leeds 053,E02002382,77.5,75.1,80.0,Female
+Leeds,J01000051,Leeds 054,E02002383,74.8,70.9,78.8,Male
+Leeds,J01000051,Leeds 054,E02002383,80.1,75.8,84.3,Female
+Leeds,J01000051,Leeds 055,E02002384,76.1,74.0,78.2,Male
+Leeds,J01000051,Leeds 055,E02002384,77.8,75.5,80.0,Female
+Leeds,J01000051,Leeds 056,E02002385,74.5,71.8,77.1,Male
+Leeds,J01000051,Leeds 056,E02002385,79.0,76.6,81.4,Female
+Leeds,J01000051,Leeds 057,E02002386,79.7,78.2,81.3,Male
+Leeds,J01000051,Leeds 057,E02002386,82.5,81.1,83.9,Female
+Leeds,J01000051,Leeds 058,E02002387,72.5,70.0,75.0,Male
+Leeds,J01000051,Leeds 058,E02002387,81.4,78.8,84.1,Female
+Leeds,J01000051,Leeds 059,E02002388,76.1,73.9,78.3,Male
+Leeds,J01000051,Leeds 059,E02002388,81.6,79.8,83.4,Female
+Leeds,J01000051,Leeds 060,E02002389,74.8,72.7,76.9,Male
+Leeds,J01000051,Leeds 060,E02002389,78.3,76.2,80.4,Female
+Leeds,J01000051,Leeds 061,E02002390,78.1,75.8,80.3,Male
+Leeds,J01000051,Leeds 061,E02002390,84.4,82.3,86.4,Female
+Leeds,J01000051,Leeds 063,E02002392,74.9,70.6,79.2,Male
+Leeds,J01000051,Leeds 063,E02002392,78.2,74.5,81.8,Female
+Leeds,J01000051,Leeds 064,E02002393,69.9,67.9,71.9,Male
+Leeds,J01000051,Leeds 064,E02002393,75.8,73.7,77.8,Female
+Leeds,J01000051,Leeds 065,E02002394,75.3,73.2,77.4,Male
+Leeds,J01000051,Leeds 065,E02002394,81.1,78.5,83.7,Female
+Leeds,J01000051,Leeds 067,E02002396,76.9,75.0,78.9,Male
+Leeds,J01000051,Leeds 067,E02002396,84.0,82.5,85.4,Female
+Leeds,J01000051,Leeds 068,E02002397,79.0,77.1,80.8,Male
+Leeds,J01000051,Leeds 068,E02002397,83.6,82.1,85.2,Female
+Leeds,J01000051,Leeds 069,E02002398,81.9,80.4,83.4,Male
+Leeds,J01000051,Leeds 069,E02002398,84.8,82.9,86.8,Female
+Leeds,J01000051,Leeds 070,E02002399,78.3,76.4,80.3,Male
+Leeds,J01000051,Leeds 070,E02002399,79.6,77.8,81.3,Female
+Leeds,J01000051,Leeds 071,E02002400,71.3,69.4,73.1,Male
+Leeds,J01000051,Leeds 071,E02002400,76.4,74.4,78.4,Female
+Leeds,J01000051,Leeds 072,E02002401,73.6,71.3,76.0,Male
+Leeds,J01000051,Leeds 072,E02002401,79.9,77.3,82.4,Female
+Leeds,J01000051,Leeds 073,E02002402,79.9,78.5,81.4,Male
+Leeds,J01000051,Leeds 073,E02002402,79.7,78.0,81.3,Female
+Leeds,J01000051,Leeds 075,E02002404,73.5,71.6,75.4,Male
+Leeds,J01000051,Leeds 075,E02002404,79.2,76.8,81.5,Female
+Leeds,J01000051,Leeds 078,E02002407,73.5,71.3,75.8,Male
+Leeds,J01000051,Leeds 078,E02002407,78.7,76.9,80.6,Female
+Leeds,J01000051,Leeds 080,E02002409,76.9,74.6,79.1,Male
+Leeds,J01000051,Leeds 080,E02002409,83.4,81.0,85.9,Female
+Leeds,J01000051,Leeds 081,E02002410,76.3,74.6,78.1,Male
+Leeds,J01000051,Leeds 081,E02002410,80.4,78.8,82.0,Female
+Leeds,J01000051,Leeds 082,E02002411,71.7,69.5,73.9,Male
+Leeds,J01000051,Leeds 082,E02002411,76.2,74.0,78.5,Female
+Leeds,J01000051,Leeds 083,E02002412,79.3,77.1,81.6,Male
+Leeds,J01000051,Leeds 083,E02002412,85.6,83.3,88.0,Female
+Leeds,J01000051,Leeds 085,E02002414,72.1,69.8,74.5,Male
+Leeds,J01000051,Leeds 085,E02002414,78.8,76.5,81.2,Female
+Leeds,J01000051,Leeds 086,E02002415,74.2,71.6,76.8,Male
+Leeds,J01000051,Leeds 086,E02002415,78.8,76.0,81.6,Female
+Leeds,J01000051,Leeds 090,E02002419,74.5,72.5,76.5,Male
+Leeds,J01000051,Leeds 090,E02002419,82.7,80.5,84.8,Female
+Leeds,J01000051,Leeds 091,E02002420,78.6,76.5,80.6,Male
+Leeds,J01000051,Leeds 091,E02002420,80.5,78.4,82.6,Female
+Leeds,J01000051,Leeds 092,E02002421,74.3,72.1,76.6,Male
+Leeds,J01000051,Leeds 092,E02002421,79.0,76.9,81.1,Female
+Leeds,J01000051,Leeds 094,E02002423,74.9,72.4,77.4,Male
+Leeds,J01000051,Leeds 094,E02002423,81.6,79.7,83.5,Female
+Leeds,J01000051,Leeds 099,E02002428,76.1,73.9,78.2,Male
+Leeds,J01000051,Leeds 099,E02002428,82.5,80.8,84.3,Female
+Leeds,J01000051,Leeds 101,E02002430,72.4,70.4,74.4,Male
+Leeds,J01000051,Leeds 101,E02002430,78.6,76.8,80.5,Female
+Leeds,J01000051,Leeds 109,E02006852,81.8,80.4,83.3,Male
+Leeds,J01000051,Leeds 109,E02006852,86.0,84.6,87.4,Female
+Leeds,J01000051,Leeds 110,E02006861,76.0,73.6,78.5,Male
+Leeds,J01000051,Leeds 110,E02006861,77.9,75.5,80.2,Female
+Leeds,J01000051,Leeds 111,E02006875,71.1,66.0,76.1,Male
+Leeds,J01000051,Leeds 111,E02006875,81.3,74.4,88.2,Female
+Leeds,J01000051,Leeds 112,E02006876,71.7,69.3,74.1,Male
+Leeds,J01000051,Leeds 112,E02006876,73.9,72.0,75.9,Female
+Leicester,J01000052,Leicester 001,E02002827,75.2,72.8,77.5,Male
+Leicester,J01000052,Leicester 001,E02002827,80.8,78.7,83.0,Female
+Leicester,J01000052,Leicester 002,E02002828,80.4,78.5,82.3,Male
+Leicester,J01000052,Leicester 002,E02002828,83.2,81.2,85.1,Female
+Leicester,J01000052,Leicester 003,E02002829,75.4,73.5,77.2,Male
+Leicester,J01000052,Leicester 003,E02002829,82.1,80.2,84.0,Female
+Leicester,J01000052,Leicester 004,E02002830,76.2,74.1,78.2,Male
+Leicester,J01000052,Leicester 004,E02002830,83.4,81.1,85.7,Female
+Leicester,J01000052,Leicester 005,E02002831,77.9,75.7,80.2,Male
+Leicester,J01000052,Leicester 005,E02002831,81.8,79.8,83.7,Female
+Leicester,J01000052,Leicester 006,E02002832,78.0,76.1,79.9,Male
+Leicester,J01000052,Leicester 006,E02002832,83.4,81.4,85.3,Female
+Leicester,J01000052,Leicester 007,E02002833,80.2,78.3,82.1,Male
+Leicester,J01000052,Leicester 007,E02002833,84.9,82.8,87.0,Female
+Leicester,J01000052,Leicester 008,E02002834,81.7,80.0,83.3,Male
+Leicester,J01000052,Leicester 008,E02002834,84.7,82.9,86.5,Female
+Leicester,J01000052,Leicester 009,E02002835,77.1,75.5,78.7,Male
+Leicester,J01000052,Leicester 009,E02002835,81.4,80.0,82.9,Female
+Leicester,J01000052,Leicester 010,E02002836,79.1,77.3,81.0,Male
+Leicester,J01000052,Leicester 010,E02002836,84.2,82.5,85.9,Female
+Leicester,J01000052,Leicester 011,E02002837,74.0,71.9,76.1,Male
+Leicester,J01000052,Leicester 011,E02002837,81.9,79.7,84.0,Female
+Leicester,J01000052,Leicester 012,E02002838,72.9,71.0,74.8,Male
+Leicester,J01000052,Leicester 012,E02002838,79.7,77.8,81.6,Female
+Leicester,J01000052,Leicester 013,E02002839,77.6,75.6,79.6,Male
+Leicester,J01000052,Leicester 013,E02002839,82.4,80.7,84.2,Female
+Leicester,J01000052,Leicester 016,E02002842,74.4,72.0,76.8,Male
+Leicester,J01000052,Leicester 016,E02002842,80.4,77.9,82.9,Female
+Leicester,J01000052,Leicester 017,E02002843,77.1,75.4,78.9,Male
+Leicester,J01000052,Leicester 017,E02002843,81.6,79.8,83.4,Female
+Leicester,J01000052,Leicester 018,E02002844,77.6,75.8,79.4,Male
+Leicester,J01000052,Leicester 018,E02002844,83.2,81.2,85.2,Female
+Leicester,J01000052,Leicester 019,E02002845,75.6,74.0,77.2,Male
+Leicester,J01000052,Leicester 019,E02002845,80.6,79.1,82.2,Female
+Leicester,J01000052,Leicester 020,E02002846,77.9,76.1,79.8,Male
+Leicester,J01000052,Leicester 020,E02002846,81.2,79.4,82.9,Female
+Leicester,J01000052,Leicester 021,E02002847,78.0,76.1,79.9,Male
+Leicester,J01000052,Leicester 021,E02002847,83.4,81.6,85.2,Female
+Leicester,J01000052,Leicester 022,E02002848,77.6,75.7,79.5,Male
+Leicester,J01000052,Leicester 022,E02002848,83.0,80.9,85.2,Female
+Leicester,J01000052,Leicester 023,E02002849,74.0,72.2,75.8,Male
+Leicester,J01000052,Leicester 023,E02002849,79.0,77.1,80.8,Female
+Leicester,J01000052,Leicester 025,E02002851,81.7,80.0,83.4,Male
+Leicester,J01000052,Leicester 025,E02002851,83.7,81.6,85.7,Female
+Leicester,J01000052,Leicester 026,E02002852,74.1,71.8,76.3,Male
+Leicester,J01000052,Leicester 026,E02002852,81.5,78.9,84.1,Female
+Leicester,J01000052,Leicester 027,E02002853,79.2,77.2,81.3,Male
+Leicester,J01000052,Leicester 027,E02002853,86.7,84.7,88.7,Female
+Leicester,J01000052,Leicester 028,E02002854,72.4,70.6,74.2,Male
+Leicester,J01000052,Leicester 028,E02002854,76.6,74.9,78.3,Female
+Leicester,J01000052,Leicester 029,E02002855,79.2,76.7,81.7,Male
+Leicester,J01000052,Leicester 029,E02002855,83.2,80.2,86.2,Female
+Leicester,J01000052,Leicester 030,E02002856,76.6,74.9,78.4,Male
+Leicester,J01000052,Leicester 030,E02002856,82.0,80.2,83.8,Female
+Leicester,J01000052,Leicester 031,E02002857,75.6,73.1,78.1,Male
+Leicester,J01000052,Leicester 031,E02002857,82.3,80.0,84.7,Female
+Leicester,J01000052,Leicester 032,E02002858,79.1,77.5,80.8,Male
+Leicester,J01000052,Leicester 032,E02002858,82.8,80.9,84.8,Female
+Leicester,J01000052,Leicester 034,E02002860,77.6,76.0,79.2,Male
+Leicester,J01000052,Leicester 034,E02002860,79.4,77.6,81.2,Female
+Leicester,J01000052,Leicester 035,E02002861,74.0,71.7,76.3,Male
+Leicester,J01000052,Leicester 035,E02002861,78.7,76.3,81.0,Female
+Leicester,J01000052,Leicester 036,E02002862,74.2,72.3,76.1,Male
+Leicester,J01000052,Leicester 036,E02002862,80.4,78.5,82.4,Female
+Leicester,J01000052,Blaby 002,E02005334,80.7,78.7,82.8,Male
+Leicester,J01000052,Blaby 002,E02005334,86.8,84.6,88.9,Female
+Leicester,J01000052,Blaby 003,E02005335,78.7,76.7,80.7,Male
+Leicester,J01000052,Blaby 003,E02005335,83.2,82.0,84.4,Female
+Leicester,J01000052,Blaby 004,E02005336,83.4,81.1,85.7,Male
+Leicester,J01000052,Blaby 004,E02005336,84.7,82.5,86.9,Female
+Leicester,J01000052,Blaby 005,E02005337,79.1,77.4,80.8,Male
+Leicester,J01000052,Blaby 005,E02005337,85.7,84.1,87.2,Female
+Leicester,J01000052,Charnwood 021,E02005365,79.5,77.7,81.3,Male
+Leicester,J01000052,Charnwood 021,E02005365,84.9,83.6,86.2,Female
+Leicester,J01000052,Leicester 037,E02006815,77.2,75.4,79.0,Male
+Leicester,J01000052,Leicester 037,E02006815,79.9,78.1,81.6,Female
+Leicester,J01000052,Harborough 011,E02006816,83.1,80.8,85.4,Male
+Leicester,J01000052,Harborough 011,E02006816,86.6,85.1,88.1,Female
+Leicester,J01000052,Leicester 038,E02006817,78.8,76.5,81.0,Male
+Leicester,J01000052,Leicester 038,E02006817,84.0,82.1,85.8,Female
+Leicester,J01000052,Leicester 039,E02006819,73.9,71.7,76.1,Male
+Leicester,J01000052,Leicester 039,E02006819,81.2,79.0,83.4,Female
+Leicester,J01000052,Blaby 013,E02006820,81.1,79.3,83.0,Male
+Leicester,J01000052,Blaby 013,E02006820,86.5,84.8,88.3,Female
+Leicester,J01000052,Leicester 040,E02006850,68.7,65.8,71.7,Male
+Leicester,J01000052,Leicester 040,E02006850,74.5,70.9,78.0,Female
+Leicester,J01000052,Leicester 041,E02006851,69.3,66.4,72.2,Male
+Leicester,J01000052,Leicester 041,E02006851,80.5,74.7,86.4,Female
+Lincoln,J01000053,Lincoln 001,E02005442,75.8,73.3,78.2,Male
+Lincoln,J01000053,Lincoln 001,E02005442,79.8,77.3,82.3,Female
+Lincoln,J01000053,Lincoln 002,E02005443,77.3,75.1,79.5,Male
+Lincoln,J01000053,Lincoln 002,E02005443,82.1,80.5,83.7,Female
+Lincoln,J01000053,Lincoln 003,E02005444,79.9,78.3,81.4,Male
+Lincoln,J01000053,Lincoln 003,E02005444,83.6,82.1,85.1,Female
+Lincoln,J01000053,Lincoln 004,E02005445,75.1,73.4,76.8,Male
+Lincoln,J01000053,Lincoln 004,E02005445,81.8,79.9,83.8,Female
+Lincoln,J01000053,Lincoln 005,E02005446,75.6,73.1,78.1,Male
+Lincoln,J01000053,Lincoln 005,E02005446,80.7,78.6,82.9,Female
+Lincoln,J01000053,Lincoln 006,E02005447,73.0,71.1,75.0,Male
+Lincoln,J01000053,Lincoln 006,E02005447,78.4,76.1,80.7,Female
+Lincoln,J01000053,Lincoln 007,E02005448,77.3,75.2,79.5,Male
+Lincoln,J01000053,Lincoln 007,E02005448,80.6,78.9,82.3,Female
+Lincoln,J01000053,Lincoln 008,E02005449,80.8,79.1,82.4,Male
+Lincoln,J01000053,Lincoln 008,E02005449,84.0,82.1,85.8,Female
+Lincoln,J01000053,Lincoln 009,E02005450,80.3,78.6,82.0,Male
+Lincoln,J01000053,Lincoln 009,E02005450,84.2,82.3,86.1,Female
+Lincoln,J01000053,Lincoln 010,E02005451,73.7,72.0,75.5,Male
+Lincoln,J01000053,Lincoln 010,E02005451,79.0,77.3,80.6,Female
+Lincoln,J01000053,Lincoln 011,E02005452,80.1,78.7,81.4,Male
+Lincoln,J01000053,Lincoln 011,E02005452,83.8,82.4,85.2,Female
+Liverpool,J01000054,Knowsley 006,E02001332,73.5,71.5,75.5,Male
+Liverpool,J01000054,Knowsley 006,E02001332,76.2,74.5,78.0,Female
+Liverpool,J01000054,Knowsley 008,E02001334,75.9,73.6,78.1,Male
+Liverpool,J01000054,Knowsley 008,E02001334,79.6,77.7,81.6,Female
+Liverpool,J01000054,Knowsley 010,E02001336,75.0,72.4,77.5,Male
+Liverpool,J01000054,Knowsley 010,E02001336,78.7,76.7,80.7,Female
+Liverpool,J01000054,Knowsley 011,E02001337,77.3,74.9,79.7,Male
+Liverpool,J01000054,Knowsley 011,E02001337,81.6,79.5,83.7,Female
+Liverpool,J01000054,Knowsley 012,E02001338,77.1,75.0,79.3,Male
+Liverpool,J01000054,Knowsley 012,E02001338,81.0,79.2,82.8,Female
+Liverpool,J01000054,Knowsley 014,E02001340,80.2,78.5,81.9,Male
+Liverpool,J01000054,Knowsley 014,E02001340,85.7,84.0,87.4,Female
+Liverpool,J01000054,Knowsley 015,E02001341,75.0,72.9,77.0,Male
+Liverpool,J01000054,Knowsley 015,E02001341,80.7,78.8,82.6,Female
+Liverpool,J01000054,Knowsley 016,E02001342,79.7,78.4,81.0,Male
+Liverpool,J01000054,Knowsley 016,E02001342,80.8,79.0,82.6,Female
+Liverpool,J01000054,Knowsley 017,E02001343,80.8,78.9,82.7,Male
+Liverpool,J01000054,Knowsley 017,E02001343,86.0,84.2,87.9,Female
+Liverpool,J01000054,Knowsley 018,E02001344,75.6,73.5,77.6,Male
+Liverpool,J01000054,Knowsley 018,E02001344,78.9,76.9,81.0,Female
+Liverpool,J01000054,Knowsley 019,E02001345,81.6,79.5,83.7,Male
+Liverpool,J01000054,Knowsley 019,E02001345,85.4,83.7,87.1,Female
+Liverpool,J01000054,Knowsley 020,E02001346,75.6,73.5,77.8,Male
+Liverpool,J01000054,Knowsley 020,E02001346,84.0,82.0,86.0,Female
+Liverpool,J01000054,Liverpool 001,E02001347,74.2,72.4,76.0,Male
+Liverpool,J01000054,Liverpool 001,E02001347,77.7,76.2,79.3,Female
+Liverpool,J01000054,Liverpool 002,E02001348,76.5,74.8,78.2,Male
+Liverpool,J01000054,Liverpool 002,E02001348,80.3,78.9,81.7,Female
+Liverpool,J01000054,Liverpool 003,E02001349,77.9,76.1,79.6,Male
+Liverpool,J01000054,Liverpool 003,E02001349,80.5,78.5,82.4,Female
+Liverpool,J01000054,Liverpool 004,E02001350,72.1,70.4,73.7,Male
+Liverpool,J01000054,Liverpool 004,E02001350,75.0,73.2,76.7,Female
+Liverpool,J01000054,Liverpool 005,E02001351,75.4,73.6,77.1,Male
+Liverpool,J01000054,Liverpool 005,E02001351,79.6,77.9,81.3,Female
+Liverpool,J01000054,Liverpool 006,E02001352,76.1,74.4,77.9,Male
+Liverpool,J01000054,Liverpool 006,E02001352,82.2,80.0,84.5,Female
+Liverpool,J01000054,Liverpool 007,E02001353,79.6,77.4,81.8,Male
+Liverpool,J01000054,Liverpool 007,E02001353,85.6,83.1,88.0,Female
+Liverpool,J01000054,Liverpool 008,E02001354,75.4,73.3,77.5,Male
+Liverpool,J01000054,Liverpool 008,E02001354,83.4,81.5,85.2,Female
+Liverpool,J01000054,Liverpool 009,E02001355,72.6,70.4,74.7,Male
+Liverpool,J01000054,Liverpool 009,E02001355,82.0,80.0,83.9,Female
+Liverpool,J01000054,Liverpool 010,E02001356,75.4,73.0,77.9,Male
+Liverpool,J01000054,Liverpool 010,E02001356,78.8,76.9,80.8,Female
+Liverpool,J01000054,Liverpool 011,E02001357,72.8,70.6,75.0,Male
+Liverpool,J01000054,Liverpool 011,E02001357,77.7,76.1,79.2,Female
+Liverpool,J01000054,Liverpool 012,E02001358,74.5,72.0,77.0,Male
+Liverpool,J01000054,Liverpool 012,E02001358,78.3,76.4,80.3,Female
+Liverpool,J01000054,Liverpool 013,E02001359,79.0,77.0,81.1,Male
+Liverpool,J01000054,Liverpool 013,E02001359,84.5,82.5,86.5,Female
+Liverpool,J01000054,Liverpool 014,E02001360,71.2,69.2,73.2,Male
+Liverpool,J01000054,Liverpool 014,E02001360,77.5,75.5,79.4,Female
+Liverpool,J01000054,Liverpool 015,E02001361,77.0,75.0,79.0,Male
+Liverpool,J01000054,Liverpool 015,E02001361,81.4,79.5,83.3,Female
+Liverpool,J01000054,Liverpool 016,E02001362,79.3,77.5,81.2,Male
+Liverpool,J01000054,Liverpool 016,E02001362,82.4,80.3,84.5,Female
+Liverpool,J01000054,Liverpool 017,E02001363,73.3,71.5,75.2,Male
+Liverpool,J01000054,Liverpool 017,E02001363,80.9,79.2,82.7,Female
+Liverpool,J01000054,Liverpool 018,E02001364,73.9,71.7,76.0,Male
+Liverpool,J01000054,Liverpool 018,E02001364,77.9,75.5,80.4,Female
+Liverpool,J01000054,Liverpool 019,E02001365,72.4,70.7,74.1,Male
+Liverpool,J01000054,Liverpool 019,E02001365,76.4,74.9,77.9,Female
+Liverpool,J01000054,Liverpool 020,E02001366,74.8,73.0,76.6,Male
+Liverpool,J01000054,Liverpool 020,E02001366,79.9,78.0,81.7,Female
+Liverpool,J01000054,Liverpool 021,E02001367,79.0,77.2,80.8,Male
+Liverpool,J01000054,Liverpool 021,E02001367,82.1,80.6,83.6,Female
+Liverpool,J01000054,Liverpool 022,E02001368,72.7,70.3,75.1,Male
+Liverpool,J01000054,Liverpool 022,E02001368,77.0,75.0,79.1,Female
+Liverpool,J01000054,Liverpool 023,E02001369,75.2,73.5,77.0,Male
+Liverpool,J01000054,Liverpool 023,E02001369,77.1,75.4,78.7,Female
+Liverpool,J01000054,Liverpool 024,E02001370,71.8,69.4,74.2,Male
+Liverpool,J01000054,Liverpool 024,E02001370,75.6,73.2,78.1,Female
+Liverpool,J01000054,Liverpool 025,E02001371,73.9,72.2,75.5,Male
+Liverpool,J01000054,Liverpool 025,E02001371,76.9,75.4,78.3,Female
+Liverpool,J01000054,Liverpool 026,E02001372,75.6,73.6,77.7,Male
+Liverpool,J01000054,Liverpool 026,E02001372,79.3,77.6,80.9,Female
+Liverpool,J01000054,Liverpool 027,E02001373,76.4,74.6,78.3,Male
+Liverpool,J01000054,Liverpool 027,E02001373,80.2,78.4,82.1,Female
+Liverpool,J01000054,Liverpool 028,E02001374,71.2,69.1,73.3,Male
+Liverpool,J01000054,Liverpool 028,E02001374,78.4,76.2,80.5,Female
+Liverpool,J01000054,Liverpool 029,E02001375,75.1,73.0,77.1,Male
+Liverpool,J01000054,Liverpool 029,E02001375,80.2,78.1,82.2,Female
+Liverpool,J01000054,Liverpool 030,E02001376,75.1,73.1,77.1,Male
+Liverpool,J01000054,Liverpool 030,E02001376,79.7,77.7,81.7,Female
+Liverpool,J01000054,Liverpool 031,E02001377,71.5,69.6,73.3,Male
+Liverpool,J01000054,Liverpool 031,E02001377,76.7,74.7,78.6,Female
+Liverpool,J01000054,Liverpool 032,E02001378,74.5,72.6,76.4,Male
+Liverpool,J01000054,Liverpool 032,E02001378,77.3,75.7,78.9,Female
+Liverpool,J01000054,Liverpool 034,E02001380,82.4,80.7,84.2,Male
+Liverpool,J01000054,Liverpool 034,E02001380,88.5,86.6,90.5,Female
+Liverpool,J01000054,Liverpool 035,E02001381,74.6,72.7,76.5,Male
+Liverpool,J01000054,Liverpool 035,E02001381,79.9,78.0,81.9,Female
+Liverpool,J01000054,Liverpool 036,E02001382,82.7,80.6,84.9,Male
+Liverpool,J01000054,Liverpool 036,E02001382,86.7,85.2,88.1,Female
+Liverpool,J01000054,Liverpool 037,E02001383,74.4,71.7,77.1,Male
+Liverpool,J01000054,Liverpool 037,E02001383,88.1,83.9,92.4,Female
+Liverpool,J01000054,Liverpool 038,E02001384,77.4,75.1,79.7,Male
+Liverpool,J01000054,Liverpool 038,E02001384,80.7,78.1,83.4,Female
+Liverpool,J01000054,Liverpool 039,E02001385,74.4,72.2,76.6,Male
+Liverpool,J01000054,Liverpool 039,E02001385,79.6,77.3,81.8,Female
+Liverpool,J01000054,Liverpool 040,E02001386,74.7,72.6,76.8,Male
+Liverpool,J01000054,Liverpool 040,E02001386,81.1,79.3,82.8,Female
+Liverpool,J01000054,Liverpool 041,E02001387,83.3,81.8,84.9,Male
+Liverpool,J01000054,Liverpool 041,E02001387,85.5,84.0,87.0,Female
+Liverpool,J01000054,Liverpool 042,E02001388,77.8,75.6,79.9,Male
+Liverpool,J01000054,Liverpool 042,E02001388,80.6,78.3,82.9,Female
+Liverpool,J01000054,Liverpool 043,E02001389,71.4,69.4,73.3,Male
+Liverpool,J01000054,Liverpool 043,E02001389,77.6,75.6,79.6,Female
+Liverpool,J01000054,Liverpool 044,E02001390,71.5,69.6,73.3,Male
+Liverpool,J01000054,Liverpool 044,E02001390,76.2,74.5,77.9,Female
+Liverpool,J01000054,Liverpool 045,E02001391,75.8,74.0,77.6,Male
+Liverpool,J01000054,Liverpool 045,E02001391,79.0,77.2,80.8,Female
+Liverpool,J01000054,Liverpool 046,E02001392,82.5,80.4,84.6,Male
+Liverpool,J01000054,Liverpool 046,E02001392,88.8,87.3,90.4,Female
+Liverpool,J01000054,Liverpool 047,E02001393,83.9,82.0,85.7,Male
+Liverpool,J01000054,Liverpool 047,E02001393,90.0,88.4,91.6,Female
+Liverpool,J01000054,Liverpool 048,E02001394,73.4,71.3,75.4,Male
+Liverpool,J01000054,Liverpool 048,E02001394,78.5,76.6,80.4,Female
+Liverpool,J01000054,Liverpool 049,E02001395,82.3,80.5,84.1,Male
+Liverpool,J01000054,Liverpool 049,E02001395,85.3,83.4,87.3,Female
+Liverpool,J01000054,Liverpool 050,E02001396,76.2,74.1,78.3,Male
+Liverpool,J01000054,Liverpool 050,E02001396,84.1,82.2,86.0,Female
+Liverpool,J01000054,Liverpool 051,E02001397,80.1,78.1,82.1,Male
+Liverpool,J01000054,Liverpool 051,E02001397,84.0,82.1,85.9,Female
+Liverpool,J01000054,Liverpool 052,E02001398,77.0,74.8,79.1,Male
+Liverpool,J01000054,Liverpool 052,E02001398,81.8,80.3,83.3,Female
+Liverpool,J01000054,Liverpool 053,E02001399,80.2,78.3,82.1,Male
+Liverpool,J01000054,Liverpool 053,E02001399,87.1,85.5,88.7,Female
+Liverpool,J01000054,Liverpool 054,E02001400,74.4,72.2,76.6,Male
+Liverpool,J01000054,Liverpool 054,E02001400,79.6,77.7,81.6,Female
+Liverpool,J01000054,Liverpool 055,E02001401,78.2,76.4,80.1,Male
+Liverpool,J01000054,Liverpool 055,E02001401,82.8,81.5,84.2,Female
+Liverpool,J01000054,Liverpool 056,E02001402,78.2,76.3,80.0,Male
+Liverpool,J01000054,Liverpool 056,E02001402,82.6,81.1,84.1,Female
+Liverpool,J01000054,Liverpool 057,E02001403,74.8,72.8,76.7,Male
+Liverpool,J01000054,Liverpool 057,E02001403,83.0,80.4,85.7,Female
+Liverpool,J01000054,Liverpool 059,E02001405,74.8,73.0,76.6,Male
+Liverpool,J01000054,Liverpool 059,E02001405,78.5,76.8,80.2,Female
+Liverpool,J01000054,Liverpool 060,E02006932,75.7,72.5,78.9,Male
+Liverpool,J01000054,Liverpool 060,E02006932,83.2,77.5,88.9,Female
+Liverpool,J01000054,Liverpool 061,E02006933,78.7,76.3,81.1,Male
+Liverpool,J01000054,Liverpool 061,E02006933,79.2,76.7,81.6,Female
+Liverpool,J01000054,Liverpool 062,E02006934,75.7,72.4,79.0,Male
+Liverpool,J01000054,Liverpool 062,E02006934,79.2,74.8,83.6,Female
+Manchester,J01000058,Bury 023,E02001041,76.8,74.6,79.0,Male
+Manchester,J01000058,Bury 023,E02001041,81.6,79.5,83.7,Female
+Manchester,J01000058,Bury 024,E02001042,80.1,77.6,82.5,Male
+Manchester,J01000058,Bury 024,E02001042,85.3,83.3,87.2,Female
+Manchester,J01000058,Bury 025,E02001043,77.2,74.7,79.7,Male
+Manchester,J01000058,Bury 025,E02001043,80.9,79.1,82.7,Female
+Manchester,J01000058,Bury 026,E02001044,80.0,78.3,81.7,Male
+Manchester,J01000058,Bury 026,E02001044,82.5,80.9,84.1,Female
+Manchester,J01000058,Manchester 001,E02001045,76.6,74.6,78.6,Male
+Manchester,J01000058,Manchester 001,E02001045,81.2,79.3,83.2,Female
+Manchester,J01000058,Manchester 002,E02001046,73.0,71.1,74.8,Male
+Manchester,J01000058,Manchester 002,E02001046,77.3,75.8,78.8,Female
+Manchester,J01000058,Manchester 003,E02001047,73.5,71.9,75.0,Male
+Manchester,J01000058,Manchester 003,E02001047,77.4,75.7,79.0,Female
+Manchester,J01000058,Manchester 004,E02001048,78.6,76.9,80.3,Male
+Manchester,J01000058,Manchester 004,E02001048,83.6,81.5,85.7,Female
+Manchester,J01000058,Manchester 005,E02001049,76.4,74.9,77.9,Male
+Manchester,J01000058,Manchester 005,E02001049,80.8,79.4,82.2,Female
+Manchester,J01000058,Manchester 006,E02001050,71.6,69.7,73.6,Male
+Manchester,J01000058,Manchester 006,E02001050,76.8,74.6,79.1,Female
+Manchester,J01000058,Manchester 007,E02001051,75.3,73.5,77.2,Male
+Manchester,J01000058,Manchester 007,E02001051,79.5,77.7,81.3,Female
+Manchester,J01000058,Manchester 008,E02001052,75.8,74.3,77.4,Male
+Manchester,J01000058,Manchester 008,E02001052,79.4,77.5,81.3,Female
+Manchester,J01000058,Manchester 009,E02001053,70.3,68.5,72.1,Male
+Manchester,J01000058,Manchester 009,E02001053,76.3,74.4,78.2,Female
+Manchester,J01000058,Manchester 011,E02001055,70.2,68.4,72.0,Male
+Manchester,J01000058,Manchester 011,E02001055,76.9,75.2,78.5,Female
+Manchester,J01000058,Manchester 012,E02001056,73.6,71.5,75.6,Male
+Manchester,J01000058,Manchester 012,E02001056,78.2,76.4,79.9,Female
+Manchester,J01000058,Manchester 013,E02001057,71.5,69.2,73.9,Male
+Manchester,J01000058,Manchester 013,E02001057,77.0,74.9,79.1,Female
+Manchester,J01000058,Manchester 015,E02001059,70.9,69.1,72.8,Male
+Manchester,J01000058,Manchester 015,E02001059,77.7,75.8,79.6,Female
+Manchester,J01000058,Manchester 017,E02001061,71.7,69.9,73.5,Male
+Manchester,J01000058,Manchester 017,E02001061,77.6,75.8,79.4,Female
+Manchester,J01000058,Manchester 018,E02001062,72.0,69.9,74.1,Male
+Manchester,J01000058,Manchester 018,E02001062,79.2,76.8,81.6,Female
+Manchester,J01000058,Manchester 019,E02001063,74.9,72.2,77.5,Male
+Manchester,J01000058,Manchester 019,E02001063,79.0,76.0,82.0,Female
+Manchester,J01000058,Manchester 020,E02001064,71.7,70.0,73.4,Male
+Manchester,J01000058,Manchester 020,E02001064,75.6,74.0,77.2,Female
+Manchester,J01000058,Manchester 021,E02001065,75.2,73.3,77.1,Male
+Manchester,J01000058,Manchester 021,E02001065,80.5,78.5,82.5,Female
+Manchester,J01000058,Manchester 022,E02001066,72.0,70.0,73.9,Male
+Manchester,J01000058,Manchester 022,E02001066,77.8,75.6,80.0,Female
+Manchester,J01000058,Manchester 023,E02001067,73.6,71.6,75.5,Male
+Manchester,J01000058,Manchester 023,E02001067,80.2,78.1,82.2,Female
+Manchester,J01000058,Manchester 024,E02001068,72.7,70.6,74.8,Male
+Manchester,J01000058,Manchester 024,E02001068,81.8,79.5,84.0,Female
+Manchester,J01000058,Manchester 025,E02001069,75.7,73.4,77.9,Male
+Manchester,J01000058,Manchester 025,E02001069,80.3,78.1,82.5,Female
+Manchester,J01000058,Manchester 026,E02001070,78.7,76.1,81.3,Male
+Manchester,J01000058,Manchester 026,E02001070,80.3,77.9,82.8,Female
+Manchester,J01000058,Manchester 027,E02001071,74.7,73.0,76.4,Male
+Manchester,J01000058,Manchester 027,E02001071,82.3,80.5,84.1,Female
+Manchester,J01000058,Manchester 028,E02001072,76.3,74.2,78.4,Male
+Manchester,J01000058,Manchester 028,E02001072,79.8,77.7,81.9,Female
+Manchester,J01000058,Manchester 029,E02001073,76.9,75.1,78.8,Male
+Manchester,J01000058,Manchester 029,E02001073,81.0,79.5,82.5,Female
+Manchester,J01000058,Manchester 030,E02001074,73.6,71.9,75.4,Male
+Manchester,J01000058,Manchester 030,E02001074,78.2,76.6,79.8,Female
+Manchester,J01000058,Manchester 031,E02001075,74.1,71.9,76.2,Male
+Manchester,J01000058,Manchester 031,E02001075,80.1,78.1,82.1,Female
+Manchester,J01000058,Manchester 032,E02001076,75.5,72.9,78.2,Male
+Manchester,J01000058,Manchester 032,E02001076,81.5,78.1,84.9,Female
+Manchester,J01000058,Manchester 033,E02001077,78.9,76.8,81.1,Male
+Manchester,J01000058,Manchester 033,E02001077,84.8,82.9,86.7,Female
+Manchester,J01000058,Manchester 034,E02001078,78.2,76.2,80.1,Male
+Manchester,J01000058,Manchester 034,E02001078,83.3,81.6,85.0,Female
+Manchester,J01000058,Manchester 035,E02001079,77.5,75.5,79.5,Male
+Manchester,J01000058,Manchester 035,E02001079,80.5,78.5,82.5,Female
+Manchester,J01000058,Manchester 036,E02001080,78.1,75.9,80.3,Male
+Manchester,J01000058,Manchester 036,E02001080,82.8,80.4,85.1,Female
+Manchester,J01000058,Manchester 037,E02001081,79.4,77.1,81.7,Male
+Manchester,J01000058,Manchester 037,E02001081,84.0,81.7,86.4,Female
+Manchester,J01000058,Manchester 038,E02001082,75.8,73.6,78.0,Male
+Manchester,J01000058,Manchester 038,E02001082,79.3,76.9,81.7,Female
+Manchester,J01000058,Manchester 039,E02001083,74.3,71.6,77.0,Male
+Manchester,J01000058,Manchester 039,E02001083,77.7,75.7,79.6,Female
+Manchester,J01000058,Manchester 040,E02001084,76.4,74.4,78.4,Male
+Manchester,J01000058,Manchester 040,E02001084,82.6,80.6,84.7,Female
+Manchester,J01000058,Manchester 041,E02001085,74.8,72.8,76.9,Male
+Manchester,J01000058,Manchester 041,E02001085,81.1,79.2,83.1,Female
+Manchester,J01000058,Manchester 042,E02001086,76.0,73.9,78.1,Male
+Manchester,J01000058,Manchester 042,E02001086,79.3,77.2,81.3,Female
+Manchester,J01000058,Manchester 043,E02001087,80.8,78.9,82.6,Male
+Manchester,J01000058,Manchester 043,E02001087,87.2,85.7,88.8,Female
+Manchester,J01000058,Manchester 045,E02001089,80.3,78.5,82.2,Male
+Manchester,J01000058,Manchester 045,E02001089,82.9,81.0,84.8,Female
+Manchester,J01000058,Stockport 001,E02001187,78.5,76.5,80.6,Male
+Manchester,J01000058,Stockport 001,E02001187,83.4,81.2,85.6,Female
+Manchester,J01000058,Stockport 002,E02001188,77.2,75.1,79.2,Male
+Manchester,J01000058,Stockport 002,E02001188,81.9,79.9,83.8,Female
+Manchester,J01000058,Stockport 003,E02001189,80.1,78.1,82.2,Male
+Manchester,J01000058,Stockport 003,E02001189,82.7,80.9,84.5,Female
+Manchester,J01000058,Tameside 014,E02001242,76.3,74.1,78.6,Male
+Manchester,J01000058,Tameside 014,E02001242,81.4,79.7,83.1,Female
+Manchester,J01000058,Tameside 019,E02001247,73.6,71.6,75.5,Male
+Manchester,J01000058,Tameside 019,E02001247,79.3,77.6,80.9,Female
+Manchester,J01000058,Trafford 001,E02001259,77.2,75.1,79.4,Male
+Manchester,J01000058,Trafford 001,E02001259,83.1,81.1,85.2,Female
+Manchester,J01000058,Trafford 004,E02001262,77.6,75.3,79.8,Male
+Manchester,J01000058,Trafford 004,E02001262,83.8,82.0,85.7,Female
+Manchester,J01000058,Manchester 054,E02006902,72.5,68.2,76.8,Male
+Manchester,J01000058,Manchester 054,E02006902,77.5,73.6,81.3,Female
+Manchester,J01000058,Manchester 055,E02006912,76.8,73.9,79.6,Male
+Manchester,J01000058,Manchester 055,E02006912,89.5,85.8,93.2,Female
+Manchester,J01000058,Manchester 056,E02006913,74.8,72.0,77.6,Male
+Manchester,J01000058,Manchester 056,E02006913,76.6,73.8,79.3,Female
+Manchester,J01000058,Manchester 057,E02006914,76.5,72.1,81.0,Male
+Manchester,J01000058,Manchester 057,E02006914,84.2,77.4,91.0,Female
+Manchester,J01000058,Manchester 058,E02006915,70.2,67.9,72.5,Male
+Manchester,J01000058,Manchester 058,E02006915,79.4,76.3,82.4,Female
+Manchester,J01000058,Manchester 059,E02006916,74.5,71.3,77.6,Male
+Manchester,J01000058,Manchester 059,E02006916,84.7,80.1,89.2,Female
+Manchester,J01000058,Manchester 060,E02006917,85.6,81.0,90.2,Male
+Manchester,J01000058,Manchester 060,E02006917,,,,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 001,E02001708,78.3,76.7,80.0,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 001,E02001708,80.8,79.4,82.2,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 002,E02001709,82.9,81.4,84.4,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 002,E02001709,88.8,87.3,90.4,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 003,E02001710,76.6,75.0,78.2,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 003,E02001710,79.7,78.0,81.3,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 004,E02001711,77.4,75.6,79.1,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 004,E02001711,78.5,76.8,80.1,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 005,E02001712,80.4,78.7,82.1,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 005,E02001712,82.0,80.3,83.8,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 006,E02001713,81.7,80.2,83.3,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 006,E02001713,84.5,83.1,85.9,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 007,E02001714,81.8,80.1,83.5,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 007,E02001714,84.9,83.2,86.6,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 008,E02001715,77.1,75.7,78.6,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 008,E02001715,78.8,77.4,80.2,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 011,E02001718,76.1,73.7,78.5,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 011,E02001718,79.7,77.7,81.7,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 012,E02001719,81.5,80.0,83.0,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 012,E02001719,87.9,86.4,89.3,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 013,E02001720,81.2,78.7,83.7,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 013,E02001720,85.1,82.9,87.2,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 015,E02001722,79.4,77.8,80.9,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 015,E02001722,84.4,82.9,85.9,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 016,E02001723,77.4,75.1,79.7,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 016,E02001723,80.7,78.6,82.8,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 017,E02001724,77.3,74.5,80.1,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 017,E02001724,83.0,81.2,84.8,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 018,E02001725,75.6,73.5,77.8,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 018,E02001725,79.1,77.0,81.1,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 019,E02001726,80.0,78.6,81.5,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 019,E02001726,82.8,81.3,84.2,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 020,E02001727,78.1,76.4,79.8,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 020,E02001727,82.4,80.8,84.1,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 021,E02001728,78.6,77.0,80.2,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 021,E02001728,81.9,80.5,83.3,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 022,E02001729,76.6,74.5,78.7,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 022,E02001729,81.9,79.6,84.3,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 023,E02001730,78.2,76.0,80.4,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 023,E02001730,81.5,79.2,83.8,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 024,E02001731,72.2,70.3,74.1,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 024,E02001731,79.4,77.2,81.7,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 025,E02001732,76.5,74.0,79.0,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 025,E02001732,81.6,79.4,83.9,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 026,E02001733,73.5,72.2,74.8,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 026,E02001733,78.2,76.8,79.5,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 027,E02001734,76.0,74.2,77.8,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 027,E02001734,81.2,79.7,82.8,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 028,E02001735,72.7,70.6,74.9,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 028,E02001735,78.0,76.1,79.9,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 029,E02001736,71.2,69.7,72.7,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 029,E02001736,76.8,75.2,78.3,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 030,E02001737,71.2,68.9,73.5,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 030,E02001737,76.7,74.6,78.8,Female
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 031,E02006893,82.1,81.1,83.2,Male
+Newcastle-upon-Tyne,J01000062,Newcastle upon Tyne 031,E02006893,84.3,83.2,85.5,Female
+Norwich,J01000066,Broadland 009,E02005528,82.5,80.5,84.5,Male
+Norwich,J01000066,Broadland 009,E02005528,84.3,82.6,86.0,Female
+Norwich,J01000066,Broadland 010,E02005529,79.1,76.1,82.0,Male
+Norwich,J01000066,Broadland 010,E02005529,85.2,83.5,86.9,Female
+Norwich,J01000066,Broadland 011,E02005530,82.0,80.2,83.8,Male
+Norwich,J01000066,Broadland 011,E02005530,83.9,82.3,85.6,Female
+Norwich,J01000066,Broadland 012,E02005531,81.4,79.3,83.6,Male
+Norwich,J01000066,Broadland 012,E02005531,84.9,83.3,86.5,Female
+Norwich,J01000066,Broadland 013,E02005532,82.6,80.7,84.4,Male
+Norwich,J01000066,Broadland 013,E02005532,91.1,88.8,93.4,Female
+Norwich,J01000066,Broadland 015,E02005534,83.3,81.6,85.0,Male
+Norwich,J01000066,Broadland 015,E02005534,86.3,84.3,88.3,Female
+Norwich,J01000066,Broadland 016,E02005535,80.6,79.3,82.0,Male
+Norwich,J01000066,Broadland 016,E02005535,80.5,79.0,81.9,Female
+Norwich,J01000066,Norwich 001,E02005584,78.5,76.7,80.3,Male
+Norwich,J01000066,Norwich 001,E02005584,83.4,81.7,85.2,Female
+Norwich,J01000066,Norwich 002,E02005585,77.9,76.4,79.5,Male
+Norwich,J01000066,Norwich 002,E02005585,84.5,83.0,86.1,Female
+Norwich,J01000066,Norwich 003,E02005586,78.4,76.3,80.4,Male
+Norwich,J01000066,Norwich 003,E02005586,81.9,80.1,83.7,Female
+Norwich,J01000066,Norwich 004,E02005587,75.9,74.1,77.6,Male
+Norwich,J01000066,Norwich 004,E02005587,86.4,84.6,88.1,Female
+Norwich,J01000066,Norwich 005,E02005588,76.8,75.1,78.5,Male
+Norwich,J01000066,Norwich 005,E02005588,81.4,79.8,83.1,Female
+Norwich,J01000066,Norwich 006,E02005589,78.1,76.3,79.9,Male
+Norwich,J01000066,Norwich 006,E02005589,84.2,82.5,85.8,Female
+Norwich,J01000066,Norwich 007,E02005590,75.7,73.8,77.7,Male
+Norwich,J01000066,Norwich 007,E02005590,82.7,80.7,84.7,Female
+Norwich,J01000066,Norwich 009,E02005592,82.0,80.1,84.0,Male
+Norwich,J01000066,Norwich 009,E02005592,83.4,81.3,85.4,Female
+Norwich,J01000066,Norwich 010,E02005593,80.6,78.5,82.7,Male
+Norwich,J01000066,Norwich 010,E02005593,84.8,83.0,86.6,Female
+Norwich,J01000066,Norwich 011,E02005594,79.8,78.3,81.3,Male
+Norwich,J01000066,Norwich 011,E02005594,84.9,83.4,86.4,Female
+Norwich,J01000066,Norwich 012,E02005595,84.7,82.6,86.9,Male
+Norwich,J01000066,Norwich 012,E02005595,85.4,83.6,87.3,Female
+Norwich,J01000066,Norwich 013,E02005596,78.6,76.8,80.5,Male
+Norwich,J01000066,Norwich 013,E02005596,82.9,80.9,84.9,Female
+Norwich,J01000066,South Norfolk 001,E02005597,84.1,82.8,85.4,Male
+Norwich,J01000066,South Norfolk 001,E02005597,86.0,84.8,87.3,Female
+Norwich,J01000066,Norwich 014,E02006907,74.4,71.5,77.4,Male
+Norwich,J01000066,Norwich 014,E02006907,82.7,80.3,85.0,Female
+Norwich,J01000066,Norwich 015,E02006908,78.8,76.1,81.5,Male
+Norwich,J01000066,Norwich 015,E02006908,80.6,78.0,83.2,Female
+Nottingham,J01000067,Nottingham 001,E02002868,82.9,80.6,85.2,Male
+Nottingham,J01000067,Nottingham 001,E02002868,84.9,83.1,86.7,Female
+Nottingham,J01000067,Nottingham 002,E02002869,75.9,74.0,77.7,Male
+Nottingham,J01000067,Nottingham 002,E02002869,78.5,76.7,80.3,Female
+Nottingham,J01000067,Nottingham 004,E02002871,79.6,78.1,81.1,Male
+Nottingham,J01000067,Nottingham 004,E02002871,80.8,79.0,82.5,Female
+Nottingham,J01000067,Nottingham 005,E02002872,73.9,72.0,75.7,Male
+Nottingham,J01000067,Nottingham 005,E02002872,79.1,77.5,80.8,Female
+Nottingham,J01000067,Nottingham 006,E02002873,76.2,74.4,77.9,Male
+Nottingham,J01000067,Nottingham 006,E02002873,79.0,77.3,80.7,Female
+Nottingham,J01000067,Nottingham 007,E02002874,77.1,75.1,79.2,Male
+Nottingham,J01000067,Nottingham 007,E02002874,82.3,80.2,84.4,Female
+Nottingham,J01000067,Nottingham 008,E02002875,76.7,74.8,78.5,Male
+Nottingham,J01000067,Nottingham 008,E02002875,82.1,80.3,83.8,Female
+Nottingham,J01000067,Nottingham 009,E02002876,79.0,77.2,80.9,Male
+Nottingham,J01000067,Nottingham 009,E02002876,84.9,83.0,86.7,Female
+Nottingham,J01000067,Nottingham 010,E02002877,75.9,73.8,77.9,Male
+Nottingham,J01000067,Nottingham 010,E02002877,84.5,82.6,86.4,Female
+Nottingham,J01000067,Nottingham 011,E02002878,75.4,73.3,77.5,Male
+Nottingham,J01000067,Nottingham 011,E02002878,81.3,79.1,83.5,Female
+Nottingham,J01000067,Nottingham 012,E02002879,79.0,77.0,81.0,Male
+Nottingham,J01000067,Nottingham 012,E02002879,83.3,81.0,85.5,Female
+Nottingham,J01000067,Nottingham 013,E02002880,76.4,74.3,78.5,Male
+Nottingham,J01000067,Nottingham 013,E02002880,82.7,80.4,85.1,Female
+Nottingham,J01000067,Nottingham 014,E02002881,76.0,73.8,78.2,Male
+Nottingham,J01000067,Nottingham 014,E02002881,79.6,77.6,81.7,Female
+Nottingham,J01000067,Nottingham 015,E02002882,76.6,74.6,78.6,Male
+Nottingham,J01000067,Nottingham 015,E02002882,80.8,79.1,82.4,Female
+Nottingham,J01000067,Nottingham 016,E02002883,74.4,72.6,76.2,Male
+Nottingham,J01000067,Nottingham 016,E02002883,80.3,78.5,82.2,Female
+Nottingham,J01000067,Nottingham 017,E02002884,74.1,71.7,76.4,Male
+Nottingham,J01000067,Nottingham 017,E02002884,79.3,77.2,81.4,Female
+Nottingham,J01000067,Nottingham 018,E02002885,74.4,72.4,76.4,Male
+Nottingham,J01000067,Nottingham 018,E02002885,80.6,78.3,82.9,Female
+Nottingham,J01000067,Nottingham 019,E02002886,77.3,75.4,79.3,Male
+Nottingham,J01000067,Nottingham 019,E02002886,85.1,83.2,87.0,Female
+Nottingham,J01000067,Nottingham 020,E02002887,72.2,70.1,74.4,Male
+Nottingham,J01000067,Nottingham 020,E02002887,76.7,74.3,79.1,Female
+Nottingham,J01000067,Nottingham 021,E02002888,73.5,71.3,75.7,Male
+Nottingham,J01000067,Nottingham 021,E02002888,81.6,79.4,83.7,Female
+Nottingham,J01000067,Nottingham 022,E02002889,71.6,68.4,74.8,Male
+Nottingham,J01000067,Nottingham 022,E02002889,77.4,73.0,81.7,Female
+Nottingham,J01000067,Nottingham 023,E02002890,72.4,70.4,74.5,Male
+Nottingham,J01000067,Nottingham 023,E02002890,78.8,76.5,81.1,Female
+Nottingham,J01000067,Nottingham 024,E02002891,79.1,77.2,80.9,Male
+Nottingham,J01000067,Nottingham 024,E02002891,83.4,81.8,85.1,Female
+Nottingham,J01000067,Nottingham 025,E02002892,75.5,73.2,77.8,Male
+Nottingham,J01000067,Nottingham 025,E02002892,80.6,78.1,83.0,Female
+Nottingham,J01000067,Nottingham 026,E02002893,72.5,70.4,74.6,Male
+Nottingham,J01000067,Nottingham 026,E02002893,78.8,76.7,80.8,Female
+Nottingham,J01000067,Nottingham 027,E02002894,80.8,79.0,82.7,Male
+Nottingham,J01000067,Nottingham 027,E02002894,87.2,85.3,89.1,Female
+Nottingham,J01000067,Nottingham 028,E02002895,78.6,75.7,81.4,Male
+Nottingham,J01000067,Nottingham 028,E02002895,83.7,79.4,88.1,Female
+Nottingham,J01000067,Nottingham 029,E02002896,74.7,72.9,76.6,Male
+Nottingham,J01000067,Nottingham 029,E02002896,81.5,79.5,83.5,Female
+Nottingham,J01000067,Nottingham 030,E02002897,82.9,81.4,84.3,Male
+Nottingham,J01000067,Nottingham 030,E02002897,89.9,88.2,91.7,Female
+Nottingham,J01000067,Nottingham 031,E02002898,74.8,72.4,77.1,Male
+Nottingham,J01000067,Nottingham 031,E02002898,83.3,80.9,85.7,Female
+Nottingham,J01000067,Nottingham 032,E02002899,78.7,76.5,81.0,Male
+Nottingham,J01000067,Nottingham 032,E02002899,81.9,79.2,84.6,Female
+Nottingham,J01000067,Nottingham 038,E02006834,73.2,71.1,75.3,Male
+Nottingham,J01000067,Nottingham 038,E02006834,82.2,80.4,84.0,Female
+Nottingham,J01000067,Gedling 016,E02006835,81.1,79.6,82.7,Male
+Nottingham,J01000067,Gedling 016,E02006835,82.1,80.2,83.9,Female
+Nottingham,J01000067,Nottingham 039,E02006904,75.1,72.0,78.3,Male
+Nottingham,J01000067,Nottingham 039,E02006904,80.2,76.9,83.6,Female
+Nottingham,J01000067,Nottingham 040,E02006905,75.8,73.6,78.1,Male
+Nottingham,J01000067,Nottingham 040,E02006905,78.8,76.2,81.4,Female
+Oxford,J01000070,Oxford 001,E02005940,82.0,79.5,84.5,Male
+Oxford,J01000070,Oxford 001,E02005940,87.7,86.0,89.5,Female
+Oxford,J01000070,Oxford 002,E02005941,81.0,78.7,83.3,Male
+Oxford,J01000070,Oxford 002,E02005941,86.9,84.9,89.0,Female
+Oxford,J01000070,Oxford 003,E02005942,85.6,83.4,87.8,Male
+Oxford,J01000070,Oxford 003,E02005942,89.1,87.6,90.6,Female
+Oxford,J01000070,Oxford 004,E02005943,82.5,80.8,84.3,Male
+Oxford,J01000070,Oxford 004,E02005943,84.9,82.9,86.8,Female
+Oxford,J01000070,Oxford 005,E02005944,75.9,73.6,78.1,Male
+Oxford,J01000070,Oxford 005,E02005944,80.7,78.7,82.7,Female
+Oxford,J01000070,Oxford 006,E02005945,78.8,76.6,81.0,Male
+Oxford,J01000070,Oxford 006,E02005945,81.3,78.8,83.7,Female
+Oxford,J01000070,Oxford 007,E02005946,80.0,78.2,81.8,Male
+Oxford,J01000070,Oxford 007,E02005946,81.9,79.8,84.0,Female
+Oxford,J01000070,Oxford 008,E02005947,79.0,76.4,81.5,Male
+Oxford,J01000070,Oxford 008,E02005947,85.3,82.3,88.2,Female
+Oxford,J01000070,Oxford 009,E02005948,79.4,76.8,82.0,Male
+Oxford,J01000070,Oxford 009,E02005948,86.3,83.8,88.9,Female
+Oxford,J01000070,Oxford 010,E02005949,75.8,73.4,78.1,Male
+Oxford,J01000070,Oxford 010,E02005949,82.2,79.9,84.5,Female
+Oxford,J01000070,Oxford 011,E02005950,78.2,76.0,80.4,Male
+Oxford,J01000070,Oxford 011,E02005950,82.8,80.6,85.1,Female
+Oxford,J01000070,Oxford 012,E02005951,78.9,76.5,81.3,Male
+Oxford,J01000070,Oxford 012,E02005951,85.2,82.8,87.6,Female
+Oxford,J01000070,Oxford 013,E02005952,80.8,79.1,82.4,Male
+Oxford,J01000070,Oxford 013,E02005952,84.2,82.4,85.9,Female
+Oxford,J01000070,Oxford 014,E02005953,77.4,74.9,79.9,Male
+Oxford,J01000070,Oxford 014,E02005953,85.6,83.1,88.1,Female
+Oxford,J01000070,Oxford 015,E02005954,78.3,76.5,80.0,Male
+Oxford,J01000070,Oxford 015,E02005954,82.9,81.3,84.5,Female
+Oxford,J01000070,Oxford 016,E02005955,77.6,75.7,79.5,Male
+Oxford,J01000070,Oxford 016,E02005955,83.9,81.9,85.8,Female
+Oxford,J01000070,Oxford 017,E02005956,76.3,74.1,78.5,Male
+Oxford,J01000070,Oxford 017,E02005956,79.2,77.1,81.2,Female
+Oxford,J01000070,Oxford 018,E02005957,74.7,72.3,77.1,Male
+Oxford,J01000070,Oxford 018,E02005957,77.2,75.1,79.3,Female
+Oxford,J01000070,Vale of White Horse 001,E02005978,82.6,81.0,84.2,Male
+Oxford,J01000070,Vale of White Horse 001,E02005978,86.8,85.6,87.9,Female
+Oxford,J01000070,Vale of White Horse 002,E02005979,82.3,80.6,83.9,Male
+Oxford,J01000070,Vale of White Horse 002,E02005979,86.0,84.6,87.3,Female
+Plymouth,J01000072,Plymouth 001,E02003122,80.8,79.0,82.5,Male
+Plymouth,J01000072,Plymouth 001,E02003122,83.7,82.7,84.8,Female
+Plymouth,J01000072,Plymouth 002,E02003123,79.7,77.7,81.6,Male
+Plymouth,J01000072,Plymouth 002,E02003123,82.5,80.5,84.6,Female
+Plymouth,J01000072,Plymouth 003,E02003124,76.9,75.2,78.6,Male
+Plymouth,J01000072,Plymouth 003,E02003124,81.5,79.9,83.1,Female
+Plymouth,J01000072,Plymouth 004,E02003125,74.9,72.4,77.3,Male
+Plymouth,J01000072,Plymouth 004,E02003125,82.0,79.8,84.2,Female
+Plymouth,J01000072,Plymouth 005,E02003126,78.6,76.6,80.7,Male
+Plymouth,J01000072,Plymouth 005,E02003126,83.9,82.1,85.7,Female
+Plymouth,J01000072,Plymouth 006,E02003127,75.6,73.5,77.7,Male
+Plymouth,J01000072,Plymouth 006,E02003127,82.7,81.2,84.2,Female
+Plymouth,J01000072,Plymouth 007,E02003128,76.8,75.0,78.7,Male
+Plymouth,J01000072,Plymouth 007,E02003128,80.7,79.2,82.2,Female
+Plymouth,J01000072,Plymouth 008,E02003129,81.8,80.0,83.5,Male
+Plymouth,J01000072,Plymouth 008,E02003129,86.0,84.3,87.7,Female
+Plymouth,J01000072,Plymouth 009,E02003130,77.3,75.4,79.3,Male
+Plymouth,J01000072,Plymouth 009,E02003130,81.1,79.2,83.0,Female
+Plymouth,J01000072,Plymouth 010,E02003131,79.3,77.1,81.6,Male
+Plymouth,J01000072,Plymouth 010,E02003131,84.0,81.9,86.1,Female
+Plymouth,J01000072,Plymouth 011,E02003132,78.8,77.0,80.7,Male
+Plymouth,J01000072,Plymouth 011,E02003132,84.4,82.7,86.1,Female
+Plymouth,J01000072,Plymouth 012,E02003133,81.2,79.3,83.0,Male
+Plymouth,J01000072,Plymouth 012,E02003133,84.5,82.7,86.4,Female
+Plymouth,J01000072,Plymouth 013,E02003134,79.0,77.1,80.9,Male
+Plymouth,J01000072,Plymouth 013,E02003134,83.0,80.9,85.1,Female
+Plymouth,J01000072,Plymouth 014,E02003135,79.9,77.3,82.6,Male
+Plymouth,J01000072,Plymouth 014,E02003135,80.8,78.7,82.9,Female
+Plymouth,J01000072,Plymouth 015,E02003136,79.6,77.6,81.5,Male
+Plymouth,J01000072,Plymouth 015,E02003136,81.7,80.4,83.1,Female
+Plymouth,J01000072,Plymouth 016,E02003137,79.8,78.2,81.4,Male
+Plymouth,J01000072,Plymouth 016,E02003137,82.5,80.7,84.3,Female
+Plymouth,J01000072,Plymouth 017,E02003138,81.3,79.4,83.2,Male
+Plymouth,J01000072,Plymouth 017,E02003138,86.9,85.4,88.4,Female
+Plymouth,J01000072,Plymouth 018,E02003139,84.4,81.1,87.7,Male
+Plymouth,J01000072,Plymouth 018,E02003139,89.2,86.6,91.8,Female
+Plymouth,J01000072,Plymouth 019,E02003140,79.8,78.2,81.4,Male
+Plymouth,J01000072,Plymouth 019,E02003140,82.9,81.3,84.6,Female
+Plymouth,J01000072,Plymouth 020,E02003141,75.2,73.5,76.9,Male
+Plymouth,J01000072,Plymouth 020,E02003141,78.0,76.2,79.8,Female
+Plymouth,J01000072,Plymouth 021,E02003142,76.9,75.0,78.8,Male
+Plymouth,J01000072,Plymouth 021,E02003142,80.2,78.3,82.1,Female
+Plymouth,J01000072,Plymouth 022,E02003143,81.2,79.3,83.1,Male
+Plymouth,J01000072,Plymouth 022,E02003143,84.6,82.6,86.6,Female
+Plymouth,J01000072,Plymouth 023,E02003144,75.0,72.6,77.4,Male
+Plymouth,J01000072,Plymouth 023,E02003144,80.7,78.3,83.0,Female
+Plymouth,J01000072,Plymouth 024,E02003145,75.5,73.6,77.5,Male
+Plymouth,J01000072,Plymouth 024,E02003145,80.4,78.7,82.1,Female
+Plymouth,J01000072,Plymouth 025,E02003146,78.1,76.0,80.2,Male
+Plymouth,J01000072,Plymouth 025,E02003146,83.2,81.1,85.2,Female
+Plymouth,J01000072,Plymouth 026,E02003147,71.3,69.2,73.3,Male
+Plymouth,J01000072,Plymouth 026,E02003147,76.6,74.7,78.4,Female
+Plymouth,J01000072,Plymouth 027,E02003148,76.3,74.1,78.4,Male
+Plymouth,J01000072,Plymouth 027,E02003148,83.1,80.6,85.6,Female
+Plymouth,J01000072,Plymouth 028,E02003149,75.6,73.5,77.7,Male
+Plymouth,J01000072,Plymouth 028,E02003149,79.3,77.1,81.4,Female
+Plymouth,J01000072,Plymouth 029,E02003150,73.7,71.9,75.5,Male
+Plymouth,J01000072,Plymouth 029,E02003150,78.8,76.9,80.7,Female
+Plymouth,J01000072,Plymouth 030,E02003151,80.4,78.3,82.5,Male
+Plymouth,J01000072,Plymouth 030,E02003151,84.1,82.9,85.2,Female
+Plymouth,J01000072,Plymouth 031,E02003152,80.9,79.3,82.6,Male
+Plymouth,J01000072,Plymouth 031,E02003152,83.8,82.5,85.1,Female
+Plymouth,J01000072,Plymouth 032,E02003153,81.7,79.9,83.4,Male
+Plymouth,J01000072,Plymouth 032,E02003153,85.8,84.1,87.5,Female
+Plymouth,J01000072,South Hams 001,E02004189,78.9,77.1,80.8,Male
+Plymouth,J01000072,South Hams 001,E02004189,82.5,80.9,84.1,Female
+Portsmouth,J01000074,Portsmouth 001,E02003524,75.8,73.8,77.8,Male
+Portsmouth,J01000074,Portsmouth 001,E02003524,79.5,77.6,81.4,Female
+Portsmouth,J01000074,Portsmouth 002,E02003525,75.1,72.7,77.6,Male
+Portsmouth,J01000074,Portsmouth 002,E02003525,80.1,78.0,82.1,Female
+Portsmouth,J01000074,Portsmouth 003,E02003526,82.2,80.9,83.5,Male
+Portsmouth,J01000074,Portsmouth 003,E02003526,84.3,83.0,85.7,Female
+Portsmouth,J01000074,Portsmouth 004,E02003527,79.4,77.3,81.6,Male
+Portsmouth,J01000074,Portsmouth 004,E02003527,84.4,82.6,86.2,Female
+Portsmouth,J01000074,Portsmouth 006,E02003529,80.3,78.4,82.1,Male
+Portsmouth,J01000074,Portsmouth 006,E02003529,84.1,82.3,85.9,Female
+Portsmouth,J01000074,Portsmouth 007,E02003530,77.7,75.9,79.5,Male
+Portsmouth,J01000074,Portsmouth 007,E02003530,84.2,82.5,85.9,Female
+Portsmouth,J01000074,Portsmouth 008,E02003531,82.8,81.0,84.6,Male
+Portsmouth,J01000074,Portsmouth 008,E02003531,86.3,84.7,88.0,Female
+Portsmouth,J01000074,Portsmouth 009,E02003532,79.6,77.8,81.4,Male
+Portsmouth,J01000074,Portsmouth 009,E02003532,81.8,79.8,83.7,Female
+Portsmouth,J01000074,Portsmouth 010,E02003533,78.8,76.8,80.8,Male
+Portsmouth,J01000074,Portsmouth 010,E02003533,82.9,80.7,85.0,Female
+Portsmouth,J01000074,Portsmouth 011,E02003534,80.4,78.6,82.3,Male
+Portsmouth,J01000074,Portsmouth 011,E02003534,82.8,81.0,84.6,Female
+Portsmouth,J01000074,Portsmouth 012,E02003535,76.7,74.7,78.6,Male
+Portsmouth,J01000074,Portsmouth 012,E02003535,86.9,84.7,89.1,Female
+Portsmouth,J01000074,Portsmouth 013,E02003536,71.2,69.0,73.3,Male
+Portsmouth,J01000074,Portsmouth 013,E02003536,78.9,77.0,80.7,Female
+Portsmouth,J01000074,Portsmouth 014,E02003537,79.6,77.9,81.2,Male
+Portsmouth,J01000074,Portsmouth 014,E02003537,84.1,82.4,85.8,Female
+Portsmouth,J01000074,Portsmouth 015,E02003538,75.6,73.9,77.2,Male
+Portsmouth,J01000074,Portsmouth 015,E02003538,81.2,79.5,82.8,Female
+Portsmouth,J01000074,Portsmouth 016,E02003539,74.0,72.4,75.7,Male
+Portsmouth,J01000074,Portsmouth 016,E02003539,78.5,76.6,80.4,Female
+Portsmouth,J01000074,Portsmouth 017,E02003540,79.3,77.7,80.9,Male
+Portsmouth,J01000074,Portsmouth 017,E02003540,83.5,82.0,85.0,Female
+Portsmouth,J01000074,Portsmouth 018,E02003541,72.8,70.9,74.7,Male
+Portsmouth,J01000074,Portsmouth 018,E02003541,80.4,78.5,82.4,Female
+Portsmouth,J01000074,Portsmouth 019,E02003542,78.4,76.4,80.5,Male
+Portsmouth,J01000074,Portsmouth 019,E02003542,83.3,81.2,85.3,Female
+Portsmouth,J01000074,Portsmouth 020,E02003543,77.3,75.0,79.5,Male
+Portsmouth,J01000074,Portsmouth 020,E02003543,82.0,79.9,84.0,Female
+Portsmouth,J01000074,Portsmouth 021,E02003544,77.3,74.9,79.7,Male
+Portsmouth,J01000074,Portsmouth 021,E02003544,84.4,82.7,86.1,Female
+Portsmouth,J01000074,Portsmouth 022,E02003545,77.2,75.1,79.2,Male
+Portsmouth,J01000074,Portsmouth 022,E02003545,83.1,81.4,84.8,Female
+Portsmouth,J01000074,Portsmouth 023,E02003546,78.3,76.6,80.0,Male
+Portsmouth,J01000074,Portsmouth 023,E02003546,83.8,82.2,85.3,Female
+Portsmouth,J01000074,Portsmouth 024,E02003547,81.5,79.9,83.2,Male
+Portsmouth,J01000074,Portsmouth 024,E02003547,83.4,81.6,85.2,Female
+Portsmouth,J01000074,Portsmouth 025,E02003548,78.7,76.9,80.5,Male
+Portsmouth,J01000074,Portsmouth 025,E02003548,82.0,80.4,83.6,Female
+Portsmouth,J01000074,Fareham 010,E02004736,82.1,80.3,83.9,Male
+Portsmouth,J01000074,Fareham 010,E02004736,84.8,83.0,86.6,Female
+Portsmouth,J01000074,Fareham 012,E02004738,80.1,78.3,81.8,Male
+Portsmouth,J01000074,Fareham 012,E02004738,87.0,85.5,88.4,Female
+Portsmouth,J01000074,Portsmouth 026,E02006821,81.6,79.9,83.3,Male
+Portsmouth,J01000074,Portsmouth 026,E02006821,84.2,82.3,86.1,Female
+Preston,J01000075,Preston 003,E02005255,82.3,80.8,83.8,Male
+Preston,J01000075,Preston 003,E02005255,86.0,84.2,87.8,Female
+Preston,J01000075,Preston 004,E02005256,76.9,75.1,78.7,Male
+Preston,J01000075,Preston 004,E02005256,78.7,76.9,80.5,Female
+Preston,J01000075,Preston 005,E02005257,75.3,73.4,77.2,Male
+Preston,J01000075,Preston 005,E02005257,79.2,77.6,80.9,Female
+Preston,J01000075,Preston 006,E02005258,79.9,78.5,81.4,Male
+Preston,J01000075,Preston 006,E02005258,81.8,80.0,83.5,Female
+Preston,J01000075,Preston 007,E02005259,78.5,76.7,80.3,Male
+Preston,J01000075,Preston 007,E02005259,80.8,79.0,82.6,Female
+Preston,J01000075,Preston 008,E02005260,80.0,78.3,81.7,Male
+Preston,J01000075,Preston 008,E02005260,83.0,81.1,84.9,Female
+Preston,J01000075,Preston 009,E02005261,72.9,71.2,74.7,Male
+Preston,J01000075,Preston 009,E02005261,77.7,76.1,79.4,Female
+Preston,J01000075,Preston 010,E02005262,76.5,74.2,78.8,Male
+Preston,J01000075,Preston 010,E02005262,81.8,79.9,83.7,Female
+Preston,J01000075,Preston 011,E02005263,74.7,72.5,76.9,Male
+Preston,J01000075,Preston 011,E02005263,78.9,76.7,81.1,Female
+Preston,J01000075,Preston 012,E02005264,77.3,75.5,79.2,Male
+Preston,J01000075,Preston 012,E02005264,80.5,78.7,82.3,Female
+Preston,J01000075,Preston 013,E02005265,76.4,74.6,78.2,Male
+Preston,J01000075,Preston 013,E02005265,81.3,79.8,82.8,Female
+Preston,J01000075,Preston 014,E02005266,72.9,70.9,74.9,Male
+Preston,J01000075,Preston 014,E02005266,77.1,74.7,79.5,Female
+Preston,J01000075,Preston 015,E02005267,76.6,73.9,79.3,Male
+Preston,J01000075,Preston 015,E02005267,79.2,76.3,82.0,Female
+Preston,J01000075,Preston 016,E02005268,77.1,75.0,79.1,Male
+Preston,J01000075,Preston 016,E02005268,81.1,79.1,83.0,Female
+Preston,J01000075,Preston 017,E02005269,74.0,71.9,76.1,Male
+Preston,J01000075,Preston 017,E02005269,80.4,78.5,82.4,Female
+Salford,J01000080,Salford 010,E02001166,75.9,74.0,77.7,Male
+Salford,J01000080,Salford 010,E02001166,84.2,82.0,86.4,Female
+Salford,J01000080,Salford 011,E02001167,79.6,77.8,81.5,Male
+Salford,J01000080,Salford 011,E02001167,84.2,82.2,86.2,Female
+Salford,J01000080,Salford 016,E02001172,70.8,69.3,72.2,Male
+Salford,J01000080,Salford 016,E02001172,76.6,75.2,77.9,Female
+Salford,J01000080,Salford 017,E02001173,72.0,69.9,74.1,Male
+Salford,J01000080,Salford 017,E02001173,81.3,79.1,83.4,Female
+Salford,J01000080,Salford 018,E02001174,76.2,74.4,78.1,Male
+Salford,J01000080,Salford 018,E02001174,79.3,77.4,81.2,Female
+Salford,J01000080,Salford 021,E02001177,75.0,73.3,76.6,Male
+Salford,J01000080,Salford 021,E02001177,79.5,78.0,80.9,Female
+Salford,J01000080,Salford 022,E02001178,76.2,73.5,78.9,Male
+Salford,J01000080,Salford 022,E02001178,79.3,77.0,81.7,Female
+Salford,J01000080,Salford 023,E02001179,74.0,71.6,76.4,Male
+Salford,J01000080,Salford 023,E02001179,80.2,78.1,82.2,Female
+Salford,J01000080,Salford 024,E02001180,67.9,65.4,70.5,Male
+Salford,J01000080,Salford 024,E02001180,79.7,76.7,82.7,Female
+Salford,J01000080,Salford 028,E02001184,74.7,72.6,76.8,Male
+Salford,J01000080,Salford 028,E02001184,77.9,75.9,79.8,Female
+Sheffield,J01000082,Rotherham 025,E02001602,79.3,77.6,81.1,Male
+Sheffield,J01000082,Rotherham 025,E02001602,83.1,81.5,84.8,Female
+Sheffield,J01000082,Sheffield 005,E02001615,80.4,78.4,82.5,Male
+Sheffield,J01000082,Sheffield 005,E02001615,83.9,82.5,85.3,Female
+Sheffield,J01000082,Sheffield 006,E02001616,79.0,76.8,81.2,Male
+Sheffield,J01000082,Sheffield 006,E02001616,82.6,80.3,84.9,Female
+Sheffield,J01000082,Sheffield 007,E02001617,75.5,73.2,77.8,Male
+Sheffield,J01000082,Sheffield 007,E02001617,80.3,77.8,82.9,Female
+Sheffield,J01000082,Sheffield 009,E02001619,76.8,75.1,78.5,Male
+Sheffield,J01000082,Sheffield 009,E02001619,80.9,79.2,82.7,Female
+Sheffield,J01000082,Sheffield 010,E02001620,76.6,74.2,79.0,Male
+Sheffield,J01000082,Sheffield 010,E02001620,83.6,81.1,86.0,Female
+Sheffield,J01000082,Sheffield 011,E02001621,76.6,74.4,78.9,Male
+Sheffield,J01000082,Sheffield 011,E02001621,79.9,77.7,82.1,Female
+Sheffield,J01000082,Sheffield 012,E02001622,78.0,76.4,79.6,Male
+Sheffield,J01000082,Sheffield 012,E02001622,81.6,80.0,83.2,Female
+Sheffield,J01000082,Sheffield 013,E02001623,73.4,71.4,75.3,Male
+Sheffield,J01000082,Sheffield 013,E02001623,77.6,75.8,79.3,Female
+Sheffield,J01000082,Sheffield 014,E02001624,77.8,75.7,79.9,Male
+Sheffield,J01000082,Sheffield 014,E02001624,82.7,80.7,84.7,Female
+Sheffield,J01000082,Sheffield 015,E02001625,75.2,73.5,76.9,Male
+Sheffield,J01000082,Sheffield 015,E02001625,80.5,78.8,82.2,Female
+Sheffield,J01000082,Sheffield 016,E02001626,79.8,77.6,81.9,Male
+Sheffield,J01000082,Sheffield 016,E02001626,84.7,82.7,86.7,Female
+Sheffield,J01000082,Sheffield 017,E02001627,76.2,73.8,78.5,Male
+Sheffield,J01000082,Sheffield 017,E02001627,81.2,79.0,83.4,Female
+Sheffield,J01000082,Sheffield 018,E02001628,77.0,74.3,79.8,Male
+Sheffield,J01000082,Sheffield 018,E02001628,82.3,80.0,84.6,Female
+Sheffield,J01000082,Sheffield 019,E02001629,76.2,74.1,78.3,Male
+Sheffield,J01000082,Sheffield 019,E02001629,76.9,74.7,79.1,Female
+Sheffield,J01000082,Sheffield 020,E02001630,74.9,73.0,76.8,Male
+Sheffield,J01000082,Sheffield 020,E02001630,77.7,76.2,79.3,Female
+Sheffield,J01000082,Sheffield 021,E02001631,81.6,80.0,83.2,Male
+Sheffield,J01000082,Sheffield 021,E02001631,85.6,83.9,87.4,Female
+Sheffield,J01000082,Sheffield 022,E02001632,74.5,72.7,76.3,Male
+Sheffield,J01000082,Sheffield 022,E02001632,75.9,74.3,77.5,Female
+Sheffield,J01000082,Sheffield 023,E02001633,83.1,81.3,85.0,Male
+Sheffield,J01000082,Sheffield 023,E02001633,87.0,85.5,88.5,Female
+Sheffield,J01000082,Sheffield 024,E02001634,79.8,78.2,81.4,Male
+Sheffield,J01000082,Sheffield 024,E02001634,86.0,84.2,87.8,Female
+Sheffield,J01000082,Sheffield 025,E02001635,78.6,76.2,81.1,Male
+Sheffield,J01000082,Sheffield 025,E02001635,83.8,81.9,85.7,Female
+Sheffield,J01000082,Sheffield 026,E02001636,75.7,73.9,77.5,Male
+Sheffield,J01000082,Sheffield 026,E02001636,81.7,79.9,83.5,Female
+Sheffield,J01000082,Sheffield 027,E02001637,74.9,72.9,77.0,Male
+Sheffield,J01000082,Sheffield 027,E02001637,79.9,77.7,82.2,Female
+Sheffield,J01000082,Sheffield 028,E02001638,76.6,73.8,79.4,Male
+Sheffield,J01000082,Sheffield 028,E02001638,79.9,77.1,82.7,Female
+Sheffield,J01000082,Sheffield 029,E02001639,79.7,77.4,82.0,Male
+Sheffield,J01000082,Sheffield 029,E02001639,81.9,79.5,84.2,Female
+Sheffield,J01000082,Sheffield 030,E02001640,74.5,71.7,77.2,Male
+Sheffield,J01000082,Sheffield 030,E02001640,78.5,75.8,81.2,Female
+Sheffield,J01000082,Sheffield 032,E02001642,76.3,74.7,77.9,Male
+Sheffield,J01000082,Sheffield 032,E02001642,78.7,76.9,80.4,Female
+Sheffield,J01000082,Sheffield 033,E02001643,83.5,81.6,85.4,Male
+Sheffield,J01000082,Sheffield 033,E02001643,86.7,84.6,88.8,Female
+Sheffield,J01000082,Sheffield 036,E02001646,80.5,78.5,82.6,Male
+Sheffield,J01000082,Sheffield 036,E02001646,81.9,80.0,83.7,Female
+Sheffield,J01000082,Sheffield 037,E02001647,77.3,75.0,79.7,Male
+Sheffield,J01000082,Sheffield 037,E02001647,84.1,82.4,85.7,Female
+Sheffield,J01000082,Sheffield 038,E02001648,80.2,78.5,82.0,Male
+Sheffield,J01000082,Sheffield 038,E02001648,83.9,82.1,85.7,Female
+Sheffield,J01000082,Sheffield 039,E02001649,74.2,72.2,76.1,Male
+Sheffield,J01000082,Sheffield 039,E02001649,81.7,79.8,83.7,Female
+Sheffield,J01000082,Sheffield 040,E02001650,76.5,74.4,78.5,Male
+Sheffield,J01000082,Sheffield 040,E02001650,78.5,76.3,80.7,Female
+Sheffield,J01000082,Sheffield 041,E02001651,86.2,84.7,87.8,Male
+Sheffield,J01000082,Sheffield 041,E02001651,89.7,87.9,91.4,Female
+Sheffield,J01000082,Sheffield 042,E02001652,78.6,76.2,80.9,Male
+Sheffield,J01000082,Sheffield 042,E02001652,83.3,80.6,86.0,Female
+Sheffield,J01000082,Sheffield 043,E02001653,75.6,73.2,78.0,Male
+Sheffield,J01000082,Sheffield 043,E02001653,82.2,80.1,84.3,Female
+Sheffield,J01000082,Sheffield 044,E02001654,75.1,72.6,77.7,Male
+Sheffield,J01000082,Sheffield 044,E02001654,80.6,79.0,82.2,Female
+Sheffield,J01000082,Sheffield 045,E02001655,78.9,77.0,80.9,Male
+Sheffield,J01000082,Sheffield 045,E02001655,82.8,81.2,84.3,Female
+Sheffield,J01000082,Sheffield 046,E02001656,84.1,81.9,86.2,Male
+Sheffield,J01000082,Sheffield 046,E02001656,88.4,86.8,90.1,Female
+Sheffield,J01000082,Sheffield 047,E02001657,82.8,81.3,84.4,Male
+Sheffield,J01000082,Sheffield 047,E02001657,86.4,85.0,87.8,Female
+Sheffield,J01000082,Sheffield 048,E02001658,77.2,74.5,79.8,Male
+Sheffield,J01000082,Sheffield 048,E02001658,80.7,78.3,83.0,Female
+Sheffield,J01000082,Sheffield 049,E02001659,74.9,72.6,77.1,Male
+Sheffield,J01000082,Sheffield 049,E02001659,81.5,79.3,83.7,Female
+Sheffield,J01000082,Sheffield 050,E02001660,80.1,78.3,81.9,Male
+Sheffield,J01000082,Sheffield 050,E02001660,80.5,78.7,82.3,Female
+Sheffield,J01000082,Sheffield 051,E02001661,73.9,72.1,75.7,Male
+Sheffield,J01000082,Sheffield 051,E02001661,75.8,74.0,77.6,Female
+Sheffield,J01000082,Sheffield 052,E02001662,76.4,74.8,78.1,Male
+Sheffield,J01000082,Sheffield 052,E02001662,78.7,76.9,80.6,Female
+Sheffield,J01000082,Sheffield 053,E02001663,78.0,76.0,79.9,Male
+Sheffield,J01000082,Sheffield 053,E02001663,82.0,80.7,83.3,Female
+Sheffield,J01000082,Sheffield 054,E02001664,79.9,78.0,81.8,Male
+Sheffield,J01000082,Sheffield 054,E02001664,84.7,82.4,87.0,Female
+Sheffield,J01000082,Sheffield 055,E02001665,85.1,83.6,86.5,Male
+Sheffield,J01000082,Sheffield 055,E02001665,91.1,89.8,92.4,Female
+Sheffield,J01000082,Sheffield 056,E02001666,77.5,75.5,79.5,Male
+Sheffield,J01000082,Sheffield 056,E02001666,83.9,82.1,85.7,Female
+Sheffield,J01000082,Sheffield 059,E02001669,80.0,78.2,81.8,Male
+Sheffield,J01000082,Sheffield 059,E02001669,82.3,81.0,83.7,Female
+Sheffield,J01000082,Sheffield 060,E02001670,77.9,75.5,80.3,Male
+Sheffield,J01000082,Sheffield 060,E02001670,82.2,79.9,84.4,Female
+Sheffield,J01000082,Sheffield 061,E02001671,82.9,80.8,84.9,Male
+Sheffield,J01000082,Sheffield 061,E02001671,85.1,82.9,87.2,Female
+Sheffield,J01000082,Sheffield 062,E02001672,82.6,80.6,84.7,Male
+Sheffield,J01000082,Sheffield 062,E02001672,84.9,82.4,87.5,Female
+Sheffield,J01000082,Sheffield 063,E02001673,78.5,76.6,80.3,Male
+Sheffield,J01000082,Sheffield 063,E02001673,79.6,78.1,81.1,Female
+Sheffield,J01000082,Sheffield 064,E02001674,81.7,80.0,83.3,Male
+Sheffield,J01000082,Sheffield 064,E02001674,84.9,83.3,86.5,Female
+Sheffield,J01000082,Sheffield 065,E02001675,80.3,78.7,81.8,Male
+Sheffield,J01000082,Sheffield 065,E02001675,84.1,82.7,85.6,Female
+Sheffield,J01000082,Sheffield 066,E02001676,81.8,79.8,83.9,Male
+Sheffield,J01000082,Sheffield 066,E02001676,84.6,83.0,86.2,Female
+Sheffield,J01000082,Sheffield 068,E02001678,81.2,79.6,82.8,Male
+Sheffield,J01000082,Sheffield 068,E02001678,85.6,84.5,86.7,Female
+Sheffield,J01000082,Sheffield 069,E02001679,75.9,73.7,78.0,Male
+Sheffield,J01000082,Sheffield 069,E02001679,82.9,80.7,85.1,Female
+Sheffield,J01000082,Sheffield 070,E02001680,73.2,71.0,75.5,Male
+Sheffield,J01000082,Sheffield 070,E02001680,80.6,78.5,82.8,Female
+Sheffield,J01000082,Sheffield 071,E02001681,82.1,80.6,83.6,Male
+Sheffield,J01000082,Sheffield 071,E02001681,89.0,87.3,90.8,Female
+Sheffield,J01000082,Sheffield 072,E02006803,81.6,80.0,83.2,Male
+Sheffield,J01000082,Sheffield 072,E02006803,86.2,84.5,87.9,Female
+Sheffield,J01000082,Sheffield 073,E02006843,76.2,71.4,81.0,Male
+Sheffield,J01000082,Sheffield 073,E02006843,80.7,73.6,87.9,Female
+Sheffield,J01000082,Sheffield 074,E02006844,76.9,72.9,80.8,Male
+Sheffield,J01000082,Sheffield 074,E02006844,78.0,74.4,81.7,Female
+Sheffield,J01000082,Sheffield 075,E02006868,78.1,76.5,79.8,Male
+Sheffield,J01000082,Sheffield 075,E02006868,84.7,82.9,86.4,Female
+Sheffield,J01000082,Sheffield 076,E02006869,79.1,77.6,80.6,Male
+Sheffield,J01000082,Sheffield 076,E02006869,84.4,83.1,85.7,Female
+Southampton,J01000087,Southampton 001,E02003549,83.5,81.2,85.9,Male
+Southampton,J01000087,Southampton 001,E02003549,85.1,83.2,87.0,Female
+Southampton,J01000087,Southampton 002,E02003550,81.3,79.1,83.5,Male
+Southampton,J01000087,Southampton 002,E02003550,86.6,84.4,88.8,Female
+Southampton,J01000087,Southampton 003,E02003551,77.8,75.5,80.2,Male
+Southampton,J01000087,Southampton 003,E02003551,82.8,80.3,85.4,Female
+Southampton,J01000087,Southampton 004,E02003552,76.8,74.8,78.8,Male
+Southampton,J01000087,Southampton 004,E02003552,80.4,78.7,82.1,Female
+Southampton,J01000087,Southampton 005,E02003553,77.6,75.1,80.1,Male
+Southampton,J01000087,Southampton 005,E02003553,85.0,82.7,87.3,Female
+Southampton,J01000087,Southampton 006,E02003554,79.2,77.2,81.3,Male
+Southampton,J01000087,Southampton 006,E02003554,83.4,81.5,85.4,Female
+Southampton,J01000087,Southampton 007,E02003555,77.3,75.4,79.3,Male
+Southampton,J01000087,Southampton 007,E02003555,83.5,81.7,85.4,Female
+Southampton,J01000087,Southampton 008,E02003556,81.8,80.0,83.6,Male
+Southampton,J01000087,Southampton 008,E02003556,86.3,84.3,88.2,Female
+Southampton,J01000087,Southampton 009,E02003557,83.5,81.0,85.9,Male
+Southampton,J01000087,Southampton 009,E02003557,86.2,84.2,88.1,Female
+Southampton,J01000087,Southampton 010,E02003558,75.6,73.2,78.0,Male
+Southampton,J01000087,Southampton 010,E02003558,83.1,80.9,85.4,Female
+Southampton,J01000087,Southampton 011,E02003559,83.2,81.4,85.1,Male
+Southampton,J01000087,Southampton 011,E02003559,87.3,85.7,88.9,Female
+Southampton,J01000087,Southampton 012,E02003560,74.8,72.8,76.9,Male
+Southampton,J01000087,Southampton 012,E02003560,82.4,80.3,84.6,Female
+Southampton,J01000087,Southampton 013,E02003561,75.3,73.3,77.3,Male
+Southampton,J01000087,Southampton 013,E02003561,80.9,79.0,82.8,Female
+Southampton,J01000087,Southampton 014,E02003562,80.9,78.9,82.8,Male
+Southampton,J01000087,Southampton 014,E02003562,83.0,81.0,85.0,Female
+Southampton,J01000087,Southampton 015,E02003563,77.9,76.0,79.7,Male
+Southampton,J01000087,Southampton 015,E02003563,85.1,83.0,87.3,Female
+Southampton,J01000087,Southampton 016,E02003564,80.8,79.1,82.6,Male
+Southampton,J01000087,Southampton 016,E02003564,85.3,83.4,87.2,Female
+Southampton,J01000087,Southampton 017,E02003565,75.9,73.2,78.6,Male
+Southampton,J01000087,Southampton 017,E02003565,81.8,78.7,84.8,Female
+Southampton,J01000087,Southampton 018,E02003566,79.0,76.9,81.2,Male
+Southampton,J01000087,Southampton 018,E02003566,85.9,84.0,87.9,Female
+Southampton,J01000087,Southampton 019,E02003567,78.4,76.4,80.4,Male
+Southampton,J01000087,Southampton 019,E02003567,83.3,81.3,85.2,Female
+Southampton,J01000087,Southampton 020,E02003568,77.4,75.3,79.5,Male
+Southampton,J01000087,Southampton 020,E02003568,80.0,78.5,81.6,Female
+Southampton,J01000087,Southampton 021,E02003569,77.2,74.8,79.5,Male
+Southampton,J01000087,Southampton 021,E02003569,81.9,79.5,84.4,Female
+Southampton,J01000087,Southampton 022,E02003570,70.8,68.6,72.9,Male
+Southampton,J01000087,Southampton 022,E02003570,80.7,77.7,83.7,Female
+Southampton,J01000087,Southampton 023,E02003571,74.3,71.9,76.6,Male
+Southampton,J01000087,Southampton 023,E02003571,77.6,74.2,81.1,Female
+Southampton,J01000087,Southampton 024,E02003572,80.0,78.2,81.8,Male
+Southampton,J01000087,Southampton 024,E02003572,80.5,78.7,82.2,Female
+Southampton,J01000087,Southampton 025,E02003573,78.1,76.1,80.2,Male
+Southampton,J01000087,Southampton 025,E02003573,83.6,81.8,85.5,Female
+Southampton,J01000087,Southampton 026,E02003574,82.4,80.6,84.2,Male
+Southampton,J01000087,Southampton 026,E02003574,86.0,84.0,88.0,Female
+Southampton,J01000087,Southampton 027,E02003575,77.5,75.6,79.5,Male
+Southampton,J01000087,Southampton 027,E02003575,82.5,80.3,84.7,Female
+Southampton,J01000087,Southampton 028,E02003576,78.4,76.5,80.2,Male
+Southampton,J01000087,Southampton 028,E02003576,83.4,81.7,85.2,Female
+Southampton,J01000087,Southampton 029,E02003577,76.8,74.8,78.9,Male
+Southampton,J01000087,Southampton 029,E02003577,84.1,81.5,86.6,Female
+Southampton,J01000087,Southampton 030,E02003578,79.2,77.2,81.1,Male
+Southampton,J01000087,Southampton 030,E02003578,83.2,81.3,85.2,Female
+Southampton,J01000087,Southampton 031,E02003579,78.6,77.0,80.1,Male
+Southampton,J01000087,Southampton 031,E02003579,80.9,79.4,82.5,Female
+Southampton,J01000087,Southampton 032,E02003580,75.6,73.2,78.0,Male
+Southampton,J01000087,Southampton 032,E02003580,80.4,78.1,82.6,Female
+Southampton,J01000087,Eastleigh 009,E02004720,81.0,79.5,82.4,Male
+Southampton,J01000087,Eastleigh 009,E02004720,84.3,83.1,85.6,Female
+Southampton,J01000087,Test Valley 015,E02004828,84.9,83.1,86.6,Male
+Southampton,J01000087,Test Valley 015,E02004828,84.9,83.6,86.2,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 001,E02003279,82.0,80.7,83.3,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 001,E02003279,84.7,83.4,86.0,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 002,E02003280,81.1,79.4,82.8,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 002,E02003280,83.3,81.7,84.9,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 003,E02003281,82.0,80.3,83.7,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 003,E02003281,86.0,84.5,87.4,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 004,E02003282,78.9,77.1,80.7,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 004,E02003282,82.6,81.0,84.3,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 005,E02003283,78.7,77.2,80.2,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 005,E02003283,83.1,81.6,84.5,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 006,E02003284,81.2,79.7,82.6,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 006,E02003284,83.4,81.7,85.1,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 007,E02003285,78.5,76.6,80.5,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 007,E02003285,83.6,81.8,85.3,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 008,E02003286,82.1,80.6,83.7,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 008,E02003286,85.3,84.1,86.6,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 009,E02003287,78.2,76.2,80.3,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 009,E02003287,83.5,82.0,85.0,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 010,E02003288,74.3,72.8,75.8,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 010,E02003288,78.7,77.0,80.3,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 011,E02003289,81.1,79.4,82.8,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 011,E02003289,85.1,83.9,86.3,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 012,E02003290,76.9,75.6,78.2,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 012,E02003290,80.0,78.8,81.3,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 013,E02003291,80.0,78.6,81.5,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 013,E02003291,84.8,83.2,86.4,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 014,E02003292,73.7,72.0,75.4,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 014,E02003292,78.2,76.5,79.9,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 015,E02003293,75.4,73.7,77.2,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 015,E02003293,79.7,78.3,81.1,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 016,E02003294,81.6,79.4,83.8,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 016,E02003294,88.2,86.9,89.5,Female
+Southend-on-Sea,J01000088,Southend-on-Sea 017,E02003295,81.4,80.1,82.7,Male
+Southend-on-Sea,J01000088,Southend-on-Sea 017,E02003295,82.0,80.7,83.3,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 001,E02002951,78.3,76.5,80.2,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 001,E02002951,81.1,79.5,82.7,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 002,E02002952,75.0,73.2,76.8,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 002,E02002952,77.7,75.9,79.5,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 003,E02002953,77.0,75.1,79.0,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 003,E02002953,82.9,81.2,84.6,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 004,E02002954,75.0,73.0,77.1,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 004,E02002954,82.1,80.4,83.9,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 005,E02002955,75.7,73.6,77.9,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 005,E02002955,79.1,77.0,81.2,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 006,E02002956,79.8,78.2,81.5,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 006,E02002956,79.9,78.4,81.5,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 007,E02002957,79.4,77.7,81.1,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 007,E02002957,83.4,81.9,84.9,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 008,E02002958,76.4,74.8,78.1,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 008,E02002958,82.4,80.7,84.2,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 009,E02002959,70.2,68.5,71.9,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 009,E02002959,75.2,73.3,77.1,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 010,E02002960,79.1,77.0,81.1,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 010,E02002960,86.2,84.2,88.2,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 011,E02002961,74.4,72.2,76.7,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 011,E02002961,79.3,76.9,81.7,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 012,E02002962,75.3,73.4,77.2,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 012,E02002962,80.5,78.5,82.5,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 013,E02002963,73.7,71.6,75.8,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 013,E02002963,80.0,77.9,82.1,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 014,E02002964,77.0,75.3,78.7,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 014,E02002964,81.3,79.6,83.0,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 015,E02002965,73.8,71.6,76.0,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 015,E02002965,79.8,77.4,82.2,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 016,E02002966,77.1,74.7,79.5,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 016,E02002966,77.1,74.0,80.1,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 017,E02002967,73.7,71.6,75.7,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 017,E02002967,77.8,76.2,79.4,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 018,E02002968,79.6,78.0,81.2,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 018,E02002968,80.4,78.6,82.2,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 019,E02002969,74.5,72.6,76.4,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 019,E02002969,82.1,80.2,84.1,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 020,E02002970,75.9,74.2,77.7,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 020,E02002970,79.4,77.5,81.3,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 021,E02002971,78.0,75.3,80.7,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 021,E02002971,82.1,79.4,84.7,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 022,E02002972,72.4,69.9,74.9,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 022,E02002972,80.1,78.1,82.1,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 023,E02002973,78.8,76.9,80.8,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 023,E02002973,83.5,81.6,85.4,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 024,E02002974,77.8,75.3,80.2,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 024,E02002974,78.7,76.2,81.2,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 025,E02002975,80.1,78.2,82.1,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 025,E02002975,84.5,82.4,86.6,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 026,E02002976,75.6,73.1,78.2,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 026,E02002976,84.9,82.7,87.1,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 027,E02002977,76.4,73.9,79.0,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 027,E02002977,80.9,78.7,83.0,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 028,E02002978,74.7,72.5,76.8,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 028,E02002978,79.9,77.8,82.1,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 029,E02002979,74.4,72.0,76.7,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 029,E02002979,80.1,78.0,82.1,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 030,E02002980,80.7,78.8,82.6,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 030,E02002980,84.1,82.8,85.4,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 031,E02002981,78.3,76.4,80.2,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 031,E02002981,82.0,80.0,84.0,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 032,E02002982,76.0,73.9,78.0,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 032,E02002982,80.1,78.1,82.2,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 033,E02002983,82.5,79.7,85.3,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 033,E02002983,85.6,83.5,87.8,Female
+Stoke on Trent,J01000095,Stoke-on-Trent 034,E02002984,74.5,71.9,77.2,Male
+Stoke on Trent,J01000095,Stoke-on-Trent 034,E02002984,77.0,74.5,79.4,Female
+Stoke on Trent,J01000095,Stafford 001,E02006188,81.6,79.5,83.6,Male
+Stoke on Trent,J01000095,Stafford 001,E02006188,82.3,80.8,83.7,Female
+Stoke on Trent,J01000095,Staffordshire Moorlands 008,E02006211,82.3,80.5,84.2,Male
+Stoke on Trent,J01000095,Staffordshire Moorlands 008,E02006211,84.2,82.4,86.0,Female
+Stoke on Trent,J01000095,Staffordshire Moorlands 009,E02006212,79.4,77.5,81.2,Male
+Stoke on Trent,J01000095,Staffordshire Moorlands 009,E02006212,84.4,83.1,85.8,Female
+Stoke on Trent,J01000095,Staffordshire Moorlands 012,E02006215,79.5,77.2,81.7,Male
+Stoke on Trent,J01000095,Staffordshire Moorlands 012,E02006215,84.9,83.3,86.5,Female
+Sunderland,J01000096,Sunderland 001,E02001791,80.6,78.5,82.8,Male
+Sunderland,J01000096,Sunderland 001,E02001791,86.5,85.1,88.0,Female
+Sunderland,J01000096,Sunderland 002,E02001792,78.3,76.2,80.4,Male
+Sunderland,J01000096,Sunderland 002,E02001792,81.5,80.1,83.0,Female
+Sunderland,J01000096,Sunderland 003,E02001793,75.5,73.7,77.3,Male
+Sunderland,J01000096,Sunderland 003,E02001793,82.8,80.9,84.6,Female
+Sunderland,J01000096,Sunderland 004,E02001794,75.6,74.0,77.3,Male
+Sunderland,J01000096,Sunderland 004,E02001794,78.2,76.7,79.7,Female
+Sunderland,J01000096,Sunderland 005,E02001795,75.9,74.0,77.8,Male
+Sunderland,J01000096,Sunderland 005,E02001795,79.6,78.2,81.1,Female
+Sunderland,J01000096,Sunderland 006,E02001796,77.1,75.2,79.0,Male
+Sunderland,J01000096,Sunderland 006,E02001796,85.0,83.3,86.6,Female
+Sunderland,J01000096,Sunderland 008,E02001798,76.1,74.4,77.8,Male
+Sunderland,J01000096,Sunderland 008,E02001798,81.0,79.6,82.5,Female
+Sunderland,J01000096,Sunderland 011,E02001801,74.5,72.4,76.6,Male
+Sunderland,J01000096,Sunderland 011,E02001801,78.9,77.0,80.9,Female
+Sunderland,J01000096,Sunderland 012,E02001802,74.7,72.3,77.2,Male
+Sunderland,J01000096,Sunderland 012,E02001802,77.9,75.8,80.0,Female
+Sunderland,J01000096,Sunderland 013,E02001803,74.0,71.8,76.3,Male
+Sunderland,J01000096,Sunderland 013,E02001803,78.4,76.6,80.2,Female
+Sunderland,J01000096,Sunderland 014,E02001804,75.1,73.2,77.0,Male
+Sunderland,J01000096,Sunderland 014,E02001804,80.8,79.5,82.2,Female
+Sunderland,J01000096,Sunderland 015,E02001805,77.0,75.0,79.0,Male
+Sunderland,J01000096,Sunderland 015,E02001805,80.4,78.3,82.4,Female
+Sunderland,J01000096,Sunderland 016,E02001806,69.4,67.4,71.4,Male
+Sunderland,J01000096,Sunderland 016,E02001806,76.1,74.3,78.0,Female
+Sunderland,J01000096,Sunderland 018,E02001808,78.0,75.7,80.3,Male
+Sunderland,J01000096,Sunderland 018,E02001808,84.7,82.3,87.1,Female
+Sunderland,J01000096,Sunderland 021,E02001811,76.6,74.7,78.6,Male
+Sunderland,J01000096,Sunderland 021,E02001811,81.0,79.4,82.7,Female
+Sunderland,J01000096,Sunderland 022,E02001812,81.8,80.4,83.3,Male
+Sunderland,J01000096,Sunderland 022,E02001812,84.7,83.6,85.8,Female
+Sunderland,J01000096,Sunderland 023,E02001813,74.5,72.7,76.3,Male
+Sunderland,J01000096,Sunderland 023,E02001813,80.5,79.1,82.0,Female
+Sunderland,J01000096,Sunderland 024,E02001814,76.9,74.7,79.0,Male
+Sunderland,J01000096,Sunderland 024,E02001814,81.0,79.0,83.0,Female
+Sunderland,J01000096,Sunderland 026,E02001816,76.2,74.5,77.9,Male
+Sunderland,J01000096,Sunderland 026,E02001816,80.9,79.3,82.5,Female
+Sunderland,J01000096,Sunderland 027,E02001817,77.1,75.4,78.9,Male
+Sunderland,J01000096,Sunderland 027,E02001817,80.9,79.2,82.6,Female
+Sunderland,J01000096,Sunderland 028,E02001818,76.2,74.2,78.1,Male
+Sunderland,J01000096,Sunderland 028,E02001818,81.8,80.0,83.6,Female
+Sunderland,J01000096,Sunderland 029,E02001819,81.7,80.2,83.2,Male
+Sunderland,J01000096,Sunderland 029,E02001819,86.8,85.1,88.4,Female
+Sunderland,J01000096,Sunderland 031,E02001821,82.6,80.3,85.0,Male
+Sunderland,J01000096,Sunderland 031,E02001821,83.2,81.1,85.4,Female
+York,J01000112,York 004,E02002775,79.9,78.0,81.9,Male
+York,J01000112,York 004,E02002775,82.7,80.4,85.0,Female
+York,J01000112,York 005,E02002776,80.5,78.3,82.6,Male
+York,J01000112,York 005,E02002776,85.3,83.1,87.5,Female
+York,J01000112,York 006,E02002777,81.9,80.0,83.9,Male
+York,J01000112,York 006,E02002777,85.4,83.8,86.9,Female
+York,J01000112,York 007,E02002778,79.3,77.8,80.8,Male
+York,J01000112,York 007,E02002778,83.0,81.6,84.3,Female
+York,J01000112,York 008,E02002779,81.2,79.5,82.9,Male
+York,J01000112,York 008,E02002779,85.7,83.9,87.5,Female
+York,J01000112,York 009,E02002780,75.9,73.9,77.9,Male
+York,J01000112,York 009,E02002780,81.2,79.2,83.3,Female
+York,J01000112,York 010,E02002781,76.0,73.9,78.0,Male
+York,J01000112,York 010,E02002781,83.6,81.3,85.9,Female
+York,J01000112,York 012,E02002783,79.3,77.9,80.7,Male
+York,J01000112,York 012,E02002783,82.3,80.9,83.8,Female
+York,J01000112,York 013,E02002784,75.9,74.3,77.5,Male
+York,J01000112,York 013,E02002784,81.6,79.7,83.5,Female
+York,J01000112,York 014,E02002785,80.2,78.5,81.9,Male
+York,J01000112,York 014,E02002785,83.2,81.7,84.7,Female
+York,J01000112,York 015,E02002786,77.8,75.8,79.8,Male
+York,J01000112,York 015,E02002786,81.4,79.6,83.1,Female
+York,J01000112,York 016,E02002787,78.5,76.7,80.2,Male
+York,J01000112,York 016,E02002787,84.4,82.7,86.1,Female
+York,J01000112,York 017,E02002788,79.7,77.7,81.7,Male
+York,J01000112,York 017,E02002788,88.1,86.0,90.2,Female
+York,J01000112,York 018,E02002789,75.4,73.4,77.3,Male
+York,J01000112,York 018,E02002789,79.0,77.2,80.7,Female
+York,J01000112,York 019,E02002790,78.7,77.1,80.2,Male
+York,J01000112,York 019,E02002790,79.5,77.5,81.4,Female
+York,J01000112,York 021,E02002792,81.7,79.5,84.0,Male
+York,J01000112,York 021,E02002792,87.5,85.4,89.5,Female
+York,J01000112,York 022,E02002793,81.0,79.4,82.6,Male
+York,J01000112,York 022,E02002793,83.6,81.8,85.3,Female

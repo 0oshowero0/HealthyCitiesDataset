@@ -1,0 +1,1340 @@
+Date,NOx_1,NOx_2,PM2.5_1,PM2.5_2,PM10_1,PM10_2
+2019-01-01,No data,44,No data,9,No data,23
+2019-01-02,No data,191,No data,17,No data,37
+2019-01-03,No data,86,No data,15,No data,35
+2019-01-04,No data,117,No data,21,No data,37
+2019-01-05,No data,58,No data,18,No data,31
+2019-01-06,No data,65,No data,18,No data,30
+2019-01-07,No data,35,No data,9,No data,22
+2019-01-08,No data,84,No data,No data,No data,No data
+2019-01-09,No data,181,No data,No data,No data,No data
+2019-01-10,No data,160,No data,No data,No data,No data
+2019-01-11,No data,83,No data,No data,No data,No data
+2019-01-12,No data,29,No data,6,No data,14
+2019-01-13,No data,28,No data,6,No data,17
+2019-01-14,No data,73,No data,7,No data,19
+2019-01-15,No data,31,No data,6,No data,14
+2019-01-16,No data,52,No data,4,No data,13
+2019-01-17,No data,97,No data,8,No data,27
+2019-01-18,No data,46,No data,9,No data,18
+2019-01-19,No data,107,No data,19,No data,24
+2019-01-20,No data,82,No data,25,No data,29
+2019-01-21,No data,80,No data,12,No data,15
+2019-01-22,No data,92,No data,11,No data,15
+2019-01-23,No data,85,No data,19,No data,20
+2019-01-24,No data,172,No data,31,No data,38
+2019-01-25,No data,37,No data,7,No data,11
+2019-01-26,No data,25,No data,5,No data,10
+2019-01-27,No data,29,No data,2,No data,11
+2019-01-28,No data,88,No data,6,No data,21
+2019-01-29,No data,83,No data,5,No data,11
+2019-01-30,No data,195,No data,18,No data,24
+2019-01-31,No data,160,No data,15,No data,21
+2019-02-01,No data,189,No data,12,No data,25
+2019-02-02,No data,157,No data,17,No data,46
+2019-02-03,No data,31,No data,8,No data,13
+2019-02-04,No data,84,No data,8,No data,17
+2019-02-05,No data,78,No data,12,No data,14
+2019-02-06,No data,32,No data,9,No data,20
+2019-02-07,No data,No data,No data,14,No data,20
+2019-02-08,No data,No data,No data,5,No data,13
+2019-02-09,No data,28,No data,8,No data,20
+2019-02-10,No data,45,No data,7,No data,13
+2019-02-11,No data,160,No data,12,No data,23
+2019-02-12,No data,30,No data,9,No data,15
+2019-02-13,No data,26,No data,7,No data,22
+2019-02-14,No data,124,No data,21,No data,44
+2019-02-15,No data,61,No data,23,No data,36
+2019-02-16,No data,21,No data,8,No data,20
+2019-02-17,No data,11,No data,13,No data,24
+2019-02-18,No data,23,No data,6,No data,18
+2019-02-19,No data,35,No data,6,No data,18
+2019-02-20,No data,31,No data,5,No data,8
+2019-02-21,No data,99,No data,12,No data,25
+2019-02-22,No data,36,No data,15,No data,35
+2019-02-23,No data,36,No data,21,No data,35
+2019-02-24,No data,43,No data,24,No data,37
+2019-02-25,No data,181,No data,52,No data,72
+2019-02-26,No data,226,No data,46,No data,72
+2019-02-27,No data,166,No data,43,No data,72
+2019-02-28,No data,114,No data,27,No data,40
+2019-03-01,No data,47,No data,21,No data,30
+2019-03-02,No data,20,No data,9,No data,14
+2019-03-03,No data,23,No data,8,No data,23
+2019-03-04,No data,43,No data,4,No data,16
+2019-03-05,No data,28,No data,6,No data,16
+2019-03-06,No data,45,No data,7,No data,9
+2019-03-07,No data,79,No data,7,No data,14
+2019-03-08,No data,42,No data,6,No data,13
+2019-03-09,No data,46,No data,5,No data,14
+2019-03-10,No data,31,No data,4,No data,10
+2019-03-11,No data,37,No data,4,No data,14
+2019-03-12,No data,30,No data,5,No data,14
+2019-03-13,No data,38,No data,7,No data,20
+2019-03-14,No data,48,No data,5,No data,17
+2019-03-15,No data,43,No data,5,No data,16
+2019-03-16,No data,34,No data,2,No data,10
+2019-03-17,No data,32,No data,2,No data,12
+2019-03-18,No data,76,No data,No data,No data,No data
+2019-03-19,No data,44,No data,No data,No data,No data
+2019-03-20,No data,39,No data,10,No data,15
+2019-03-21,No data,40,No data,11,No data,27
+2019-03-22,No data,25,No data,10,No data,20
+2019-03-23,No data,38,No data,9,No data,24
+2019-03-24,No data,22,No data,6,No data,17
+2019-03-25,No data,72,No data,11,No data,28
+2019-03-26,No data,49,No data,7,No data,23
+2019-03-27,No data,50,No data,13,No data,27
+2019-03-28,No data,58,No data,16,No data,30
+2019-03-29,No data,62,No data,16,No data,28
+2019-03-30,No data,58,No data,15,No data,26
+2019-03-31,No data,33,No data,6,No data,12
+2019-04-01,No data,30,No data,8,No data,21
+2019-04-02,No data,59,No data,4,No data,13
+2019-04-03,No data,51,No data,4,No data,8
+2019-04-04,No data,59,No data,8,No data,16
+2019-04-05,No data,36,No data,19,No data,27
+2019-04-06,No data,57,No data,22,No data,32
+2019-04-07,No data,35,No data,27,No data,35
+2019-04-08,No data,46,No data,21,No data,37
+2019-04-09,No data,56,No data,13,No data,26
+2019-04-10,No data,78,No data,9,No data,23
+2019-04-11,No data,49,No data,12,No data,29
+2019-04-12,No data,39,No data,11,No data,21
+2019-04-13,No data,38,No data,11,No data,19
+2019-04-14,No data,25,No data,9,No data,18
+2019-04-15,No data,25,No data,20,No data,30
+2019-04-16,No data,84,No data,29,No data,50
+2019-04-17,No data,76,No data,24,No data,42
+2019-04-18,No data,81,No data,34,No data,49
+2019-04-19,No data,57,No data,28,No data,41
+2019-04-20,No data,71,No data,33,No data,48
+2019-04-21,No data,48,No data,34,No data,47
+2019-04-22,No data,21,No data,27,No data,35
+2019-04-23,No data,71,No data,32,No data,51
+2019-04-24,No data,56,No data,31,No data,59
+2019-04-25,No data,44,No data,9,No data,15
+2019-04-26,No data,20,No data,6,No data,12
+2019-04-27,No data,59,No data,7,No data,12
+2019-04-28,No data,37,No data,9,No data,13
+2019-04-29,No data,70,No data,16,No data,24
+2019-04-30,No data,59,No data,21,No data,33
+2019-05-01,No data,66,No data,16,No data,21
+2019-05-02,No data,74,No data,8,No data,17
+2019-05-03,No data,78,No data,6,No data,15
+2019-05-04,No data,54,No data,4,No data,15
+2019-05-05,No data,41,No data,5,No data,13
+2019-05-06,No data,34,No data,3,No data,9
+2019-05-07,No data,48,No data,5,No data,12
+2019-05-08,No data,79,No data,11,No data,18
+2019-05-09,No data,84,No data,7,No data,17
+2019-05-10,No data,57,No data,7,No data,15
+2019-05-11,No data,52,No data,7,No data,14
+2019-05-12,No data,31,No data,5,No data,11
+2019-05-13,No data,65,No data,11,No data,23
+2019-05-14,No data,57,No data,19,No data,31
+2019-05-15,No data,73,No data,22,No data,36
+2019-05-16,No data,23,No data,11,No data,19
+2019-05-17,No data,63,No data,10,No data,20
+2019-05-18,No data,48,No data,8,No data,14
+2019-05-19,No data,24,No data,10,No data,14
+2019-05-20,No data,42,No data,9,No data,15
+2019-05-21,No data,38,No data,6,No data,13
+2019-05-22,No data,37,No data,4,No data,12
+2019-05-23,No data,41,No data,6,No data,14
+2019-05-24,No data,36,No data,6,No data,12
+2019-05-25,No data,29,No data,9,No data,15
+2019-05-26,No data,23,No data,8,No data,13
+2019-05-27,No data,31,No data,8,No data,11
+2019-05-28,No data,62,No data,7,No data,13
+2019-05-29,No data,22,No data,8,No data,12
+2019-05-30,No data,26,No data,9,No data,16
+2019-05-31,No data,22,No data,6,No data,10
+2019-06-01,No data,40,No data,9,No data,14
+2019-06-02,No data,12,No data,9,No data,15
+2019-06-03,No data,17,No data,10,No data,20
+2019-06-04,No data,38,No data,10,No data,13
+2019-06-05,No data,37,No data,7,No data,9
+2019-06-06,No data,43,No data,9,No data,14
+2019-06-07,No data,57,No data,11,No data,17
+2019-06-08,No data,49,No data,12,No data,14
+2019-06-09,No data,22,No data,8,No data,13
+2019-06-10,No data,58,No data,8,No data,13
+2019-06-11,No data,53,No data,6,No data,11
+2019-06-12,No data,51,No data,7,No data,10
+2019-06-13,No data,58,No data,7,No data,7
+2019-06-14,No data,29,No data,9,No data,12
+2019-06-15,No data,24,No data,10,No data,11
+2019-06-16,No data,15,No data,8,No data,9
+2019-06-17,No data,16,No data,10,No data,14
+2019-06-18,No data,34,No data,11,No data,16
+2019-06-19,No data,39,No data,9,No data,15
+2019-06-20,No data,32,No data,6,No data,12
+2019-06-21,No data,37,No data,8,No data,13
+2019-06-22,No data,45,No data,9,No data,16
+2019-06-23,No data,20,No data,11,No data,16
+2019-06-24,No data,63,No data,12,No data,15
+2019-06-25,No data,61,No data,11,No data,12
+2019-06-26,No data,54,No data,10,No data,16
+2019-06-27,No data,67,No data,10,No data,16
+2019-06-28,No data,34,No data,10,No data,15
+2019-06-29,No data,40,No data,17,No data,32
+2019-06-30,No data,12,No data,11,No data,16
+2019-07-01,No data,42,No data,9,No data,13
+2019-07-02,No data,49,No data,9,No data,15
+2019-07-03,No data,47,No data,No data,No data,No data
+2019-07-04,No data,39,No data,No data,No data,No data
+2019-07-05,No data,35,No data,No data,No data,No data
+2019-07-06,No data,37,No data,No data,No data,No data
+2019-07-07,No data,35,No data,No data,No data,No data
+2019-07-08,No data,51,No data,No data,No data,No data
+2019-07-09,No data,32,No data,No data,No data,No data
+2019-07-10,No data,49,No data,12,No data,16
+2019-07-11,No data,No data,No data,No data,No data,No data
+2019-07-12,No data,No data,No data,6,No data,10
+2019-07-13,No data,40,No data,4,No data,9
+2019-07-14,No data,34,No data,3,No data,10
+2019-07-15,No data,49,No data,11,No data,19
+2019-07-16,No data,47,No data,12,No data,23
+2019-07-17,No data,21,No data,6,No data,12
+2019-07-18,No data,31,No data,5,No data,12
+2019-07-19,No data,26,No data,4,No data,11
+2019-07-20,No data,39,No data,4,No data,9
+2019-07-21,No data,11,No data,3,No data,5
+2019-07-22,No data,15,No data,7,No data,9
+2019-07-23,No data,52,No data,8,No data,13
+2019-07-24,No data,42,No data,12,No data,14
+2019-07-25,No data,47,No data,12,No data,18
+2019-07-26,No data,59,No data,11,No data,19
+2019-07-27,No data,71,No data,8,No data,10
+2019-07-28,No data,34,No data,13,No data,20
+2019-07-29,No data,58,No data,9,No data,9
+2019-07-30,No data,75,No data,14,No data,20
+2019-07-31,No data,No data,No data,No data,No data,No data
+2019-08-01,No data,No data,No data,No data,No data,No data
+2019-08-02,No data,No data,No data,No data,No data,No data
+2019-08-03,No data,No data,No data,No data,No data,No data
+2019-08-04,No data,No data,No data,No data,No data,No data
+2019-08-05,No data,No data,No data,No data,No data,No data
+2019-08-06,No data,28,No data,8,No data,12
+2019-08-07,No data,33,No data,7,No data,11
+2019-08-08,No data,52,No data,7,No data,10
+2019-08-09,No data,48,No data,7,No data,9
+2019-08-10,No data,36,No data,6,No data,7
+2019-08-11,No data,25,No data,7,No data,7
+2019-08-12,No data,49,No data,6,No data,11
+2019-08-13,No data,39,No data,6,No data,12
+2019-08-14,No data,21,No data,5,No data,8
+2019-08-15,No data,35,No data,6,No data,12
+2019-08-16,No data,24,No data,5,No data,9
+2019-08-17,No data,16,No data,8,No data,16
+2019-08-18,No data,10,No data,8,No data,18
+2019-08-19,No data,30,No data,8,No data,17
+2019-08-20,No data,36,No data,9,No data,14
+2019-08-21,No data,20,No data,6,No data,8
+2019-08-22,No data,21,No data,8,No data,13
+2019-08-23,No data,40,No data,8,No data,12
+2019-08-24,No data,41,No data,11,No data,18
+2019-08-25,No data,28,No data,16,No data,25
+2019-08-26,No data,26,No data,20,No data,26
+2019-08-27,No data,52,No data,13,No data,18
+2019-08-28,No data,26,No data,8,No data,12
+2019-08-29,No data,15,No data,10,No data,16
+2019-08-30,No data,11,No data,12,No data,18
+2019-08-31,No data,23,No data,6,No data,12
+2019-09-01,No data,26,No data,4,No data,11
+2019-09-02,No data,24,No data,7,No data,10
+2019-09-03,No data,25,No data,8,No data,10
+2019-09-04,No data,41,No data,6,No data,12
+2019-09-05,No data,47,No data,8,No data,18
+2019-09-06,No data,40,No data,6,No data,15
+2019-09-07,No data,65,No data,6,No data,10
+2019-09-08,No data,23,No data,5,No data,10
+2019-09-09,No data,62,No data,10,No data,15
+2019-09-10,No data,42,No data,No data,No data,No data
+2019-09-11,No data,No data,No data,No data,No data,No data
+2019-09-12,No data,39,No data,7,No data,13
+2019-09-13,No data,44,No data,8,No data,21
+2019-09-14,No data,20,No data,8,No data,14
+2019-09-15,No data,28,No data,10,No data,22
+2019-09-16,No data,83,No data,8,No data,16
+2019-09-17,No data,66,No data,8,No data,19
+2019-09-18,No data,54,No data,10,No data,21
+2019-09-19,No data,73,No data,14,No data,24
+2019-09-20,No data,77,No data,15,No data,21
+2019-09-21,No data,37,No data,14,No data,24
+2019-09-22,No data,59,No data,18,No data,24
+2019-09-23,No data,51,No data,11,No data,14
+2019-09-24,No data,68,No data,10,No data,13
+2019-09-25,No data,52,No data,9,No data,12
+2019-09-26,No data,22,No data,10,No data,14
+2019-09-27,No data,42,No data,10,No data,11
+2019-09-28,No data,49,No data,11,No data,10
+2019-09-29,No data,50,No data,13,No data,11
+2019-09-30,No data,90,No data,8,No data,13
+2019-10-01,No data,91,No data,7,No data,13
+2019-10-02,No data,82,No data,7,No data,15
+2019-10-03,No data,67,No data,7,No data,15
+2019-10-04,No data,90,No data,8,No data,12
+2019-10-05,No data,40,No data,8,No data,13
+2019-10-06,No data,41,No data,7,No data,8
+2019-10-07,No data,17,No data,9,No data,15
+2019-10-08,No data,25,No data,11,No data,20
+2019-10-09,No data,35,No data,10,No data,18
+2019-10-10,No data,29,No data,11,No data,18
+2019-10-11,No data,33,No data,10,No data,17
+2019-10-12,No data,44,No data,No data,No data,14
+2019-10-13,No data,81,No data,No data,No data,14
+2019-10-14,No data,70,No data,No data,No data,16
+2019-10-15,No data,96,No data,10,No data,16
+2019-10-16,No data,40,No data,8,No data,15
+2019-10-17,No data,27,No data,7,No data,15
+2019-10-18,No data,106,No data,11,No data,16
+2019-10-19,No data,88,No data,10,No data,15
+2019-10-20,No data,45,No data,5,No data,10
+2019-10-21,No data,82,No data,7,No data,15
+2019-10-22,No data,29,No data,4,No data,11
+2019-10-23,No data,27,No data,8,No data,14
+2019-10-24,No data,54,No data,7,No data,14
+2019-10-25,No data,93,No data,8,No data,11
+2019-10-26,No data,50,No data,3,No data,11
+2019-10-27,No data,40,No data,4,No data,12
+2019-10-28,No data,183,No data,12,No data,27
+2019-10-29,No data,177,No data,10,No data,21
+2019-10-30,No data,164,No data,10,No data,21
+2019-10-31,No data,94,No data,14,No data,24
+2019-11-01,No data,74,No data,11,No data,12
+2019-11-02,No data,99,No data,15,No data,22
+2019-11-03,No data,68,No data,11,No data,15
+2019-11-04,No data,120,No data,13,No data,16
+2019-11-05,No data,122,No data,18,No data,28
+2019-11-06,No data,117,No data,18,No data,26
+2019-11-07,No data,113,No data,10,No data,14
+2019-11-08,No data,152,No data,11,No data,23
+2019-11-09,No data,124,No data,10,No data,20
+2019-11-10,No data,76,No data,8,No data,20
+2019-11-11,No data,46,No data,4,No data,9
+2019-11-12,No data,96,No data,6,No data,13
+2019-11-13,No data,149,No data,10,No data,16
+2019-11-14,No data,114,No data,5,No data,13
+2019-11-15,No data,106,No data,6,No data,11
+2019-11-16,No data,113,No data,8,No data,13
+2019-11-17,No data,125,No data,9,No data,14
+2019-11-18,No data,165,No data,18,No data,23
+2019-11-19,No data,120,No data,10,No data,17
+2019-11-20,No data,52,No data,14,No data,21
+2019-11-21,No data,78,No data,12,No data,26
+2019-11-22,No data,150,No data,14,No data,20
+2019-11-23,No data,110,No data,14,No data,20
+2019-11-24,No data,86,No data,22,No data,25
+2019-11-25,No data,151,No data,17,No data,20
+2019-11-26,No data,123,No data,14,No data,15
+2019-11-27,No data,164,No data,15,No data,19
+2019-11-28,No data,120,No data,10,No data,15
+2019-11-29,No data,271,No data,18,No data,27
+2019-11-30,No data,237,No data,16,No data,26
+2019-12-01,No data,189,No data,28,No data,35
+2019-12-02,No data,239,No data,19,No data,29
+2019-12-03,No data,111,No data,13,No data,22
+2019-12-04,No data,38,No data,9,No data,18
+2019-12-05,No data,22,No data,5,No data,12
+2019-12-06,No data,40,No data,6,No data,10
+2019-12-07,No data,20,No data,6,No data,9
+2019-12-08,No data,17,No data,7,No data,16
+2019-12-09,No data,97,No data,9,No data,20
+2019-12-10,No data,26,No data,5,No data,11
+2019-12-11,No data,47,No data,7,No data,16
+2019-12-12,No data,92,No data,8,No data,14
+2019-12-13,No data,75,No data,7,No data,12
+2019-12-14,No data,37,No data,5,No data,18
+2019-12-15,No data,24,No data,3,No data,10
+2019-12-16,No data,41,No data,4,No data,12
+2019-12-17,No data,73,No data,10,No data,19
+2019-12-18,No data,62,No data,9,No data,15
+2019-12-19,No data,64,No data,9,No data,13
+2019-12-20,No data,70,No data,9,No data,14
+2019-12-21,No data,57,No data,11,No data,15
+2019-12-22,No data,55,No data,12,No data,14
+2019-12-23,No data,41,No data,9,No data,18
+2019-12-24,No data,98,No data,9,No data,12
+2019-12-25,No data,38,No data,9,No data,13
+2019-12-26,No data,50,No data,11,No data,15
+2019-12-27,No data,29,No data,11,No data,13
+2019-12-28,No data,117,No data,20,No data,27
+2019-12-29,No data,110,No data,21,No data,27
+2019-12-30,No data,96,No data,13,No data,24
+2019-12-31,No data,166,No data,15,No data,20
+2020-01-01,No data,33,No data,21,No data,25
+2020-01-02,No data,32,No data,10,No data,18
+2020-01-03,No data,51,No data,9,No data,18
+2020-01-04,No data,28,No data,8,No data,14
+2020-01-05,No data,12,No data,7,No data,11
+2020-01-06,No data,24,No data,6,No data,12
+2020-01-07,No data,17,No data,10,No data,17
+2020-01-08,No data,54,No data,12,No data,30
+2020-01-09,No data,99,No data,6,No data,8
+2020-01-10,No data,52,No data,7,No data,14
+2020-01-11,No data,15,No data,8,No data,9
+2020-01-12,No data,20,No data,7,No data,12
+2020-01-13,No data,18,No data,6,No data,12
+2020-01-14,No data,37,No data,7,No data,14
+2020-01-15,No data,23,No data,No data,No data,No data
+2020-01-16,No data,22,No data,No data,No data,No data
+2020-01-17,No data,64,No data,No data,No data,No data
+2020-01-18,No data,62,No data,No data,No data,No data
+2020-01-19,No data,94,No data,No data,No data,No data
+2020-01-20,No data,56,No data,No data,No data,No data
+2020-01-21,No data,61,No data,12,No data,21
+2020-01-22,No data,75,No data,16,No data,18
+2020-01-23,No data,70,No data,14,No data,16
+2020-01-24,No data,64,No data,10,No data,12
+2020-01-25,No data,28,No data,9,No data,13
+2020-01-26,No data,29,No data,10,No data,15
+2020-01-27,No data,36,No data,6,No data,12
+2020-01-28,No data,62,No data,6,No data,11
+2020-01-29,No data,32,No data,8,No data,14
+2020-01-30,No data,24,No data,8,No data,17
+2020-01-31,No data,26,No data,9,No data,14
+2020-02-01,No data,27,No data,10,No data,22
+2020-02-02,No data,21,No data,8,No data,18
+2020-02-03,No data,35,No data,7,No data,19
+2020-02-04,No data,72,No data,7,No data,20
+2020-02-05,No data,No data,No data,11,No data,24
+2020-02-06,No data,No data,No data,16,No data,33
+2020-02-07,No data,59,No data,15,No data,28
+2020-02-08,No data,11,No data,6,No data,16
+2020-02-09,No data,14,No data,7,No data,15
+2020-02-10,No data,32,No data,5,No data,19
+2020-02-11,No data,36,No data,5,No data,13
+2020-02-12,No data,46,No data,7,No data,16
+2020-02-13,No data,132,No data,7,No data,13
+2020-02-14,No data,41,No data,10,No data,19
+2020-02-15,No data,13,No data,7,No data,15
+2020-02-16,No data,9,No data,9,No data,22
+2020-02-17,No data,36,No data,8,No data,22
+2020-02-18,No data,36,No data,5,No data,16
+2020-02-19,No data,30,No data,5,No data,13
+2020-02-20,No data,44,No data,6,No data,13
+2020-02-21,No data,16,No data,8,No data,16
+2020-02-22,No data,24,No data,7,No data,18
+2020-02-23,No data,27,No data,5,No data,14
+2020-02-24,No data,50,No data,4,No data,9
+2020-02-25,No data,58,No data,6,No data,14
+2020-02-26,No data,53,No data,4,No data,15
+2020-02-27,No data,67,No data,4,No data,16
+2020-02-28,No data,29,No data,5,No data,10
+2020-02-29,No data,16,No data,7,No data,14
+2020-03-01,No data,15,No data,7,No data,21
+2020-03-02,No data,47,No data,6,No data,15
+2020-03-03,No data,57,No data,6,No data,15
+2020-03-04,No data,112,No data,13,No data,30
+2020-03-05,No data,135,No data,21,No data,40
+2020-03-06,No data,74,No data,13,No data,27
+2020-03-07,No data,13,No data,7,No data,15
+2020-03-08,No data,14,No data,7,No data,17
+2020-03-09,No data,26,No data,6,No data,15
+2020-03-10,No data,33,No data,9,No data,17
+2020-03-11,No data,26,No data,5,No data,14
+2020-03-12,No data,23,No data,6,No data,17
+2020-03-13,No data,60,No data,7,No data,20
+2020-03-14,No data,13,No data,8,No data,12
+2020-03-15,No data,20,No data,6,No data,18
+2020-03-16,No data,25,No data,6,No data,16
+2020-03-17,No data,26,No data,9,No data,18
+2020-03-18,No data,49,No data,8,No data,22
+2020-03-19,No data,96,No data,9,No data,22
+2020-03-20,No data,80,No data,9,No data,21
+2020-03-21,No data,22,No data,4,No data,16
+2020-03-22,No data,15,No data,14,No data,24
+2020-03-23,No data,39,No data,15,No data,26
+2020-03-24,No data,19,No data,18,No data,28
+2020-03-25,No data,41,No data,19,No data,34
+2020-03-26,No data,59,No data,25,No data,40
+2020-03-27,No data,43,No data,27,No data,35
+2020-03-28,No data,26,No data,5,No data,15
+2020-03-29,No data,15,No data,3,No data,14
+2020-03-30,No data,37,No data,4,No data,14
+2020-03-31,No data,44,No data,7,No data,17
+2020-04-01,No data,35,No data,6,No data,15
+2020-04-02,No data,25,No data,7,No data,16
+2020-04-03,No data,26,No data,6,No data,17
+2020-04-04,No data,13,No data,8,No data,13
+2020-04-05,No data,8,No data,9,No data,17
+2020-04-06,No data,16,No data,10,No data,21
+2020-04-07,No data,22,No data,11,No data,23
+2020-04-08,No data,48,No data,11,No data,22
+2020-04-09,No data,32,No data,10,No data,21
+2020-04-10,No data,35,No data,27,No data,No data
+2020-04-11,No data,28,No data,25,No data,No data
+2020-04-12,No data,15,No data,14,No data,No data
+2020-04-13,No data,20,No data,6,No data,No data
+2020-04-14,No data,28,No data,10,No data,No data
+2020-04-15,No data,34,No data,16,No data,29
+2020-04-16,No data,39,No data,13,No data,23
+2020-04-17,No data,30,No data,9,No data,18
+2020-04-18,No data,23,No data,8,No data,18
+2020-04-19,No data,13,No data,9,No data,17
+2020-04-20,No data,25,No data,6,No data,18
+2020-04-21,No data,27,No data,11,No data,23
+2020-04-22,No data,33,No data,15,No data,30
+2020-04-23,No data,37,No data,13,No data,23
+2020-04-24,No data,46,No data,12,No data,20
+2020-04-25,No data,31,No data,23,No data,30
+2020-04-26,No data,24,No data,17,No data,24
+2020-04-27,No data,35,No data,5,No data,12
+2020-04-28,No data,27,No data,6,No data,15
+2020-04-29,No data,24,No data,9,No data,12
+2020-04-30,No data,13,No data,8,No data,10
+2020-05-01,No data,29,No data,8,No data,15
+2020-05-02,No data,24,No data,8,No data,13
+2020-05-03,No data,21,No data,11,No data,14
+2020-05-04,No data,41,No data,12,No data,19
+2020-05-05,No data,29,No data,8,No data,14
+2020-05-06,No data,42,No data,11,No data,18
+2020-05-07,No data,43,No data,18,No data,31
+2020-05-08,No data,32,No data,15,No data,21
+2020-05-09,No data,28,No data,9,No data,13
+2020-05-10,No data,26,No data,7,No data,17
+2020-05-11,No data,37,No data,5,No data,12
+2020-05-12,No data,31,No data,6,No data,13
+2020-05-13,No data,40,No data,5,No data,12
+2020-05-14,No data,33,No data,6,No data,12
+2020-05-15,No data,34,No data,7,No data,13
+2020-05-16,No data,20,No data,8,No data,14
+2020-05-17,No data,13,No data,12,No data,17
+2020-05-18,No data,20,No data,13,No data,17
+2020-05-19,No data,27,No data,13,No data,20
+2020-05-20,No data,42,No data,14,No data,23
+2020-05-21,No data,49,No data,10,No data,18
+2020-05-22,No data,10,No data,15,No data,33
+2020-05-23,No data,12,No data,8,No data,21
+2020-05-24,No data,16,No data,11,No data,24
+2020-05-25,No data,26,No data,9,No data,16
+2020-05-26,No data,28,No data,10,No data,23
+2020-05-27,No data,43,No data,8,No data,19
+2020-05-28,No data,50,No data,12,No data,27
+2020-05-29,No data,32,No data,9,No data,20
+2020-05-30,No data,17,No data,6,No data,13
+2020-05-31,No data,22,No data,11,No data,18
+2020-06-01,No data,53,No data,11,No data,22
+2020-06-02,No data,52,No data,12,No data,24
+2020-06-03,No data,52,No data,5,No data,12
+2020-06-04,No data,51,No data,6,No data,12
+2020-06-05,No data,42,No data,6,No data,13
+2020-06-06,No data,33,No data,6,No data,11
+2020-06-07,No data,28,No data,8,No data,14
+2020-06-08,No data,51,No data,8,No data,21
+2020-06-09,No data,43,No data,10,No data,19
+2020-06-10,No data,25,No data,12,No data,13
+2020-06-11,No data,38,No data,12,No data,15
+2020-06-12,No data,55,No data,16,No data,24
+2020-06-13,No data,42,No data,11,No data,12
+2020-06-14,No data,28,No data,8,No data,12
+2020-06-15,No data,50,No data,9,No data,15
+2020-06-16,No data,53,No data,15,No data,21
+2020-06-17,No data,58,No data,15,No data,23
+2020-06-18,No data,43,No data,11,No data,15
+2020-06-19,No data,35,No data,7,No data,9
+2020-06-20,No data,16,No data,6,No data,12
+2020-06-21,No data,13,No data,8,No data,18
+2020-06-22,No data,14,No data,7,No data,18
+2020-06-23,No data,24,No data,5,No data,10
+2020-06-24,No data,57,No data,10,No data,21
+2020-06-25,No data,33,No data,15,No data,27
+2020-06-26,No data,48,No data,17,No data,27
+2020-06-27,No data,18,No data,6,No data,11
+2020-06-28,No data,7,No data,6,No data,10
+2020-06-29,No data,24,No data,7,No data,16
+2020-06-30,No data,35,No data,7,No data,15
+2020-07-01,No data,60,No data,9,No data,17
+2020-07-02,No data,46,No data,7,No data,16
+2020-07-03,No data,19,No data,5,No data,10
+2020-07-04,No data,29,No data,4,No data,9
+2020-07-05,No data,14,No data,9,No data,14
+2020-07-06,No data,38,No data,9,No data,18
+2020-07-07,No data,42,No data,9,No data,17
+2020-07-08,No data,56,No data,8,No data,14
+2020-07-09,No data,52,No data,6,No data,12
+2020-07-10,No data,47,No data,6,No data,13
+2020-07-11,No data,31,No data,5,No data,13
+2020-07-12,No data,14,No data,5,No data,10
+2020-07-13,No data,30,No data,5,No data,11
+2020-07-14,No data,33,No data,5,No data,12
+2020-07-15,No data,35,No data,5,No data,10
+2020-07-16,No data,30,No data,5,No data,12
+2020-07-17,No data,21,No data,4,No data,12
+2020-07-18,No data,28,No data,4,No data,13
+2020-07-19,No data,22,No data,7,No data,17
+2020-07-20,No data,41,No data,6,No data,15
+2020-07-21,No data,46,No data,6,No data,15
+2020-07-22,No data,25,No data,7,No data,13
+2020-07-23,No data,32,No data,3,No data,9
+2020-07-24,No data,44,No data,6,No data,12
+2020-07-25,No data,21,No data,3,No data,10
+2020-07-26,No data,11,No data,5,No data,11
+2020-07-27,No data,20,No data,4,No data,10
+2020-07-28,No data,35,No data,5,No data,13
+2020-07-29,No data,32,No data,6,No data,17
+2020-07-30,No data,39,No data,7,No data,15
+2020-07-31,No data,49,No data,No data,No data,No data
+2020-08-01,No data,27,No data,No data,No data,No data
+2020-08-02,No data,17,No data,No data,No data,No data
+2020-08-03,No data,39,No data,No data,No data,No data
+2020-08-04,No data,16,No data,4,No data,11
+2020-08-05,No data,19,No data,3,No data,9
+2020-08-06,No data,No data,No data,No data,No data,No data
+2020-08-07,No data,No data,No data,No data,No data,No data
+2020-08-08,No data,36,No data,5,No data,11
+2020-08-09,No data,23,No data,7,No data,18
+2020-08-10,No data,56,No data,11,No data,25
+2020-08-11,No data,62,No data,14,No data,27
+2020-08-12,No data,54,No data,15,No data,27
+2020-08-13,No data,36,No data,10,No data,15
+2020-08-14,No data,49,No data,7,No data,10
+2020-08-15,No data,42,No data,5,No data,10
+2020-08-16,No data,26,No data,6,No data,12
+2020-08-17,No data,79,No data,6,No data,13
+2020-08-18,No data,38,No data,5,No data,12
+2020-08-19,No data,29,No data,5,No data,12
+2020-08-20,No data,15,No data,6,No data,18
+2020-08-21,No data,11,No data,7,No data,15
+2020-08-22,No data,22,No data,5,No data,13
+2020-08-23,No data,28,No data,4,No data,9
+2020-08-24,No data,49,No data,5,No data,12
+2020-08-25,No data,48,No data,4,No data,9
+2020-08-26,No data,57,No data,5,No data,12
+2020-08-27,No data,63,No data,8,No data,16
+2020-08-28,No data,51,No data,6,No data,12
+2020-08-29,No data,44,No data,4,No data,11
+2020-08-30,No data,36,No data,5,No data,9
+2020-08-31,No data,34,No data,6,No data,12
+2020-09-01,No data,30,No data,8,No data,14
+2020-09-02,No data,18,No data,No data,No data,10
+2020-09-03,No data,27,No data,4,No data,15
+2020-09-04,No data,31,No data,6,No data,24
+2020-09-05,No data,32,No data,4,No data,18
+2020-09-06,No data,30,No data,4,No data,13
+2020-09-07,No data,24,No data,1,No data,9
+2020-09-08,No data,29,No data,1,No data,12
+2020-09-09,No data,43,No data,6,No data,18
+2020-09-10,No data,40,No data,7,No data,23
+2020-09-11,No data,23,No data,4,No data,18
+2020-09-12,No data,20,No data,8,No data,25
+2020-09-13,No data,18,No data,6,No data,15
+2020-09-14,No data,76,No data,9,No data,22
+2020-09-15,No data,99,No data,18,No data,34
+2020-09-16,No data,61,No data,11,No data,24
+2020-09-17,No data,55,No data,8,No data,19
+2020-09-18,No data,81,No data,8,No data,18
+2020-09-19,No data,45,No data,6,No data,16
+2020-09-20,No data,39,No data,4,No data,9
+2020-09-21,No data,52,No data,11,No data,21
+2020-09-22,No data,23,No data,11,No data,21
+2020-09-23,No data,81,No data,5,No data,13
+2020-09-24,No data,96,No data,6,No data,13
+2020-09-25,No data,69,No data,4,No data,13
+2020-09-26,No data,53,No data,6,No data,16
+2020-09-27,No data,42,No data,6,No data,17
+2020-09-28,No data,69,No data,10,No data,19
+2020-09-29,No data,92,No data,10,No data,19
+2020-09-30,No data,27,No data,6,No data,11
+2020-10-01,No data,62,No data,6,No data,16
+2020-10-02,No data,118,No data,7,No data,18
+2020-10-03,No data,76,No data,5,No data,13
+2020-10-04,No data,41,No data,6,No data,15
+2020-10-05,No data,60,No data,5,No data,14
+2020-10-06,No data,56,No data,5,No data,15
+2020-10-07,No data,39,No data,6,No data,15
+2020-10-08,No data,69,No data,5,No data,11
+2020-10-09,No data,43,No data,3,No data,8
+2020-10-10,No data,41,No data,3,No data,8
+2020-10-11,No data,37,No data,4,No data,8
+2020-10-12,No data,42,No data,4,No data,10
+2020-10-13,No data,83,No data,6,No data,11
+2020-10-14,No data,98,No data,7,No data,16
+2020-10-15,No data,106,No data,8,No data,20
+2020-10-16,No data,126,No data,8,No data,19
+2020-10-17,No data,77,No data,4,No data,12
+2020-10-18,No data,42,No data,6,No data,11
+2020-10-19,No data,23,No data,15,No data,19
+2020-10-20,No data,32,No data,6,No data,15
+2020-10-21,No data,69,No data,6,No data,13
+2020-10-22,No data,45,No data,4,No data,8
+2020-10-23,No data,37,No data,5,No data,13
+2020-10-24,No data,19,No data,4,No data,9
+2020-10-25,No data,10,No data,4,No data,9
+2020-10-26,No data,41,No data,4,No data,11
+2020-10-27,No data,31,No data,6,No data,11
+2020-10-28,No data,29,No data,6,No data,17
+2020-10-29,No data,25,No data,6,No data,15
+2020-10-30,No data,47,No data,7,No data,17
+2020-10-31,No data,14,No data,4,No data,14
+2020-11-01,No data,9,No data,6,No data,15
+2020-11-02,No data,45,No data,6,No data,11
+2020-11-03,No data,58,No data,6,No data,11
+2020-11-04,No data,74,No data,8,No data,20
+2020-11-05,No data,48,No data,16,No data,31
+2020-11-06,No data,88,No data,16,No data,29
+2020-11-07,No data,80,No data,22,No data,29
+2020-11-08,No data,89,No data,26,No data,30
+2020-11-09,No data,139,No data,23,No data,29
+2020-11-10,No data,58,No data,12,No data,20
+2020-11-11,No data,15,No data,6,No data,10
+2020-11-12,No data,22,No data,4,No data,10
+2020-11-13,No data,23,No data,6,No data,13
+2020-11-14,No data,14,No data,6,No data,11
+2020-11-15,No data,11,No data,4,No data,8
+2020-11-16,No data,26,No data,6,No data,14
+2020-11-17,No data,11,No data,5,No data,13
+2020-11-18,No data,19,No data,6,No data,12
+2020-11-19,No data,79,No data,9,No data,17
+2020-11-20,No data,25,No data,4,No data,9
+2020-11-21,No data,27,No data,5,No data,12
+2020-11-22,No data,23,No data,6,No data,16
+2020-11-23,No data,20,No data,4,No data,10
+2020-11-24,No data,14,No data,5,No data,9
+2020-11-25,No data,65,No data,8,No data,18
+2020-11-26,No data,100,No data,15,No data,29
+2020-11-27,No data,60,No data,10,No data,22
+2020-11-28,No data,99,No data,12,No data,22
+2020-11-29,No data,62,No data,31,No data,36
+2020-11-30,No data,52,No data,10,No data,16
+2020-12-01,No data,165,No data,11,No data,18
+2020-12-02,No data,44,No data,6,No data,13
+2020-12-03,No data,68,No data,5,No data,8
+2020-12-04,No data,87,No data,4,No data,8
+2020-12-05,No data,175,No data,15,No data,21
+2020-12-06,No data,133,No data,21,No data,24
+2020-12-07,No data,108,No data,11,No data,15
+2020-12-08,No data,67,No data,5,No data,8
+2020-12-09,No data,39,No data,6,No data,11
+2020-12-10,No data,29,No data,9,No data,12
+2020-12-11,No data,133,No data,9,No data,13
+2020-12-12,No data,70,No data,10,No data,14
+2020-12-13,No data,14,No data,4,No data,7
+2020-12-14,No data,24,No data,6,No data,10
+2020-12-15,No data,26,No data,8,No data,14
+2020-12-16,No data,20,No data,5,No data,10
+2020-12-17,No data,23,No data,3,No data,12
+2020-12-18,No data,34,No data,4,No data,6
+2020-12-19,No data,19,No data,4,No data,10
+2020-12-20,No data,13,No data,5,No data,14
+2020-12-21,No data,105,No data,10,No data,17
+2020-12-22,No data,90,No data,10,No data,17
+2020-12-23,No data,82,No data,5,No data,No data
+2020-12-24,No data,81,No data,4,No data,No data
+2020-12-25,No data,28,No data,6,No data,No data
+2020-12-26,No data,7,No data,3,No data,No data
+2020-12-27,No data,24,No data,4,No data,No data
+2020-12-28,No data,53,No data,11,No data,No data
+2020-12-29,No data,95,No data,12,No data,No data
+2020-12-30,No data,220,No data,29,No data,No data
+2020-12-31,No data,128,No data,22,No data,No data
+2021-01-01,No data,48,No data,8,No data,12
+2021-01-02,No data,133,No data,15,No data,19
+2021-01-03,No data,91,No data,6,No data,10
+2021-01-04,No data,228,No data,10,No data,15
+2021-01-05,No data,161,No data,8,No data,11
+2021-01-06,No data,223,No data,21,No data,26
+2021-01-07,No data,106,No data,19,No data,24
+2021-01-08,No data,128,No data,15,No data,20
+2021-01-09,No data,115,No data,21,No data,27
+2021-01-10,No data,17,No data,7,No data,14
+2021-01-11,No data,23,No data,4,No data,12
+2021-01-12,No data,107,No data,11,No data,16
+2021-01-13,No data,133,No data,13,No data,17
+2021-01-14,No data,113,No data,8,No data,12
+2021-01-15,No data,55,No data,12,No data,17
+2021-01-16,No data,23,No data,6,No data,14
+2021-01-17,No data,16,No data,4,No data,14
+2021-01-18,No data,28,No data,5,No data,12
+2021-01-19,No data,88,No data,6,No data,9
+2021-01-20,No data,92,No data,6,No data,10
+2021-01-21,No data,33,No data,4,No data,10
+2021-01-22,No data,48,No data,5,No data,11
+2021-01-23,No data,136,No data,20,No data,24
+2021-01-24,No data,139,No data,26,No data,30
+2021-01-25,No data,64,No data,9,No data,17
+2021-01-26,No data,50,No data,9,No data,13
+2021-01-27,No data,108,No data,No data,No data,No data
+2021-01-28,No data,67,No data,No data,No data,No data
+2021-01-29,No data,76,No data,No data,No data,No data
+2021-01-30,No data,41,No data,No data,No data,No data
+2021-01-31,No data,52,No data,No data,No data,No data
+2021-02-01,No data,134,No data,No data,No data,No data
+2021-02-02,No data,32,No data,2,No data,6
+2021-02-03,No data,46,No data,3,No data,4
+2021-02-04,No data,No data,No data,No data,No data,No data
+2021-02-05,No data,No data,No data,No data,No data,No data
+2021-02-06,No data,36,No data,4,No data,7
+2021-02-07,No data,26,No data,5,No data,15
+2021-02-08,No data,67,No data,3,No data,11
+2021-02-09,No data,106,No data,6,No data,18
+2021-02-10,No data,123,No data,7,No data,19
+2021-02-11,No data,81,No data,9,No data,19
+2021-02-12,No data,34,No data,8,No data,19
+2021-02-13,No data,13,No data,7,No data,19
+2021-02-14,No data,10,No data,7,No data,12
+2021-02-15,No data,41,No data,9,No data,15
+2021-02-16,No data,24,No data,9,No data,15
+2021-02-17,No data,16,No data,7,No data,15
+2021-02-18,No data,19,No data,6,No data,9
+2021-02-19,No data,14,No data,4,No data,7
+2021-02-20,No data,11,No data,7,No data,8
+2021-02-21,No data,11,No data,8,No data,18
+2021-02-22,No data,41,No data,8,No data,18
+2021-02-23,No data,13,No data,8,No data,28
+2021-02-24,No data,30,No data,8,No data,25
+2021-02-25,No data,31,No data,11,No data,23
+2021-02-26,No data,73,No data,9,No data,22
+2021-02-27,No data,81,No data,12,No data,26
+2021-02-28,No data,59,No data,17,No data,26
+2021-03-01,No data,105,No data,28,No data,41
+2021-03-02,No data,101,No data,19,No data,34
+2021-03-03,No data,72,No data,20,No data,29
+2021-03-04,No data,97,No data,No data,No data,21
+2021-03-05,No data,81,No data,No data,No data,24
+2021-03-06,No data,49,No data,14,No data,25
+2021-03-07,No data,44,No data,17,No data,31
+2021-03-08,No data,37,No data,14,No data,21
+2021-03-09,No data,27,No data,11,No data,15
+2021-03-10,No data,37,No data,7,No data,12
+2021-03-11,No data,29,No data,9,No data,18
+2021-03-12,No data,28,No data,5,No data,14
+2021-03-13,No data,39,No data,5,No data,8
+2021-03-14,No data,33,No data,7,No data,10
+2021-03-15,No data,59,No data,10,No data,18
+2021-03-16,No data,48,No data,11,No data,22
+2021-03-17,No data,68,No data,12,No data,32
+2021-03-18,No data,94,No data,12,No data,31
+2021-03-19,No data,76,No data,8,No data,18
+2021-03-20,No data,33,No data,7,No data,10
+2021-03-21,No data,28,No data,7,No data,11
+2021-03-22,No data,46,No data,7,No data,14
+2021-03-23,No data,17,No data,9,No data,21
+2021-03-24,No data,21,No data,8,No data,19
+2021-03-25,No data,16,No data,8,No data,12
+2021-03-26,No data,24,No data,6,No data,11
+2021-03-27,No data,18,No data,7,No data,14
+2021-03-28,No data,8,No data,9,No data,6
+2021-03-29,No data,12,No data,8,No data,13
+2021-03-30,No data,52,No data,13,No data,22
+2021-03-31,No data,72,No data,17,No data,30
+2021-04-01,No data,55,No data,5,No data,14
+2021-04-02,No data,56,No data,7,No data,19
+2021-04-03,No data,50,No data,11,No data,21
+2021-04-04,No data,23,No data,12,No data,20
+2021-04-05,No data,23,No data,4,No data,11
+2021-04-06,No data,51,No data,5,No data,20
+2021-04-07,No data,60,No data,6,No data,18
+2021-04-08,No data,28,No data,7,No data,26
+2021-04-09,No data,56,No data,7,No data,24
+2021-04-10,No data,56,No data,5,No data,14
+2021-04-11,No data,34,No data,4,No data,14
+2021-04-12,No data,76,No data,7,No data,19
+2021-04-13,No data,59,No data,8,No data,19
+2021-04-14,No data,76,No data,10,No data,21
+2021-04-15,No data,74,No data,10,No data,24
+2021-04-16,No data,86,No data,15,No data,29
+2021-04-17,No data,65,No data,18,No data,29
+2021-04-18,No data,47,No data,20,No data,34
+2021-04-19,No data,63,No data,26,No data,39
+2021-04-20,No data,82,No data,23,No data,37
+2021-04-21,No data,54,No data,9,No data,21
+2021-04-22,No data,75,No data,11,No data,35
+2021-04-23,No data,69,No data,13,No data,27
+2021-04-24,No data,45,No data,17,No data,30
+2021-04-25,No data,28,No data,9,No data,14
+2021-04-26,No data,42,No data,13,No data,26
+2021-04-27,No data,57,No data,8,No data,20
+2021-04-28,No data,63,No data,10,No data,25
+2021-04-29,No data,68,No data,8,No data,18
+2021-04-30,No data,78,No data,8,No data,21
+2021-05-01,No data,51,No data,7,No data,12
+2021-05-02,No data,26,No data,8,No data,11
+2021-05-03,No data,13,No data,6,No data,9
+2021-05-04,No data,55,No data,8,No data,10
+2021-05-05,No data,61,No data,8,No data,18
+2021-05-06,No data,55,No data,6,No data,17
+2021-05-07,No data,47,No data,8,No data,16
+2021-05-08,No data,37,No data,8,No data,11
+2021-05-09,No data,19,No data,10,No data,15
+2021-05-10,No data,14,No data,8,No data,12
+2021-05-11,No data,28,No data,9,No data,17
+2021-05-12,No data,55,No data,10,No data,17
+2021-05-13,No data,73,No data,12,No data,22
+2021-05-14,No data,59,No data,10,No data,18
+2021-05-15,No data,37,No data,15,No data,20
+2021-05-16,No data,47,No data,13,No data,16
+2021-05-17,No data,59,No data,12,No data,19
+2021-05-18,No data,47,No data,7,No data,13
+2021-05-19,No data,53,No data,8,No data,16
+2021-05-20,No data,17,No data,7,No data,9
+2021-05-21,No data,46,No data,7,No data,10
+2021-05-22,No data,44,No data,5,No data,9
+2021-05-23,No data,9,No data,6,No data,7
+2021-05-24,No data,37,No data,6,No data,10
+2021-05-25,No data,52,No data,7,No data,15
+2021-05-26,No data,60,No data,8,No data,15
+2021-05-27,No data,65,No data,11,No data,18
+2021-05-28,No data,66,No data,12,No data,20
+2021-05-29,No data,61,No data,20,No data,27
+2021-05-30,No data,28,No data,18,No data,23
+2021-05-31,No data,22,No data,15,No data,22
+2021-06-01,No data,18,No data,16,No data,26
+2021-06-02,No data,50,No data,19,No data,27
+2021-06-03,No data,53,No data,16,No data,25
+2021-06-04,No data,37,No data,7,No data,14
+2021-06-05,No data,42,No data,10,No data,15
+2021-06-06,No data,25,No data,7,No data,10
+2021-06-07,No data,46,No data,12,No data,19
+2021-06-08,No data,25,No data,9,No data,14
+2021-06-09,No data,21,No data,7,No data,11
+2021-06-10,No data,26,No data,8,No data,11
+2021-06-11,No data,27,No data,10,No data,17
+2021-06-12,No data,29,No data,9,No data,14
+2021-06-13,No data,20,No data,9,No data,14
+2021-06-14,No data,37,No data,10,No data,16
+2021-06-15,No data,27,No data,9,No data,17
+2021-06-16,No data,41,No data,9,No data,11
+2021-06-17,No data,45,No data,11,No data,17
+2021-06-18,No data,47,No data,11,No data,17
+2021-06-19,No data,30,No data,11,No data,17
+2021-06-20,No data,28,No data,11,No data,15
+2021-06-21,No data,No data,No data,No data,No data,No data
+2021-06-22,No data,No data,No data,No data,No data,No data
+2021-06-23,No data,No data,No data,No data,No data,No data
+2021-06-24,No data,No data,No data,No data,No data,No data
+2021-06-25,No data,No data,No data,No data,No data,No data
+2021-06-26,No data,No data,No data,No data,No data,No data
+2021-06-27,No data,No data,No data,No data,No data,No data
+2021-06-28,No data,No data,No data,No data,No data,No data
+2021-06-29,No data,No data,No data,No data,No data,No data
+2021-06-30,No data,No data,No data,No data,No data,No data
+2021-07-01,No data,No data,No data,No data,No data,No data
+2021-07-02,No data,No data,No data,No data,No data,No data
+2021-07-03,No data,No data,No data,No data,No data,No data
+2021-07-04,No data,No data,No data,No data,No data,No data
+2021-07-05,No data,No data,No data,No data,No data,No data
+2021-07-06,No data,No data,No data,No data,No data,No data
+2021-07-07,No data,No data,No data,No data,No data,No data
+2021-07-08,No data,No data,No data,No data,No data,No data
+2021-07-09,No data,No data,No data,No data,No data,No data
+2021-07-10,No data,No data,No data,No data,No data,No data
+2021-07-11,No data,No data,No data,No data,No data,No data
+2021-07-12,No data,No data,No data,No data,No data,No data
+2021-07-13,No data,No data,No data,No data,No data,No data
+2021-07-14,No data,No data,No data,No data,No data,No data
+2021-07-15,No data,No data,No data,No data,No data,No data
+2021-07-16,No data,No data,No data,No data,No data,No data
+2021-07-17,No data,No data,No data,No data,No data,No data
+2021-07-18,No data,No data,No data,No data,No data,No data
+2021-07-19,No data,No data,No data,No data,No data,No data
+2021-07-20,No data,No data,No data,No data,No data,No data
+2021-07-21,No data,No data,No data,No data,No data,No data
+2021-07-22,No data,No data,No data,No data,No data,No data
+2021-07-23,No data,No data,No data,No data,No data,No data
+2021-07-24,No data,No data,No data,No data,No data,No data
+2021-07-25,No data,No data,No data,No data,No data,No data
+2021-07-26,No data,No data,No data,No data,No data,No data
+2021-07-27,No data,No data,No data,No data,No data,No data
+2021-07-28,No data,No data,No data,No data,No data,No data
+2021-07-29,No data,No data,No data,No data,No data,No data
+2021-07-30,No data,No data,No data,No data,No data,No data
+2021-07-31,No data,No data,No data,No data,No data,No data
+2021-08-01,No data,No data,No data,No data,No data,No data
+2021-08-02,No data,No data,No data,No data,No data,No data
+2021-08-03,No data,No data,No data,No data,No data,No data
+2021-08-04,No data,No data,No data,No data,No data,No data
+2021-08-05,No data,No data,No data,No data,No data,No data
+2021-08-06,No data,No data,No data,No data,No data,No data
+2021-08-07,No data,No data,No data,No data,No data,No data
+2021-08-08,No data,No data,No data,No data,No data,No data
+2021-08-09,No data,No data,No data,No data,No data,No data
+2021-08-10,No data,No data,No data,No data,No data,No data
+2021-08-11,No data,No data,No data,No data,No data,No data
+2021-08-12,No data,No data,No data,No data,No data,No data
+2021-08-13,No data,No data,No data,No data,No data,No data
+2021-08-14,No data,No data,No data,No data,No data,No data
+2021-08-15,No data,No data,No data,No data,No data,No data
+2021-08-16,No data,No data,No data,No data,No data,No data
+2021-08-17,No data,No data,No data,No data,No data,No data
+2021-08-18,No data,No data,No data,No data,No data,No data
+2021-08-19,No data,No data,No data,No data,No data,No data
+2021-08-20,No data,No data,No data,No data,No data,No data
+2021-08-21,No data,No data,No data,No data,No data,No data
+2021-08-22,No data,No data,No data,No data,No data,No data
+2021-08-23,No data,No data,No data,No data,No data,No data
+2021-08-24,No data,No data,No data,No data,No data,No data
+2021-08-25,No data,No data,No data,No data,No data,No data
+2021-08-26,No data,No data,No data,No data,No data,No data
+2021-08-27,No data,No data,No data,No data,No data,No data
+2021-08-28,No data,No data,No data,No data,No data,No data
+2021-08-29,No data,No data,No data,No data,No data,No data
+2021-08-30,No data,No data,No data,No data,No data,No data
+2021-08-31,No data,No data,No data,No data,No data,No data
+2021-09-01,No data,No data,No data,No data,No data,No data
+2021-09-02,No data,No data,No data,No data,No data,No data
+2021-09-03,No data,No data,No data,No data,No data,No data
+2021-09-04,No data,No data,No data,No data,No data,No data
+2021-09-05,No data,No data,No data,No data,No data,No data
+2021-09-06,No data,No data,No data,No data,No data,No data
+2021-09-07,No data,No data,No data,No data,No data,No data
+2021-09-08,No data,No data,No data,No data,No data,No data
+2021-09-09,No data,No data,No data,No data,No data,No data
+2021-09-10,No data,No data,No data,No data,No data,No data
+2021-09-11,No data,No data,No data,No data,No data,No data
+2021-09-12,No data,No data,No data,No data,No data,No data
+2021-09-13,No data,No data,No data,No data,No data,No data
+2021-09-14,No data,No data,No data,No data,No data,No data
+2021-09-15,No data,No data,No data,No data,No data,No data
+2021-09-16,No data,No data,No data,No data,No data,No data
+2021-09-17,No data,No data,No data,No data,No data,No data
+2021-09-18,No data,No data,No data,No data,No data,No data
+2021-09-19,No data,No data,No data,No data,No data,No data
+2021-09-20,No data,No data,No data,No data,No data,No data
+2021-09-21,No data,No data,No data,No data,No data,No data
+2021-09-22,No data,No data,No data,No data,No data,No data
+2021-09-23,No data,No data,No data,No data,No data,No data
+2021-09-24,No data,No data,No data,No data,No data,No data
+2021-09-25,No data,No data,No data,No data,No data,No data
+2021-09-26,No data,No data,No data,No data,No data,No data
+2021-09-27,No data,No data,No data,No data,No data,No data
+2021-09-28,No data,No data,No data,No data,No data,No data
+2021-09-29,No data,No data,No data,No data,No data,No data
+2021-09-30,No data,No data,No data,No data,No data,No data
+2021-10-01,8,No data,4,No data,11,No data
+2021-10-02,12,No data,4,No data,4,No data
+2021-10-03,5,No data,4,No data,6,No data
+2021-10-04,10,No data,4,No data,6,No data
+2021-10-05,15,No data,3,No data,5,No data
+2021-10-06,19,No data,4,No data,6,No data
+2021-10-07,8,No data,2,No data,3,No data
+2021-10-08,34,No data,7,No data,10,No data
+2021-10-09,19,No data,10,No data,10,No data
+2021-10-10,14,No data,6,No data,8,No data
+2021-10-11,15,No data,5,No data,11,No data
+2021-10-12,No data,No data,5,No data,6,No data
+2021-10-13,No data,No data,No data,No data,7,No data
+2021-10-14,10,No data,No data,No data,12,No data
+2021-10-15,52,No data,8,No data,11,No data
+2021-10-16,40,No data,14,No data,16,No data
+2021-10-17,10,No data,6,No data,7,No data
+2021-10-18,14,No data,8,No data,8,No data
+2021-10-19,11,No data,8,No data,10,No data
+2021-10-20,15,No data,8,No data,15,No data
+2021-10-21,16,No data,6,No data,10,No data
+2021-10-22,17,No data,7,No data,8,No data
+2021-10-23,7,No data,6,No data,5,No data
+2021-10-24,5,No data,9,No data,No data,No data
+2021-10-25,11,No data,No data,No data,No data,No data
+2021-10-26,6,No data,No data,No data,No data,No data
+2021-10-27,5,No data,No data,No data,No data,No data
+2021-10-28,12,No data,6,No data,No data,No data
+2021-10-29,14,No data,4,No data,No data,No data
+2021-10-30,12,No data,8,No data,No data,No data
+2021-10-31,7,No data,7,No data,No data,No data
+2021-11-01,12,No data,8,No data,No data,No data
+2021-11-02,37,No data,8,No data,12,No data
+2021-11-03,40,No data,10,No data,12,No data
+2021-11-04,44,No data,8,No data,11,No data
+2021-11-05,20,No data,7,No data,9,No data
+2021-11-06,6,No data,8,No data,12,No data
+2021-11-07,8,No data,10,No data,24,No data
+2021-11-08,14,No data,8,No data,11,No data
+2021-11-09,16,No data,9,No data,13,No data
+2021-11-10,31,No data,10,No data,21,No data
+2021-11-11,15,No data,7,No data,8,No data
+2021-11-12,8,No data,7,No data,8,No data
+2021-11-13,46,No data,12,No data,17,No data
+2021-11-14,25,No data,14,No data,14,No data
+2021-11-15,37,No data,17,No data,17,No data
+2021-11-16,12,No data,8,No data,11,No data
+2021-11-17,13,No data,9,No data,16,No data
+2021-11-18,9,No data,7,No data,11,No data
+2021-11-19,11,No data,6,No data,11,No data
+2021-11-20,14,No data,6,No data,8,No data
+2021-11-21,37,No data,8,No data,11,No data
+2021-11-22,61,No data,9,No data,10,No data
+2021-11-23,28,No data,6,No data,6,No data
+2021-11-24,26,No data,7,No data,10,No data
+2021-11-25,32,No data,7,No data,13,No data
+2021-11-26,21,No data,5,No data,8,No data
+2021-11-27,16,No data,5,No data,11,No data
+2021-11-28,40,No data,7,No data,8,No data
+2021-11-29,42,No data,9,No data,9,No data
+2021-11-30,11,No data,5,No data,4,No data
+2021-12-01,23,No data,No data,No data,12,No data
+2021-12-02,23,No data,No data,No data,12,No data
+2021-12-03,20,No data,No data,No data,12,No data
+2021-12-04,15,No data,No data,No data,5,No data
+2021-12-05,31,No data,No data,No data,16,No data
+2021-12-06,15,No data,No data,No data,9,No data
+2021-12-07,9,No data,No data,No data,7,No data
+2021-12-08,34,No data,No data,No data,5,No data
+2021-12-09,22,No data,No data,No data,9,No data
+2021-12-10,31,No data,No data,No data,8,No data
+2021-12-11,17,No data,6,No data,9,No data
+2021-12-12,21,No data,8,No data,10,No data
+2021-12-13,No data,No data,9,No data,14,No data
+2021-12-14,No data,No data,8,No data,10,No data
+2021-12-15,No data,No data,7,No data,11,No data
+2021-12-16,No data,No data,10,No data,17,No data
+2021-12-17,No data,No data,28,No data,34,No data
+2021-12-18,No data,No data,31,No data,33,No data
+2021-12-19,No data,No data,18,No data,16,No data
+2021-12-20,No data,No data,15,No data,16,No data
+2021-12-21,No data,No data,16,No data,25,No data
+2021-12-22,No data,No data,23,No data,24,No data
+2021-12-23,No data,No data,16,No data,17,No data
+2021-12-24,No data,No data,8,No data,7,No data
+2021-12-25,No data,No data,7,No data,10,No data
+2021-12-26,No data,No data,6,No data,5,No data
+2021-12-27,No data,No data,12,No data,10,No data
+2021-12-28,No data,No data,9,No data,8,No data
+2021-12-29,No data,No data,12,No data,18,No data
+2021-12-30,No data,No data,7,No data,7,No data
+2021-12-31,No data,No data,12,No data,22,No data
+2022-01-01,3,No data,14,No data,23,No data
+2022-01-02,4,No data,11,No data,22,No data
+2022-01-03,9,No data,10,No data,17,No data
+2022-01-04,25,No data,7,No data,12,No data
+2022-01-05,42,No data,10,No data,19,No data
+2022-01-06,11,No data,7,No data,9,No data
+2022-01-07,24,No data,6,No data,6,No data
+2022-01-08,12,No data,6,No data,9,No data
+2022-01-09,12,No data,9,No data,15,No data
+2022-01-10,14,No data,8,No data,9,No data
+2022-01-11,32,No data,9,No data,18,No data
+2022-01-12,16,No data,9,No data,16,No data
+2022-01-13,16,No data,8,No data,14,No data
+2022-01-14,28,No data,10,No data,11,No data
+2022-01-15,40,No data,18,No data,17,No data
+2022-01-16,17,No data,11,No data,15,No data
+2022-01-17,34,No data,8,No data,14,No data
+2022-01-18,21,No data,13,No data,16,No data
+2022-01-19,17,No data,8,No data,15,No data
+2022-01-20,54,No data,12,No data,18,No data
+2022-01-21,30,No data,8,No data,11,No data
+2022-01-22,14,No data,7,No data,8,No data
+2022-01-23,13,No data,8,No data,12,No data
+2022-01-24,38,No data,20,No data,30,No data
+2022-01-25,23,No data,24,No data,35,No data
+2022-01-26,12,No data,11,No data,17,No data
+2022-01-27,17,No data,7,No data,12,No data
+2022-01-28,13,No data,8,No data,11,No data
+2022-01-29,8,No data,8,No data,18,No data
+2022-01-30,9,No data,6,No data,12,No data
+2022-01-31,16,No data,5,No data,16,No data
+2022-02-01,9,No data,13,No data,22,No data
+2022-02-02,12,No data,8,No data,11,No data
+2022-02-03,10,No data,8,No data,11,No data
+2022-02-04,15,No data,6,No data,10,No data
+2022-02-05,7,No data,6,No data,11,No data
+2022-02-06,7,No data,6,No data,8,No data
+2022-02-07,14,No data,7,No data,12,No data
+2022-02-08,15,No data,5,No data,9,No data
+2022-02-09,15,No data,6,No data,12,No data
+2022-02-10,23,No data,7,No data,No data,No data
+2022-02-11,25,No data,6,No data,No data,No data
+2022-02-12,No data,No data,6,No data,No data,No data
+2022-02-13,No data,No data,5,No data,No data,No data
+2022-02-14,No data,No data,6,No data,No data,No data
+2022-02-15,34,No data,8,No data,No data,No data
+2022-02-16,14,No data,11,No data,No data,No data
+2022-02-17,12,No data,No data,No data,No data,No data
+2022-02-18,9,No data,No data,No data,No data,No data
+2022-02-19,18,No data,No data,No data,No data,No data
+2022-02-20,5,No data,No data,No data,No data,No data
+2022-02-21,12,No data,No data,No data,No data,No data
+2022-02-22,12,No data,9,No data,No data,No data
+2022-02-23,6,No data,7,No data,No data,No data
+2022-02-24,12,No data,6,No data,No data,No data
+2022-02-25,14,No data,7,No data,No data,No data
+2022-02-26,6,No data,9,No data,13,No data
+2022-02-27,8,No data,11,No data,14,No data
+2022-02-28,16,No data,10,No data,11,No data
+2022-03-01,43,No data,11,No data,16,No data
+2022-03-02,17,No data,15,No data,15,No data
+2022-03-03,36,No data,26,No data,24,No data
+2022-03-04,35,No data,8,No data,9,No data
+2022-03-05,36,No data,9,No data,15,No data
+2022-03-06,25,No data,10,No data,14,No data
+2022-03-07,13,No data,9,No data,11,No data
+2022-03-08,13,No data,23,No data,27,No data
+2022-03-09,7,No data,11,No data,15,No data
+2022-03-10,10,No data,9,No data,12,No data
+2022-03-11,10,No data,16,No data,17,No data
+2022-03-12,7,No data,8,No data,9,No data
+2022-03-13,4,No data,10,No data,11,No data
+2022-03-14,9,No data,8,No data,13,No data
+2022-03-15,10,No data,10,No data,14,No data
+2022-03-16,24,No data,12,No data,14,No data
+2022-03-17,11,No data,9,No data,14,No data
+2022-03-18,21,No data,13,No data,21,No data
+2022-03-19,9,No data,12,No data,14,No data
+2022-03-20,8,No data,18,No data,23,No data
+2022-03-21,23,No data,30,No data,40,No data
+2022-03-22,24,No data,34,No data,45,No data
+2022-03-23,30,No data,42,No data,52,No data
+2022-03-24,39,No data,37,No data,49,No data
+2022-03-25,No data,No data,34,No data,43,No data
+2022-03-26,No data,No data,24,No data,30,No data
+2022-03-27,No data,No data,19,No data,23,No data
+2022-03-28,No data,No data,20,No data,23,No data
+2022-03-29,No data,No data,22,No data,24,No data
+2022-03-30,No data,No data,5,No data,7,No data
+2022-03-31,No data,No data,6,No data,10,No data
+2022-04-01,No data,No data,6,No data,12,No data
+2022-04-02,No data,No data,8,No data,9,No data
+2022-04-03,No data,No data,6,No data,9,No data
+2022-04-04,No data,No data,5,No data,4,No data
+2022-04-05,No data,No data,8,No data,9,No data
+2022-04-06,No data,No data,8,No data,No data,No data
+2022-04-07,No data,No data,5,No data,No data,No data
+2022-04-08,24,No data,6,No data,No data,No data
+2022-04-09,16,No data,6,No data,14,No data
+2022-04-10,13,No data,7,No data,12,No data
+2022-04-11,11,No data,14,No data,22,No data
+2022-04-12,20,No data,25,No data,32,No data
+2022-04-13,15,No data,16,No data,21,No data
+2022-04-14,25,No data,10,No data,16,No data
+2022-04-15,16,No data,12,No data,19,No data
+2022-04-16,21,No data,16,No data,21,No data
+2022-04-17,10,No data,16,No data,20,No data
+2022-04-18,9,No data,5,No data,11,No data
+2022-04-19,14,No data,6,No data,12,No data
+2022-04-20,11,No data,9,No data,13,No data
+2022-04-21,10,No data,15,No data,22,No data
+2022-04-22,7,No data,11,No data,18,No data
+2022-04-23,7,No data,12,No data,21,No data
+2022-04-24,5,No data,8,No data,15,No data
+2022-04-25,9,No data,9,No data,14,No data
+2022-04-26,12,No data,8,No data,11,No data
+2022-04-27,12,No data,6,No data,16,No data
+2022-04-28,14,No data,11,No data,20,No data
+2022-04-29,18,No data,13,No data,22,No data
+2022-04-30,13,No data,15,No data,23,No data
+2022-05-01,10,No data,8,No data,12,No data
+2022-05-02,10,No data,10,No data,11,No data
+2022-05-03,17,No data,14,No data,18,No data
+2022-05-04,13,No data,8,No data,10,No data
+2022-05-05,11,No data,6,No data,11,No data
+2022-05-06,11,No data,7,No data,10,No data
+2022-05-07,11,No data,8,No data,13,No data
+2022-05-08,7,No data,12,No data,17,No data
+2022-05-09,7,No data,11,No data,17,No data
+2022-05-10,6,No data,8,No data,16,No data
+2022-05-11,8,No data,7,No data,15,No data
+2022-05-12,8,No data,6,No data,14,No data
+2022-05-13,8,No data,13,No data,27,No data
+2022-05-14,13,No data,16,No data,31,No data
+2022-05-15,8,No data,13,No data,22,No data
+2022-05-16,15,No data,10,No data,15,No data
+2022-05-17,11,No data,10,No data,17,No data
+2022-05-18,7,No data,9,No data,15,No data
+2022-05-19,14,No data,7,No data,18,No data
+2022-05-20,9,No data,6,No data,13,No data
+2022-05-21,7,No data,6,No data,14,No data
+2022-05-22,5,No data,5,No data,10,No data
+2022-05-23,11,No data,6,No data,13,No data
+2022-05-24,10,No data,5,No data,10,No data
+2022-05-25,7,No data,5,No data,11,No data
+2022-05-26,8,No data,7,No data,15,No data
+2022-05-27,10,No data,6,No data,18,No data
+2022-05-28,10,No data,4,No data,10,No data
+2022-05-29,8,No data,5,No data,8,No data
+2022-05-30,13,No data,6,No data,9,No data
+2022-05-31,21,No data,6,No data,11,No data
+2022-06-01,17,No data,7,No data,10,No data
+2022-06-02,12,No data,9,No data,11,No data
+2022-06-03,6,No data,9,No data,12,No data
+2022-06-04,6,No data,8,No data,13,No data
+2022-06-05,4,No data,8,No data,12,No data
+2022-06-06,13,No data,8,No data,12,No data
+2022-06-07,11,No data,9,No data,17,No data
+2022-06-08,9,No data,7,No data,14,No data
+2022-06-09,6,No data,8,No data,18,No data
+2022-06-10,5,No data,12,No data,32,No data
+2022-06-11,4,No data,10,No data,21,No data
+2022-06-12,4,No data,7,No data,18,No data
+2022-06-13,9,No data,8,No data,18,No data
+2022-06-14,12,No data,7,No data,15,No data
+2022-06-15,14,No data,7,No data,13,No data
+2022-06-16,16,No data,8,No data,18,No data
+2022-06-17,12,No data,9,No data,17,No data
+2022-06-18,8,No data,8,No data,19,No data
+2022-06-19,8,No data,8,No data,11,No data
+2022-06-20,12,No data,8,No data,14,No data
+2022-06-21,13,No data,8,No data,14,No data
+2022-06-22,11,No data,5,No data,9,No data
+2022-06-23,11,No data,7,No data,10,No data
+2022-06-24,15,No data,13,No data,16,No data
+2022-06-25,4,No data,6,No data,6,No data
+2022-06-26,3,No data,6,No data,9,No data
+2022-06-27,8,No data,6,No data,8,No data
+2022-06-28,6,No data,9,No data,13,No data
+2022-06-29,13,No data,6,No data,9,No data
+2022-06-30,19,No data,7,No data,10,No data
+2022-07-01,11,No data,7,No data,9,No data
+2022-07-02,7,No data,6,No data,10,No data
+2022-07-03,7,No data,6,No data,9,No data
+2022-07-04,11,No data,4,No data,7,No data
+2022-07-05,10,No data,5,No data,8,No data
+2022-07-06,7,No data,5,No data,9,No data
+2022-07-07,10,No data,4,No data,6,No data
+2022-07-08,9,No data,6,No data,8,No data
+2022-07-09,9,No data,5,No data,8,No data
+2022-07-10,7,No data,4,No data,6,No data
+2022-07-11,16,No data,9,No data,13,No data
+2022-07-12,9,No data,9,No data,15,No data
+2022-07-13,10,No data,6,No data,11,No data
+2022-07-14,11,No data,6,No data,10,No data
+2022-07-15,9,No data,6,No data,8,No data
+2022-07-16,11,No data,7,No data,9,No data
+2022-07-17,9,No data,9,No data,13,No data
+2022-07-18,22,No data,12,No data,20,No data
+2022-07-19,20,No data,14,No data,26,No data
+2022-07-20,13,No data,9,No data,15,No data
+2022-07-21,11,No data,5,No data,10,No data
+2022-07-22,7,No data,6,No data,9,No data
+2022-07-23,7,No data,8,No data,11,No data
+2022-07-24,3,No data,8,No data,12,No data
+2022-07-25,11,No data,7,No data,9,No data
+2022-07-26,15,No data,6,No data,6,No data
+2022-07-27,15,No data,No data,No data,No data,No data
+2022-07-28,17,No data,No data,No data,No data,No data
+2022-07-29,13,No data,No data,No data,No data,No data
+2022-07-30,9,No data,No data,No data,No data,No data
+2022-07-31,7,No data,No data,No data,No data,No data
+2022-08-01,8,No data,No data,No data,No data,No data
+2022-08-02,4,No data,4,No data,5,No data
+2022-08-03,7,No data,3,No data,10,No data
+2022-08-04,9,No data,4,No data,7,No data
+2022-08-05,10,No data,5,No data,9,No data
+2022-08-06,9,No data,6,No data,10,No data
+2022-08-07,7,No data,8,No data,17,No data
+2022-08-08,12,No data,7,No data,12,No data
+2022-08-09,13,No data,6,No data,11,No data
+2022-08-10,17,No data,6,No data,12,No data
+2022-08-11,21,No data,6,No data,12,No data
+2022-08-12,19,No data,9,No data,17,No data
+2022-08-13,8,No data,8,No data,12,No data
+2022-08-14,10,No data,11,No data,19,No data
+2022-08-15,22,No data,15,No data,19,No data
+2022-08-16,13,No data,6,No data,8,No data
+2022-08-17,6,No data,5,No data,10,No data
+2022-08-18,8,No data,6,No data,9,No data
+2022-08-19,7,No data,7,No data,14,No data
+2022-08-20,5,No data,6,No data,9,No data
+2022-08-21,6,No data,6,No data,9,No data
+2022-08-22,10,No data,7,No data,10,No data
+2022-08-23,14,No data,5,No data,8,No data
+2022-08-24,8,No data,10,No data,7,No data
+2022-08-25,17,No data,6,No data,10,No data
+2022-08-26,16,No data,7,No data,12,No data
+2022-08-27,15,No data,7,No data,11,No data
+2022-08-28,9,No data,7,No data,11,No data
+2022-08-29,4,No data,5,No data,8,No data
+2022-08-30,9,No data,4,No data,6,No data
+2022-08-31,14,No data,5,No data,8,No data
