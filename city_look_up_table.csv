@@ -1,0 +1,30 @@
+﻿CityCode,CityName,LTLACode,LTLAName,UTLACode,UTLAName,RegionCode,RegionName
+J01000007,Birmingham,E08000025,Birmingham,E08000025,Birmingham,E12000005,West Midlands
+J01000013,Bradford,E08000032,Bradford,E08000032,Bradford,E12000003,Yorkshire and The Humber
+J01000014,Brighton & Hove,E06000043,Brighton and Hove,E06000043,Brighton and Hove,E12000008,South East
+J01000015,Bristol,E06000023,"Bristol, City of",E06000023,"Bristol, City of",E12000008,South East
+J01000019,Cambridge,E07000008,Cambridge,E10000003,Cambridgeshire,E12000006,East of England
+J01000021,Carlisle,E07000028,Carlisle,E10000006,Cumbria,E12000002,North West
+J01000028,Coventry,E08000026,Coventry,E08000026,Coventry,E12000005,West Midlands
+J01000031,Derby,E06000015,Derby,E06000015,Derby,E12000004,East Midlands
+J01000032,Doncaster,E08000017,Doncaster,E08000017,Doncaster,E12000003,Yorkshire and The Humber
+J01000035,Exeter,E07000041,Exeter,E10000008,Devon,E12000009,South West
+J01000051,Leeds,E08000035,Leeds,E08000035,Leeds,E12000003,Yorkshire and The Humber
+J01000052,Leicester,E06000016,Leicester,E06000016,Leicester,E12000004,East Midlands
+J01000053,Lincoln,E07000138,Lincoln,E10000019,Lincolnshire,E12000004,East Midlands
+J01000054,Liverpool,E08000012,Liverpool,E08000012,Liverpool,E12000002,North West
+J01000058,Manchester,E08000003,Manchester,E08000003,Manchester,E12000002,North West
+J01000062,Newcastle-upon-Tyne,E08000021,Newcastle upon Tyne,E08000021,Newcastle upon Tyne,E12000001,North East
+J01000066,Norwich,E07000148,Norwich,E10000020,Norfolk,E12000006,East of England
+J01000067,Nottingham,E06000018,Nottingham,E06000018,Nottingham,E12000004,East Midlands
+J01000070,Oxford,E07000178,Oxford,E10000025,Oxfordshire,E12000008,South East
+J01000072,Plymouth,E06000026,Plymouth,E06000026,Plymouth,E12000009,South West
+J01000074,Portsmouth,E06000044,Portsmouth,E06000044,Portsmouth,E12000008,South East
+J01000075,Preston,E07000123,Preston,E10000017,Lancashire,E12000002,North West
+J01000080,Salford,E08000006,Salford,E08000006,Salford,E12000002,North West
+J01000082,Sheffield,E08000019,Sheffield,E08000019,Sheffield,E12000003,Yorkshire and The Humber
+J01000087,Southampton,E06000045,Southampton,E06000045,Southampton,E12000008,South East
+J01000088,Southend-on-Sea,E06000033,Southend-on-Sea,E06000033,Southend-on-Sea,E12000006,East of England
+J01000095,Stoke on Trent,E06000021,Stoke-on-Trent,E06000021,Stoke-on-Trent,E12000005,West Midlands
+J01000096,Sunderland,E08000024,Sunderland,E08000024,Sunderland,E12000001,North East
+J01000112,York,E06000014,York,E06000014,York,E12000003,Yorkshire and The Humber
