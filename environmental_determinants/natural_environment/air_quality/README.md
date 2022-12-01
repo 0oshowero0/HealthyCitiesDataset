@@ -18,4 +18,4 @@ We use _Get measured data and simple statistics_ data tool to collect data. Spec
 
 For cities with more than one site, we preserve the measures in each site. We provide the site name and note in metadata.csv.
 
-The unit for data is V ugm-3.
+The unit for data is ugm-3.
