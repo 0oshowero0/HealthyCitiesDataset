@@ -6,7 +6,7 @@ This repo is the corresponding dataset discribed in Healthy Cities: A Comprehens
 
 ## Folder Structure
 ```none
-├── HealthCitiesDataset
+├── HealthyCitiesDataset
 │   ├── environmental_determinants
 │   │   ├── basic_statistics 
 │   │   │   ├── area
