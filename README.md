@@ -38,9 +38,9 @@ This repo is the corresponding dataset discribed in Healthy Cities: A Comprehens
 ```
 
 ## Additional Information
-For each subsection of the data, we provide detailed README file and metadata in corresponding folder. 
+For each subsection of the data, we provide detailed README file and metadata in corresponding folder.
 
-We also provide a comprehensiver data table that contains all the subsections in `all_data.csv.zip` (Please uncompress it first). The subsecitons are organized into a long table format with columns as follows:
+We also provide a comprehensive data table that contains all the subsections in `all_data.csv.zip` (Please uncompress it first). The subsecitons are organized into a long table format with columns as follows:
 | Column Name | Description | Example |
 | ------ | -----------|-----------|
 | TopCategory| The top category of the dataset.| HealthOutcome, EnvironmentalDeterminants|
