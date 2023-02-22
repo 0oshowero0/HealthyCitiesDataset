@@ -51,6 +51,5 @@ We also provide a comprehensive data table that contains all the subsections in 
 | MSOACode | Exclusive ID for each MSOA.| E02001834|
 | MSOAName | Name of the MSOA. |Birmingham 008 |
 | Time | Time of the data record. For those without timestamps, we fill `None` to this column.| 2019-01-01
-| Key | Specefic data identifier of the record. For dataset with more than three levels, it is used to depict specific category of the data (such as `WindSpeed` under `Weather` dataset). For dataset with different aggregation method or specifications, it depicts these side information (such as `Mean` for `HousePrice` and `Female` for `LifeExpectancy`) | ActualCost, Population, WindSpeed, PM2.5, Mean
-| Value | Value of the data record.| 
-
+| Key | Specifications of the record, such as  `Mean` for `HousePrice` and `Female` for `LifeExpectancy`) |  Mean, Female, PM2.5 |
+| Value | Value of the data record.| |
