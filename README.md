@@ -17,7 +17,7 @@ This repo is the code for generating the dataset discribed in Nature Scientific 
 │   │   ├── built_environment
 │   │   │   ├── house_price
 │   │   │   ├── building_density
-│   │   │   ├── rooad_density
+│   │   │   ├── road_density
 │   │   │   ├── street_view_features
 │   │   │   ├── walkability
 │   │   ├── natural_environment
