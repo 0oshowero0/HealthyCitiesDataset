@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo is the corresponding dataset discribed in Healthy Cities: A Comprehensive Dataset of Environmental Determinants of Health in England Cities.
+This repo is the code for generating the dataset discribed in Nature Scientific Data paper: [Healthy Cities, A comprehensive dataset for environmental determinants of health in England cities](https://www.nature.com/articles/s41597-023-02060-y).
 
 ## Folder Structure
 ```none
